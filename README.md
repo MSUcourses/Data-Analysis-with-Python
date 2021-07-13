@@ -340,7 +340,7 @@ Colab основан на *Jupyter Notebook* (о нем поговорим по�
 [2]: https://user-images.githubusercontent.com/28728575/124350977-fe9c6700-dbf7-11eb-9ffd-e66761f6d2e5.png
 [3]: https://www.youtube.com/watch?v=inN8seMm7UI
 [4]: https://colab.research.google.com/drive/1gtz6e4zcCqK4bSSeuiX12q5bomtO7q1n?authuser=1
-[5]: https://github.com/AlisherBlack/IDE-review/blob/main/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B5_%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE.ipynb
+[5]: https://github.com/MSUcourses/IDE-review/blob/main/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B5_%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE.ipynb
 [6]: https://jupyter.org/ 
 [7]: https://www.python.org/downloads/
 [8]: https://pip.pypa.io/en/stable/cli/
