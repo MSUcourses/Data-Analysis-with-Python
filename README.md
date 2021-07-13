@@ -20,8 +20,8 @@
 4. [Python](#python)  
    1. [PIP](#pip)
 3. [Jupyter](#jupyter)
-   2. [Установка](#jupyter_setup)
-   3. [Функционал](#jupyter_features)
+   1. [Установка](#jupyter_setup)
+   2. [Функционал](#jupyter_features)
 
 
 ## ⏳ Быстрое начало  <a name="start"></a>
