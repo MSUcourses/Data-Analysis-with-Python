@@ -15,8 +15,7 @@
 ## 📋 Содержание
 1. [Быстрое начало](#start)
 2. [Google Colaboratory](#colab)
-   1. [Описание](#colab)
-   2. [Функционал](#colab_features)
+   1. [Функционал](#colab_features)
 4. [Python](#python)  
    1. [PIP](#pip)
 3. [Jupyter](#jupyter)
