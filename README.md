@@ -222,7 +222,7 @@ Colab основан на *Jupyter Notebook* (о нем поговорим по�
     print("Мне %d лет!" %age)
     ```
 - Запустите файл (но перед этим сохраните) с помощью `Run→Run Module` или <kbd>F5</kbd>.
-     <img width="400" alt="Untitled-1" src="https://user-images.githubusercontent.com/28728575/125693688-9bff9e50-ef2b-4fa8-8673-0f5e9891b270.png">
+     <img width="500" alt="Untitled-1" src="https://user-images.githubusercontent.com/28728575/125693688-9bff9e50-ef2b-4fa8-8673-0f5e9891b270.png">
  
 ### PIP <a name="pip"></a>
 
