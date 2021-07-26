@@ -167,6 +167,11 @@ Colab основан на *Jupyter Notebook* (о нем поговорим по�
 
 <img height="250" alt="Screenshot 2021-07-03 at 12 12 16" src="https://user-images.githubusercontent.com/28728575/125459421-fe83516e-b459-49ef-94f5-b8bf59cfa643.png">
 </div>
+ 
+Для корректной работы на **Windows** перед установкой `Install Now` необходио нажать на `Add Python to PATH`.
+ 
+<img weight="400" alt="Screenshot 2021-07-03 at 12 12 16" src="https://user-images.githubusercontent.com/28728575/127037734-7f0d2ec3-9fe3-46c7-8ea6-c26f78188069.png">
+
 
 
 
