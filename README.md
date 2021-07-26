@@ -170,7 +170,9 @@ Colab основан на *Jupyter Notebook* (о нем поговорим по�
  
 Для корректной работы на **Windows** перед установкой `Install Now` необходио нажать на `Add Python to PATH`.
  
-<img weight="400" alt="Screenshot 2021-07-03 at 12 12 16" src="https://user-images.githubusercontent.com/28728575/127037734-7f0d2ec3-9fe3-46c7-8ea6-c26f78188069.png">
+<div align="center">
+<img width="400" alt="Screenshot 2021-07-03 at 12 12 16" src="https://user-images.githubusercontent.com/28728575/127037734-7f0d2ec3-9fe3-46c7-8ea6-c26f78188069.png">
+</div>
 
 
 
@@ -253,13 +255,14 @@ Colab основан на *Jupyter Notebook* (о нем поговорим по�
     <img width="400" alt="Screenshot 2021-07-03 at 12 09 57" src="https://user-images.githubusercontent.com/28728575/125447876-1ba39969-3ff3-40c8-9b68-635841c9d7c4.png">
 - **Windows**
     ```shell
-    python -m pip install -U pip
+    pip install --upgrade pip
     ```
     или
     ```shell
-    py -m pip install -U pip
+    pip install --upgrade pip
     ```
-    <img width="400" alt="Screenshot 2021-07-03 at 12 09 57" src="https://user-images.githubusercontent.com/28728575/126388394-db5de5f3-c1cd-4564-807c-d52952a59394.png">
+
+    <img width="400" alt="Screenshot 2021-07-03 at 12 09 57" src="https://user-images.githubusercontent.com/28728575/127038235-407c7c3e-a7aa-47a2-ac99-4e1053e1e740.png">
 
   
 #### Основные команды
