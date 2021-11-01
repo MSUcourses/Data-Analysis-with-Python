@@ -6,4 +6,6 @@
 - [Лекция 2](https://www.youtube.com/watch?v=JjRo5O7x6yM) | [скачать](https://drive.google.com/uc?export=download&id=1RsVGI1TJyBlQ-uYp7hl7wCyFkzYjWNu2)
 - [Лекция 3](https://www.youtube.com/watch?v=0rQvXvyv8sQ) | [скачать](https://drive.google.com/uc?export=download&id=1jduRq-nzEGo7cDe2DdDbs5olADKgEaT-)
 
-[Скачать все](https://drive.google.com/uc?export=download&id=1nJxEAletSlqAiTY2IZW7xIa74r0S6GDg)
+#### Конспект лекций
+
+[Скачасть все](https://drive.google.com/uc?export=download&id=19dJz4YzuLa5zRF4X4SBUrfw-pO-gFC_e)
