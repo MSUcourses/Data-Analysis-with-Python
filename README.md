@@ -8,4 +8,4 @@
 
 #### Конспект лекций
 
-[Скачасть все](https://drive.google.com/uc?export=download&id=19dJz4YzuLa5zRF4X4SBUrfw-pO-gFC_e)
+[Скачать все](https://drive.google.com/uc?export=download&id=19dJz4YzuLa5zRF4X4SBUrfw-pO-gFC_e)
