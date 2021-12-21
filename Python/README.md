@@ -20,7 +20,7 @@
 ](https://teach-in.ru/lecturer/hiryanov-tf)
 
 |Дата| Лекции | Семинары | Домашнии задания
-|:----:|----|:----:|
+|:----:|----|:----:|:----:|
 | 06.10.2021 | [Лекция 1](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_1_%D0%92%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F.ipynb). Введение| - | [ДЗ 1](https://contest.yandex.ru/contest/29359/problems/) |
 | 13.10.2021 | [Лекция 2](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_2_%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.ipynb). Работа с текстовыми данными| - | [ДЗ 2](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_2_%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.ipynb) |
 | 20.10.2021 | [Лекция 3](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_3_%D0%98%D1%82%D0%B5%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B.ipynb). Итерируемые объекты| [Семинар 1](./seminars) | [ДЗ 3](https://contest.yandex.ru/contest/28635/problems/)|
