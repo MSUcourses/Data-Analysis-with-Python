@@ -18,8 +18,8 @@
 
 Материалы доступны на GitHub.
 
-* [Конспекты лекций](https://github.com/AlisherBlack/IDE-review/tree/main/Python/lectures)
-* [Конспекты семинаров](https://github.com/AlisherBlack/IDE-review/tree/main/Python/seminars)
+* [Конспекты лекций](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python/lectures)
+* [Конспекты семинаров](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python/seminars)
 
 Также доступ к метериалам есть и на других платформах
 
