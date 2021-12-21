@@ -21,3 +21,7 @@
   - Eugene. E. Tyrtyshnikov, "Brief introduction to numerical analysis"
   - James W. Demmel, "Numerical Linear Algebra"
 
+
+## 📞 Contacts
+
+* [Telegram channel](https://t.me/mathdsmsu) key information on the course.
