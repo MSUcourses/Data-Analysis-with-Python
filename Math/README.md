@@ -24,4 +24,4 @@
 
 ## 📞 Contacts
 
-* [Telegram channel](https://t.me/mathdsmsu) key information on the course.
+* [Telegram channel](https://t.me/mathdsmsu) with key information on the course.
