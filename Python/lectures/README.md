@@ -16,7 +16,7 @@
 | 01.12.2021 | [Лекция 9](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_9_%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_Pandas_%D0%B8_NumPy.ipynb). Логика, numpy, бибилотека pandas| [ДЗ 9](https://contest.yandex.ru/contest/32536/problems/)|
 | 08.12.2021 | [Лекция 10](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_10_Pandas.ipynb). Бибилотека pandas| [ДЗ 10](https://contest.yandex.ru/contest/33383/problems/)|
 | 15.12.2021 | [Лекция 11](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_11_%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B8_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.ipynb). Поиск данных и введение в машинное обучение| - |
-| 2.12.2021 | [Лекция 12]. - | - |
+| 22.12.2021 | [Лекция 12](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_12_%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%B8%D0%B3%D0%BC%D1%8B_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.ipynb). Парадигмы программирования | - |
 
 
 ## ❓Часто задаваемые вопросы
