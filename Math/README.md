@@ -1,5 +1,9 @@
 # Математике для анализа данных
 
+<div align="center">
+<img width="1440" alt="math" src="https://user-images.githubusercontent.com/28728575/147373434-a89b2699-f478-40ce-88af-d43d2be3b453.png">
+</div>
+
 Этот курс является факультативом, первая часть состоит из 7 лекций и посвящена численной линейной алгебре.  Программа курса доступна по [ссылке](https://docs.google.com/document/d/1MMWJCG58Jklnxuza2bVVMZ-Emp-Q5eA27Da6pwnJzdU/edit?usp=sharing). 
 
 Преподаватели:
