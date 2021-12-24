@@ -17,6 +17,7 @@
 | 02.12.2021 | Lecture 4. Condition number. QR decomposition. Linear least-squares problem. [[GitHub](./lectures/lecture4/lecture4.ipynb)] | [Seminar 4](./seminars/seminar4/seminar4.ipynb) |
 | 09.12.2021 | Lecture 5. Sparse matrices and LU for them [[GitHub](./lectures/lecture5/lecture5.ipynb)] | [Seminar 5](./seminars/seminar5/seminar5.ipynb) |
 | 16.12.2021 | Lecture 6. Eigendecomposition. Schur theorem and QR algorithm [[GitHub](./lectures/lecture6/lecture6.ipynb)] | [Seminar 6](./seminars/seminar6/seminar6.ipynb)  |
+| 23.12.2021 | Lecture 7. Introduction to numerical methods for linear systems [[GitHub](./lectures/lecture7/lecture7.ipynb)] | [Seminar 7](./seminars/seminar7/seminar7.ipynb) | 
 
 ## References
 
