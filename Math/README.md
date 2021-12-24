@@ -1,4 +1,4 @@
-# Математике для анализа данных
+# 📚 Математика для анализа данных
 
 <div align="center">
 <img width="1440" alt="math" src="https://user-images.githubusercontent.com/28728575/147373434-a89b2699-f478-40ce-88af-d43d2be3b453.png">
@@ -23,7 +23,7 @@
 | 16.12.2021 | Lecture 6. Eigendecomposition. Schur theorem and QR algorithm [[GitHub](./lectures/lecture6/lecture6.ipynb)] | [Seminar 6](./seminars/seminar6/seminar6.ipynb)  |
 | 23.12.2021 | Lecture 7. Introduction to numerical methods for linear systems [[GitHub](./lectures/lecture7/lecture7.ipynb)] | [Seminar 7](./seminars/seminar7/seminar7.ipynb) | 
 
-## References
+## 📝 References
 
 * For beginners
   - [Basic cheat sheet](http://cs229.stanford.edu/section/cs229-linalg.pdf)
