@@ -1,8 +1,7 @@
 <div align="center">
-<img width="500" alt="math" src="https://user-images.githubusercontent.com/28728575/147373434-a89b2699-f478-40ce-88af-d43d2be3b453.png">
-
-<img width="500" alt="python" src="https://user-images.githubusercontent.com/28728575/147373436-a509b080-61c4-48f1-8998-de8987df534b.png">
+<img width="800" alt="main_page_2" src="https://user-images.githubusercontent.com/28728575/147373732-48ae166d-95b8-450a-92dd-27fbdbf50232.png">
 </div>
+
 
 В университете запускается серия курсов в области "Наука о данных". Основные материалы доступны на данной платформе.
 
