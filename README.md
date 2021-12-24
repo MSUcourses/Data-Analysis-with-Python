@@ -1,12 +1,10 @@
-# Курсы МГУ
+<div align="center">
+<img width="500" alt="math" src="https://user-images.githubusercontent.com/28728575/147373434-a89b2699-f478-40ce-88af-d43d2be3b453.png">
+
+<img width="500" alt="python" src="https://user-images.githubusercontent.com/28728575/147373436-a509b080-61c4-48f1-8998-de8987df534b.png">
+</div>
 
 В университете запускается серия курсов в области "Наука о данных". Основные материалы доступны на данной платформе.
-
-<div align="center">
-<img width="620" alt="math" src="https://user-images.githubusercontent.com/28728575/147373434-a89b2699-f478-40ce-88af-d43d2be3b453.png">
-
-<img width="620" alt="python" src="https://user-images.githubusercontent.com/28728575/147373436-a509b080-61c4-48f1-8998-de8987df534b.png">
-</div>
 
 ## 📋 Содержание
 
