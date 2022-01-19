@@ -41,7 +41,7 @@
 Также доступ к метериалам есть и на других платформах
 
 * [Видеозаписи лекций](https://www.youtube.com/watch?v=kxjr9OcxvlM&list=PLcsjsqLLSfNCB0yQMHoGsVFx2axpqjlSR)
-* Видеозаписи, конспекты, задачи и т. п. доступно на сайте [teach-in](https://teach-in.ru/course/python-programming-and-data-analysis-basics/lecture) 
+* Видеозаписи, конспекты, задачи и т. п. доступны на сайте [teach-in](https://teach-in.ru/course/python-programming-and-data-analysis-basics/lecture) 
 
 ## ❓Часто задаваемые вопросы
 
