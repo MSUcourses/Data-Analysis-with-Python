@@ -51,7 +51,7 @@
 	- [Codewars](https://www.codewars.com/users/Duneholy). Место, где можно практиковать технику написания кода, а также узнать чужие, более интересные
 * Для тех, кому мало 
 	- [Python. Functional Programming](https://stepik.org/course/2057/promo). Для практики объектно-ориентированного программирования, что является важным аспектом в Deep Learning и Data Science
-	- (Платный) [Netology. Python for data analysis](https://netology.ru/programs/python-for-analytics). Курс о библиотеках в Data Science, также советы менторов и собственный финальный проект
+	
 * Книги
 	- Марк Лутц: "Карманный справочник", "Изучаем Python", "Программирование на Python". \
 	  Данные книги дадут более глубокое понимание происходящего в языке
