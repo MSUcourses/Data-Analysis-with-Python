@@ -50,6 +50,8 @@
 	- [Leetcode](https://leetcode.com/duneholy/). Это своего рода решебник — задачи, которые дают на технических собеседованиях в крупных компаниях
 	- [Codewars](https://www.codewars.com/users/Duneholy). Место, где можно практиковать технику написания кода, а также узнать чужие, более интересные
 * Для тех, кому мало 
+	- Офиициальная документация по Python на [python.org](https://docs.python.org/3/)
+	- Учебник по Python на [w3schools.com](https://www.w3schools.com/python/). Данный сервис в большей степени справочник, а не обучающий курс. 
 	- [Python. Functional Programming](https://stepik.org/course/2057/promo). Для практики объектно-ориентированного программирования, что является важным аспектом в Deep Learning и Data Science
 	
 * Книги
