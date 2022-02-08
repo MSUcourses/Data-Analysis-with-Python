@@ -48,10 +48,11 @@
 * Сервисы для практики основных навыков
 	- [Stepic](https://stepik.org/course/512/). Тут не только базовые принципы языка Python, но и программирования в целом
 	- [Leetcode](https://leetcode.com/duneholy/). Это своего рода решебник — задачи, которые дают на технических собеседованиях в крупных компаниях
+	- [Check iO](checkio.org) — браузерная игра, где надо решать задачки на Python
 	- [Codewars](https://www.codewars.com/users/Duneholy). Место, где можно практиковать технику написания кода, а также узнать чужие, более интересные
 * Для тех, кому мало 
 	- Офиициальная документация по Python на [python.org](https://docs.python.org/3/)
-	- Учебник по Python на [w3schools.com](https://www.w3schools.com/python/). Данный сервис скорее не обучающий курс, а справочник, который удобно использовать как шпаргалку.
+	- Учебник по Python на [w3schools.com](https://www.w3schools.com/python/). Данный сервис скорее не обучающий курс, а справочник, который удобно использовать как шпаргалку
 	- [Python. Functional Programming](https://stepik.org/course/2057/promo). Для практики объектно-ориентированного программирования, что является важным аспектом в Deep Learning и Data Science
 	
 * Книги
@@ -59,6 +60,9 @@
 	  Данные книги дадут более глубокое понимание происходящего в языке
 	- Dan Bader: «Python Tricks». \
 	  Книга о различных тонких моментах и лайфаках
+* Готовимся к Data Science
+	- Джоэл Грас: "Data Science. Наука о данных с нуля"
+	- Ian Pointer: "Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications"
  
 ## ❓Часто задаваемые вопросы
 
