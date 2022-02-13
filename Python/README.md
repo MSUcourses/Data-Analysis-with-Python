@@ -61,6 +61,7 @@
 	- Dan Bader: «Python Tricks». \
 	  Книга о различных тонких моментах и лайфаках
 * Готовимся к Data Science
+	- Уэс Маккинни: «Python и анализ данных»
 	- Джоэл Грас: "Data Science. Наука о данных с нуля"
 	- Ian Pointer: "Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications"
  
