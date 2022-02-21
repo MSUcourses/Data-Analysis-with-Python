@@ -22,6 +22,8 @@
 | 09.12.2021 | Lecture 5. Sparse matrices and LU for them [[GitHub](./lectures/lecture5/lecture5.ipynb)] | [Seminar 5](./seminars/seminar5/seminar5.ipynb) |
 | 16.12.2021 | Lecture 6. Eigendecomposition. Schur theorem and QR algorithm [[GitHub](./lectures/lecture6/lecture6.ipynb)] | [Seminar 6](./seminars/seminar6/seminar6.ipynb)  |
 | 23.12.2021 | Lecture 7. Introduction to numerical methods for linear systems [[GitHub](./lectures/lecture7/lecture7.ipynb)] | [Seminar 7](./seminars/seminar7/seminar7.ipynb) | 
+| 10.02.2022 | Lecture 8. Intro to optimization methods. Random search and gradient descent [[GitHub](./lectures/lecture8/lecture8.ipynb)] | [Seminar 8](./seminars/seminar8/seminar8.ipynb) |
+| 17.02.2022 | Lecture 9. Gradient descent and heavy-ball method [[GitHub](./lectures/lecture9/lecture9.ipynb)] | [Seminar 9](./seminars/seminar9/seminar9.ipynb) |
 
 ## 📝 References
 
