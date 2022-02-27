@@ -61,6 +61,7 @@
 	- Dan Bader: «Python Tricks». \
 	  Книга о различных тонких моментах и лайфаках
 * Готовимся к Data Science
+	- [Учебник](https://ml-handbook.ru/) от Школы анализа данных Яндекса. Данная платформа предлагает широкий спектр информации в мире машинного обучения. От основ-основ до актуальных вопросов из недавних научных статей.
 	- Уэс Маккинни: «Python и анализ данных»
 	- Джоэл Грас: "Data Science. Наука о данных с нуля"
 	- Ian Pointer: "Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications"
