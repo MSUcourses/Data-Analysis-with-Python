@@ -24,6 +24,9 @@
 | 23.12.2021 | Lecture 7. Introduction to numerical methods for linear systems [[GitHub](./lectures/lecture7/lecture7.ipynb)] | [Seminar 7](./seminars/seminar7/seminar7.ipynb) | 
 | 10.02.2022 | Lecture 8. Intro to optimization methods. Random search and gradient descent [[GitHub](./lectures/lecture8/lecture8.ipynb)] | [Seminar 8](./seminars/seminar8/seminar8.ipynb) |
 | 17.02.2022 | Lecture 9. Gradient descent and heavy-ball method [[GitHub](./lectures/lecture9/lecture9.ipynb)] | [Seminar 9](./seminars/seminar9/seminar9.ipynb) |
+| 03.03.2022 | Lecture 10. Accelerated gradient method and Newton method [[GitHub](./lectures/lecture10/lecture10.ipynb)] | [Seminar 10](./seminars/seminar10/seminar10.ipynb) |
+| 10.03.2022 | Lecture 11. Intro to stochastic gradient methods [[GitHub](./lectures/lecture11/lecture11.ipynb)] | [Seminar 11](./seminars/seminar11/seminar11.ipynb) |
+| 17.03.2022 | Lecture 12. Quasi-Newton methods [[GitHub](./lectures/lecture12/lecture12.ipynb)] | [Seminar 12](./seminars/seminar12/seminar12.ipynb) |
 
 ## 📝 References
 
