@@ -5,4 +5,4 @@
 Лекции | Домашнии задания | Дедлайн сдачи
 |----|:----:|:----:|
 | - | [ДЗ 1](https://contest.yandex.ru/contest/35744/problems/ ) | - |
-| - | [ДЗ 2](https://contest.yandex.ru/contest/35454/problems/) | 27.03.2022, 23:59 |
+| - | [ДЗ 2](https://contest.yandex.ru/contest/35454/problems/) | `27.03.2022, 23:59` |
