@@ -13,3 +13,5 @@
 | - | [ДЗ 7](https://contest.yandex.ru/contest/37247/problems/) | `02.05.2022, 23:59` | `24.04.2022, 15:00` |
 | - | [Практическая задача](https://contest.yandex.ru/contest/37102/problems/ ) | `02.05.2022, 23:59` | `24.04.2022, 15:00` |
 | - | [ДЗ 8](https://contest.yandex.ru/contest/37477/problems/) | `09.05.2022, 23:59` | `24.04.2022, 15:00` |
+| - | [ДЗ 9](https://contest.yandex.ru/contest/37569/problems/) | `14.05.2022, 23:59` | `24.04.2022, 15:00` |
+| - | [ДЗ 10](https://contest.yandex.ru/contest/37750/problems/) | `15.05.2022, 23:59` |
