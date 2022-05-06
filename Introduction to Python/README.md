@@ -14,3 +14,4 @@
 | - | [ДЗ 8](https://contest.yandex.ru/contest/37468/problems) | `08.05.2022, 23:59` |  `24.04.2022, 15:00` |
 | - | [ДЗ 9](https://contest.yandex.ru/contest/37578/problems) | `14.05.2022, 23:59` |  `24.04.2022, 15:00` |
 | - | [ДЗ 10](https://contest.yandex.ru/contest/37751/problems) | `15.05.2022, 23:59` | - |
+| - | [ДЗ 11](https://contest.yandex.ru/contest/37830/problems/) | `15.05.2022, 23:59` | - |
