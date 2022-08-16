@@ -85,9 +85,10 @@
 wget -O <filename> "https://drive.google.com/uc?id=<document_id>&export=download"
 ```
 Здесь вместо <document_id> нужно вставить тот самый идентификатор документа id, который мы нашли в предыдущем пункте.
+<filename> - это имя, под которым скачанный файл будет сохранён в хранилище Google Colab.
 5. В нашем случае команда загрузки файла будет выглядеть следующим образом:
 
 ```
-wget -O <filename> "https://drive.google.com/uc?id=1WC6xdwubpBF9iKPHP13IhbmuFZR1qJ42&export=download"
+wget -O input.txt "https://drive.google.com/uc?id=1WC6xdwubpBF9iKPHP13IhbmuFZR1qJ42&export=download"
 ```
-6. После выполнения указанной команды файл автоматически будет загружен из хранилища Google-диск и разместится в хранилище Google Colab как обычный файл с именем, которое соответствует имени на Google-диске.
+6. После выполнения указанной команды файл автоматически будет загружен из хранилища Google-диск и разместится в хранилище Google Colab как обычный файл с именем, которое было указано в параметре <filename> (в нашем случае это `input.txt`).
