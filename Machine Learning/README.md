@@ -5,7 +5,6 @@
 Лекции | Домашние задания | Дедлайн сдачи
 |----|:----:|:----:|
 | - | - | - |- |
-| - | [ДЗ 2](https://contest.yandex.ru/contest/41359/problems/
-) | 30.10.2022 23:59 |
+| - | [ДЗ 2](https://contest.yandex.ru/contest/41359/problems/) | 30.10.2022 23:59 |
 
 
