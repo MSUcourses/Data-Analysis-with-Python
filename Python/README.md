@@ -25,18 +25,18 @@
 
 |Лекции| Конспекты | Домашние задания | Дедлайн сдачи
 |----|----|:----:|:----:|
-| [Лекция 1. Введение](https://youtu.be/kxjr9OcxvlM)| [Конспект 1](https://colab.research.google.com/drive/14CH88ceOlchi59c1AVuzQp55BlXKZoKq?usp=sharing)|[ДЗ 1](https://contest.yandex.ru/contest/40940/enter/) | 23.10.2022 23:59 |
-| [Лекция 2. Работа с текстовыми данными]| [Конспект 2](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_2_%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.ipynb)|[ДЗ 2](https://contest.yandex.ru/contest/41180) | 30.10.2022 23:59  |
-| [Лекция 3. Итерируемые объекты]| [Конспект 3](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_3_%D0%98%D1%82%D0%B5%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B.ipynb)| | |
-| [Лекция 4. Числовые данные]| [Конспект 4](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_4_%D0%A7%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.ipynb)| | |
-| [Лекция 5. Сортировка данных]| [Конспект 5](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_5_%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb)| | |
-| [Лекция 6. Частотный анализ]| [Конспект 6](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_6_%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.ipynb)| | |
-| [Лекция 7. Библиотека matplotlib]| [Конспект 7](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_7_Matplotlib.ipynb)| | |
-| [Лекция 8. Библиотека numpy]| [Конспект 8](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_8_NumPy.ipynb)| | |
-| [Лекция 9. Логика, numpy, библиотека pandas]| [Конспект 9](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_9_%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_Pandas_%D0%B8_NumPy.ipynb)| | |
-| [Лекция 10. Бибилотека pandas]| [Конспект 10](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_10_Pandas.ipynb)| |
-| [Лекция 11. Поиск данных и введение в машинное обучение]| [Конспект 11](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_11_%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B8_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.ipynb)| | |
-| [Лекция 12. Парадигмы программирования]| [Конспект 12](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_12_%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%B8%D0%B3%D0%BC%D1%8B_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.ipynb)| | |
+| [Лекция 1. Введение](https://youtu.be/SYhlL5QUak0)| [Конспект 1]([https://colab.research.google.com/drive/14CH88ceOlchi59c1AVuzQp55BlXKZoKq?usp=sharing)|[ДЗ 1](https://contest.yandex.ru/contest/40940/enter/) | 23.10.2022 23:59 |
+| [Лекция 2. Работа с текстовыми данными](https://youtu.be/zLJxh_PQalw)| [Конспект 2](https://colab.research.google.com/drive/1bWvnRzsjiFneg5KU5DfA6ts_F9l37ZEj?usp=sharing)|[ДЗ 2](https://contest.yandex.ru/contest/41180) | 30.10.2022 23:59  |
+| [Лекция 3. Итерируемые объекты](https://youtu.be/fAFzwBAO1Nk)| [Конспект 3](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_3_%D0%98%D1%82%D0%B5%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B.ipynb)| | |
+| [Лекция 4. Числовые данные](https://youtu.be/W9YDUVyKff0)| [Конспект 4](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_4_%D0%A7%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.ipynb)| | |
+| [Лекция 5. Сортировка данных](https://youtu.be/6PJ_zVBFrvw)| [Конспект 5](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_5_%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb)| | |
+| [Лекция 6. Частотный анализ](https://youtu.be/ezinS3P1rWs)| [Конспект 6](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_6_%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.ipynb)| | |
+| [Лекция 7. Библиотека matplotlib](https://youtu.be/Q1jxsKi_CeY)| [Конспект 7](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_7_Matplotlib.ipynb)| | |
+| [Лекция 8. Библиотека numpy](https://youtu.be/eZAfR8KKs7E)| [Конспект 8](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_8_NumPy.ipynb)| | |
+| [Лекция 9. Логика, numpy, библиотека pandas](https://youtu.be/vGF63L9q-bc)| [Конспект 9](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_9_%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_Pandas_%D0%B8_NumPy.ipynb)| | |
+| [Лекция 10. Бибилотека pandas](https://youtu.be/zot9VsJwZ5U)| [Конспект 10](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_10_Pandas.ipynb)| |
+| [Лекция 11. Поиск данных и введение в машинное обучение](https://youtu.be/PDMH8U6IT-Y)| [Конспект 11](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_11_%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B8_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.ipynb)| | |
+| [Лекция 12. Парадигмы программирования](https://youtu.be/4U9Ad1PVpdM)| [Конспект 12](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_12_%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%B8%D0%B3%D0%BC%D1%8B_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.ipynb)| | |
 
 Также доступ к метериалам есть и на других платформах
 
