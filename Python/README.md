@@ -26,7 +26,7 @@
 |Лекции| Конспекты | Домашние задания | Дедлайн сдачи
 |----|----|:----:|:----:|
 | [Лекция 1. Введение] (https://youtu.be/kxjr9OcxvlM)| [Конспект 1](https://colab.research.google.com/drive/14CH88ceOlchi59c1AVuzQp55BlXKZoKq?usp=sharing)|[ДЗ 1](https://contest.yandex.ru/contest/40940/enter/) | 23.10.2022 23:59 |
-| [Лекция 2. Работа с текстовыми данными]| [Конспект 2] (./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_2_%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.ipynb)|[ДЗ 2](https://contest.yandex.ru/contest/41180) | 30.10.2022 23:59  |
+| [Лекция 2. Работа с текстовыми данными]| [Конспект 2](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_2_%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.ipynb)|[ДЗ 2](https://contest.yandex.ru/contest/41180) | 30.10.2022 23:59  |
 | [Лекция 3. Итерируемые объекты]| [Конспект 3](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_3_%D0%98%D1%82%D0%B5%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B.ipynb)| | |
 | [Лекция 4. Числовые данные]| [Конспект 4](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_4_%D0%A7%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.ipynb)| | |
 | [Лекция 5. Сортировка данных](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_5_%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb)| [Конспект 5]| | |
