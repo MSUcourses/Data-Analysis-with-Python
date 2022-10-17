@@ -12,8 +12,8 @@
 
 Лекции | Конспекты | Домашние задания | Дедлайн сдачи
 |----|----|:----:|:----:|
-| [Лекция 1. Введение в DL](https://youtu.be/bTdDhAFKPZc)| [Конспект 1](https://colab.research.google.com/drive/1oY4yysrlNVNqWuB6la0LrrABz-Y-lKj6?usp=sharing)|[ДЗ 1](https://contest.yandex.ru/contest/40977/enter/) | 23.10.2022, 23:59 |
-| [Лекция 2. Построение нейронной сети и ее проверка на реальных данных. Обратное распространение ошибки](https://youtu.be/eNLIN5b96pE)| [Конспект 2](https://colab.research.google.com/drive/11N4BfAlA5xKsJ6KkJ6eGiO7U-UZH58w3?usp=sharing)|[ДЗ 2](https://contest.yandex.ru/contest/41292/enter/) | 30.10.2022, 23:59 |
+| [Лекция 1. Введение в DL](https://youtu.be/bTdDhAFKPZc)| [Конспект 1](https://colab.research.google.com/drive/1oY4yysrlNVNqWuB6la0LrrABz-Y-lKj6?usp=sharing)|[ДЗ 1](https://contest.yandex.ru/contest/40977/enter/) | `23.10.2022, 23:59` |
+| [Лекция 2. Построение нейронной сети и ее проверка на реальных данных. Обратное распространение ошибки](https://youtu.be/eNLIN5b96pE)| [Конспект 2](https://colab.research.google.com/drive/11N4BfAlA5xKsJ6KkJ6eGiO7U-UZH58w3?usp=sharing)|[ДЗ 2](https://contest.yandex.ru/contest/41292/enter/) | `30.10.2022, 23:59` |
 | Лекция 3. Регуляризация в DL + Оптимизация в DL||||
 | Лекция 4. Построение информативных векторных представлений||||
 | Лекция 5. Языковые модели. Работа с RNN||||
