@@ -9,7 +9,7 @@
 
 Лекции | Коспекты | Домашние задания | Дедлайн сдачи
 |----|:----:|:----:|:----:|
-| [Лекция 1](https://youtu.be/-VxkHYeTjko) | [Конспект 1](https://colab.research.google.com/drive/1hTgyT40O6Q-7iVVrjt4aXBkG-urvfo0W?usp=sharing) | - |- |- |
-| [Лекция 2](https://youtu.be/jxZRUBKnXl8) | [Конспект 2](https://colab.research.google.com/drive/19JVe3N1ZOqLDbV_NWTE6PbfrY6BE8Vg6?usp=sharing) |[ДЗ 2](https://contest.yandex.ru/contest/41359/problems/) | 30.10.2022 23:59 |
-
+| [Лекция 1. Введение в ML](https://youtu.be/-VxkHYeTjko) | [Конспект 1](https://colab.research.google.com/drive/1hTgyT40O6Q-7iVVrjt4aXBkG-urvfo0W?usp=sharing) | - |- |- |
+| [Лекция 2. Метрические алгоритмы](https://youtu.be/jxZRUBKnXl8) | [Конспект 2](https://colab.research.google.com/drive/19JVe3N1ZOqLDbV_NWTE6PbfrY6BE8Vg6?usp=sharing) |[ДЗ 2](https://contest.yandex.ru/contest/41359/problems/) | 30.10.2022 23:59 |
+| [Лекция 3. Введение в ML]() | [Конспект 1]() | - |- |- |
 
