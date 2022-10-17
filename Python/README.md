@@ -53,7 +53,7 @@
 * Для тех, кому мало 
 	- Официальная документация по Python на [python.org](https://docs.python.org/3/)
 	- Учебник по Python на [w3schools.com](https://www.w3schools.com/python/). Данный сервис скорее не обучающий курс, а справочник, который удобно использовать как шпаргалку
-	- [Python. Functional Programming](https://stepik.org/course/2057/promo). Для практики объектно-ориентированного программирования, что является важным аспектом в Deep Learning и Data Science
+	- [Python. Functional Programming](https://stepik.org/course/2057/promo). 
 	
 * Книги
 	- Марк Лутц: "Карманный справочник", "Изучаем Python", "Программирование на Python". \
