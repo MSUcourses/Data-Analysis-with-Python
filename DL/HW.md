@@ -29,7 +29,7 @@
 
 * Yoshua Bengio. Deep Learning. MIT Press, 2017.
 * The Hundred-Page Machine. Learning Book by Andriy Burkov (Andriy Burkov, 2019).
-* [Онлайн-учебник по машинному обученю](https://academy.yandex.ru/dataschool/book)
+* [Онлайн-учебник по машинному обучению](https://academy.yandex.ru/dataschool/book)
 
 
 ## 📞 Контакты
