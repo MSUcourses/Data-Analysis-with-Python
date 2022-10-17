@@ -7,11 +7,12 @@
 
 ## 📋 Содержание
 
-1. [Основы программирования и анализа данных на Python](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python) 
+1. [Введение в программирование на основе языка Python](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Introduction%20to%20Python)
+2. [Основы программирования и анализа данных на Python](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python) 
 	1. [Лекции](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python/lectures)
 	2. [Семинары](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python/seminars)
-2. [Математика для анализа данных](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Math)
+3. [Математика для анализа данных](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Math)
 	1. [Лекции](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Math/lectures)
 	2. [Семинары](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Math/seminars)
-
-
+4. [Машинное обучение для решения прикладных задач](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Machine%20Learning)
+5. [Введение в глубокое обучение](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/DL/HW.md)
