@@ -36,7 +36,7 @@
 | [Лекция 9. Логика, numpy, библиотека pandas](https://youtu.be/vGF63L9q-bc)| [Конспект 9](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_9_%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_Pandas_%D0%B8_NumPy.ipynb)| | |
 | [Лекция 10. Бибилотека pandas](https://youtu.be/zot9VsJwZ5U)| [Конспект 10](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_10_Pandas.ipynb)| |
 | [Лекция 11. Поиск данных и введение в машинное обучение](https://youtu.be/PDMH8U6IT-Y)| [Конспект 11](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_11_%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B8_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.ipynb)| | |
-| [Лекция 12. Парадигмы программирования](https://youtu.be/4U9Ad1PVpdM)| [Конспект 12](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_12_%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%B8%D0%B3%D0%BC%D1%8B_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.ipynb)| | |
+| [Лекция 12. Парадигмы программирования](https://youtu.be/4U9Ad1PVpdM)| [Конспект 12](./lectures/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_12_%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%B8%D0%B3%D0%BC%D1%8B_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.ipynb)| - | - |
 
 Также доступ к метериалам есть и на других платформах
 
