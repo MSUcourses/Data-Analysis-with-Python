@@ -15,7 +15,7 @@
 |----|:----:|:----:|:----:|
 | [Лекция 1. Введение в ML](https://youtu.be/-VxkHYeTjko) | [Конспект 1](https://colab.research.google.com/drive/1hTgyT40O6Q-7iVVrjt4aXBkG-urvfo0W?usp=sharing) | - |- |- |
 | [Лекция 2. Метрические алгоритмы](https://youtu.be/jxZRUBKnXl8) | [Конспект 2](https://colab.research.google.com/drive/19JVe3N1ZOqLDbV_NWTE6PbfrY6BE8Vg6?usp=sharing) |[ДЗ 2](https://contest.yandex.ru/contest/41359/problems/) | `30.10.2022 23:59` |
-| [Лекция 3. Линейные модели классификации](https://youtu.be/iEHswLt3doo) | [Конспект 3]() ||||
+| [Лекция 3. Линейные модели классификации](https://youtu.be/iEHswLt3doo) | [Конспект 3](https://colab.research.google.com/drive/1xjX_YnXcRr8HSiYLByMHxEIAADqs7QES?usp=sharing) ||||
 | [Лекция 4. Линейные модели регрессии](https://youtu.be/G6-y9p7RjSo) | [Конспект 4]() ||||
 | [Лекция 5. Решающие деревья](https://youtu.be/xu_KD9v0vM4) | [Конспект 5]() ||||
 | [Лекция 6. Ансамблевые алгоритмы](https://youtu.be/We326CB_tyM) | [Конспект 6]() ||||
