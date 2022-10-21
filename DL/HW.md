@@ -79,7 +79,7 @@ ________________________________________________________________________________
 
 Также прилагаю небольшую подборка материалов для тех, кто хочет быстро освежить/улучшить знания Python:
 
-1. Хороший и короткий туториал от Stanford’а: http://cs231n.github.io/python-numpy-tutorial/
+1. [Хороший и короткий туториал от Stanford’а](http://cs231n.github.io/python-numpy-tutorial/)
 
-2. Репозиторий с большим набором примеров/упражнений: https://gitlab.erc.monash.edu.au/andrease/Python4Maths/tree/master
+2. [Репозиторий с большим набором примеров/упражнений](https://gitlab.erc.monash.edu.au/andrease/Python4Maths/tree/master)
 
