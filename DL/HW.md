@@ -19,7 +19,7 @@
 | [Лекция 1. Введение в DL](https://youtu.be/bTdDhAFKPZc)| [Конспект 1](https://colab.research.google.com/drive/1oY4yysrlNVNqWuB6la0LrrABz-Y-lKj6?usp=sharing)|[ДЗ 1](https://contest.yandex.ru/contest/40977/enter/) | `23.10.2022, 23:59` |
 | [Лекция 2. Построение нейронной сети и ее проверка на реальных данных. Обратное распространение ошибки](https://youtu.be/eNLIN5b96pE)| [Конспект 2](https://colab.research.google.com/drive/11N4BfAlA5xKsJ6KkJ6eGiO7U-UZH58w3?usp=sharing)|[ДЗ 2](https://contest.yandex.ru/contest/41292/enter/) | `30.10.2022, 23:59` |
 | [Лекция 3. Регуляризация в DL + Оптимизация в DL](https://youtu.be/Ql00acFsEhE)| [Конспект 3](https://colab.research.google.com/drive/1VnVuI0Bic7T6WE6eHjrnsGUTPiUl17jS?usp=sharing)|[ДЗ 3](https://contest.yandex.ru/contest/41716/problems/) | `06.11.2022, 23:59` |
-| Лекция 4. Построение информативных векторных представлений||||
+| Лекция 4. Работа с изображениями. Сверточные нейронные сети||||
 | Лекция 5. Языковые модели. Работа с RNN||||
 | Лекция 6. Seq2seq модели. Задача машинного перевода||||
 | Лекция 7. Работа с изображениями. Сверточные нейронные сети||||
