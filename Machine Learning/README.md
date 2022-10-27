@@ -16,8 +16,8 @@
 Лекции | Конспекты | Домашние задания | Дедлайн сдачи
 |----|:----:|:----:|:----:|
 | [Лекция 1. Введение в ML](https://youtu.be/-VxkHYeTjko) | [Конспект 1](https://colab.research.google.com/drive/1hTgyT40O6Q-7iVVrjt4aXBkG-urvfo0W?usp=sharing) | - |- |- |
-| [Лекция 2. Метрические алгоритмы](https://youtu.be/jxZRUBKnXl8) | [Конспект 2](https://colab.research.google.com/drive/19JVe3N1ZOqLDbV_NWTE6PbfrY6BE8Vg6?usp=sharing) |[ДЗ 2](https://contest.yandex.ru/contest/41359/problems/) | `30.10.2022 23:59` |
-| [Лекция 3. Линейные модели классификации](https://youtu.be/EuLlwLcLvZc) | [Конспект 3](https://colab.research.google.com/drive/1xjX_YnXcRr8HSiYLByMHxEIAADqs7QES?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/41710/problems/) | `06.11.2022 23:59` |
+| [Лекция 2. Метрические алгоритмы](https://youtu.be/jxZRUBKnXl8) | [Конспект 2](https://colab.research.google.com/drive/19JVe3N1ZOqLDbV_NWTE6PbfrY6BE8Vg6?usp=sharing) |[ДЗ 2](https://contest.yandex.ru/contest/41359/problems/) | [`30.10.2022 23:59`](https://t.me/c/1799088970/100)|
+| [Лекция 3. Линейные модели классификации](https://youtu.be/EuLlwLcLvZc) | [Конспект 3](https://colab.research.google.com/drive/1xjX_YnXcRr8HSiYLByMHxEIAADqs7QES?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/41710/problems/) | [`06.11.2022 23:59`](https://t.me/c/1799088970/104)|
 | [Лекция 4. Линейные модели регрессии](https://youtu.be/A2DzXBfCsqw) | [Конспект 4](https://colab.research.google.com/drive/1MhWrDx0RsNrt4DWsk583Xb-CAm6z27s8?usp=sharing) ||||
 | [Лекция 5. Решающие деревья](https://youtu.be/xu_KD9v0vM4) | [Конспект 5]() ||||
 | [Лекция 6. Ансамблевые алгоритмы](https://youtu.be/We326CB_tyM) | [Конспект 6]() ||||
