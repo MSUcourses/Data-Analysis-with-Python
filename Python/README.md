@@ -28,7 +28,7 @@
 | [Лекция 1. Вводная лекция](https://youtu.be/SYhlL5QUak0)| [Конспект 1](https://colab.research.google.com/drive/14CH88ceOlchi59c1AVuzQp55BlXKZoKq?usp=sharing)|[ДЗ 1](https://contest.yandex.ru/contest/40940/enter/) | [`23.10.2022 23:59`](https://t.me/c/1680995387/102)|
 | [Лекция 2. Текстовые данные](https://youtu.be/zLJxh_PQalw)| [Конспект 2](https://colab.research.google.com/drive/1bWvnRzsjiFneg5KU5DfA6ts_F9l37ZEj?usp=sharing)|[ДЗ 2](https://contest.yandex.ru/contest/41180) | [`30.10.2022 23:59`](https://t.me/c/1680995387/108)|
 | [Лекция 3. Итерируемые объекты](https://youtu.be/_CLlM7sdyMM)| [Конспект 3](https://colab.research.google.com/drive/1nDTBYMi4rHCa0R0kFax7SAOwyn1i6x-O?usp=sharing)| [ДЗ 3](https://contest.yandex.ru/contest/41702/problems/) | [`06.11.2022 23:59`](https://t.me/c/1680995387/112)|
-| [Лекция 4. Числовые данные](https://youtu.be/ktjyMP2YGvI)| [Конспект 4](https://colab.research.google.com/drive/1ltKt_-m29veUzT0ol4agjsc3nYd1_jO8?usp=sharing)| [ДЗ 4](https://contest.yandex.ru/contest/42052/problems/) | [`13.11.2022 23:59`]|
+| [Лекция 4. Числовые данные](https://youtu.be/ktjyMP2YGvI)| [Конспект 4](https://colab.research.google.com/drive/1ltKt_-m29veUzT0ol4agjsc3nYd1_jO8?usp=sharing)| [ДЗ 4](https://contest.yandex.ru/contest/42052/problems/) | `13.11.2022 23:59`|
 | [Лекция 5. Сортировка данных](https://youtu.be/6PJ_zVBFrvw)| [Конспект 5]()| | |
 | [Лекция 6. Частотный анализ и группировка данных](https://youtu.be/ezinS3P1rWs)| [Конспект 6]()| | |
 | [Лекция 7. Библиотека Matplotlib](https://youtu.be/Q1jxsKi_CeY)| [Конспект 7]()| | |
