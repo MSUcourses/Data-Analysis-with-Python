@@ -50,7 +50,7 @@
 
 5. [Семинар по теме "Матрично-векторное дифференцирование"](http://www.machinelearning.ru/wiki/images/5/50/MOMO17_Seminar2.pdf) (курс "Методы оптимизации в машинном обучении", ВМК+Физтех, осень 2017)
    
-   [Заметки по матрчному дифференцированию от Стенфорда](http://cs231n.stanford.edu/vecDerivs.pdf)
+   [Заметки по матричному дифференцированию от Стенфорда](http://cs231n.stanford.edu/vecDerivs.pdf)
 
 Более сложные книги, которые могут быть полезны в рамках прохождения курса:
 1. [Probabilistic Machine Learning: An Introduction; English link](https://probml.github.io/pml-book/book1.html), [Русский перевод](https://dmkpress.com/catalog/computer/data/978-5-93700-119-1/)
