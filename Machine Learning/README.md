@@ -19,7 +19,7 @@
 | [Лекция 2. Метрические алгоритмы](https://youtu.be/jxZRUBKnXl8) | [Конспект 2](https://colab.research.google.com/drive/19JVe3N1ZOqLDbV_NWTE6PbfrY6BE8Vg6?usp=sharing) |[ДЗ 2](https://contest.yandex.ru/contest/41359/problems/) | [`30.10.2022 23:59`](https://t.me/c/1799088970/100)|
 | [Лекция 3. Линейные модели классификации](https://youtu.be/EuLlwLcLvZc) | [Конспект 3](https://colab.research.google.com/drive/1xjX_YnXcRr8HSiYLByMHxEIAADqs7QES?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/41710/problems/) | [`06.11.2022 23:59`](https://t.me/c/1799088970/104)|
 | [Лекция 4. Линейные модели регрессии](https://youtu.be/A2DzXBfCsqw) | [Конспект 4](https://colab.research.google.com/drive/1MhWrDx0RsNrt4DWsk583Xb-CAm6z27s8?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/42054/problems/) | [`13.11.2022 23:59`](https://t.me/c/1799088970/109)|
-| [Лекция 5. Решающие деревья](https://youtu.be/Tn6aCM9xOrE) | [Конспект 5](https://colab.research.google.com/drive/1CT_Y0kuM8tloOoamvYaP-OiPuory2fDn?usp=sharing) | ДЗ 5 | `20.11.2022 23:59`|
+| [Лекция 5. Решающие деревья](https://youtu.be/Tn6aCM9xOrE) | [Конспект 5](https://colab.research.google.com/drive/1CT_Y0kuM8tloOoamvYaP-OiPuory2fDn?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/42452/problems/) | `20.11.2022 23:59`|
 | [Лекция 6. Ансамблевые алгоритмы](https://youtu.be/We326CB_tyM) | [Конспект 6]() ||||
 | [Лекция 7. Метрики качества классификации](https://youtu.be/v7Vi1neME68) | [Конспект 7]() ||||
 | [Лекция 8. Задача понижения размерности](https://youtu.be/8ujaBYgVRoY) | [Конспект 8]() ||||
