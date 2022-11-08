@@ -30,7 +30,7 @@
 | [Лекция 3. Итерируемые объекты](https://youtu.be/_CLlM7sdyMM)| [Конспект 3](https://colab.research.google.com/drive/1nDTBYMi4rHCa0R0kFax7SAOwyn1i6x-O?usp=sharing)| [ДЗ 3](https://contest.yandex.ru/contest/41702/problems/) | [`06.11.2022 23:59`](https://t.me/c/1680995387/112)|
 | [Лекция 4. Числовые данные](https://youtu.be/ktjyMP2YGvI)| [Конспект 4](https://colab.research.google.com/drive/1ltKt_-m29veUzT0ol4agjsc3nYd1_jO8?usp=sharing)| [ДЗ 4](https://contest.yandex.ru/contest/42052/problems/) | [`13.11.2022 23:59`](https://t.me/c/1680995387/117)|
 | [Лекция 5. Сортировка данных](https://youtu.be/A2U751t_lAQ)| [Конспект 5](https://colab.research.google.com/drive/1NstnAsm0qS3f6FQHgJNV-PpMpvHsrKIL?usp=sharing)| [ДЗ 5](https://contest.yandex.ru/contest/42449/problems/) | [`20.11.2022 23:59`](https://t.me/c/1680995387/123)|
-| [Лекция 6. Частотный анализ и группировка данных](https://youtu.be/ezinS3P1rWs)| [Конспект 6]()| | |
+| [Лекция 6. Частотный анализ и группировка данных](https://youtu.be/uHLyH7aeHUQ)| [Конспект 6](https://colab.research.google.com/drive/1ru8FIjKqeeZ5ccpMty9_ctt3Q9uFRQyx?usp=sharing)| [ДЗ 5]() | [`27.11.2022 23:59`]() |
 | [Лекция 7. Библиотека Matplotlib](https://youtu.be/Q1jxsKi_CeY)| [Конспект 7]()| | |
 | [Лекция 8. Библиотека NumPy](https://youtu.be/eZAfR8KKs7E)| [Конспект 8]()| | |
 | [Лекция 9. Логика, NumPy, библиотека Pandas](https://youtu.be/vGF63L9q-bc)| [Конспект 9]()| | |
