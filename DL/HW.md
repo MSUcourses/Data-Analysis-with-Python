@@ -21,8 +21,8 @@
 | [Лекция 3. Регуляризация в DL + Оптимизация в DL](https://youtu.be/Ql00acFsEhE)| [Конспект 3](https://colab.research.google.com/drive/1VnVuI0Bic7T6WE6eHjrnsGUTPiUl17jS?usp=sharing) [Слайды](https://drive.google.com/file/d/1OibRGXexJhSq6ID7zIwNSliJGUrBliFr/view?usp=sharing)|[ДЗ 3](https://contest.yandex.ru/contest/41716/problems/) | [`06.11.2022, 23:59`](https://t.me/c/1684649676/23)|
 | [Лекция 4. Работа с изображениями. Сверточные нейронные сети](https://youtu.be/xkuJ3TkFlGA)| [Конспект 4](https://colab.research.google.com/drive/1ZMu6C3ZEt3kCSDBNWGM6sicXL5-EhSve?usp=sharing) [Слайды](https://drive.google.com/file/d/17kITkKcbRhMROFjL0AZXIzgOcWjLUahN/view?usp=sharing)|[ДЗ 4](https://contest.yandex.ru/contest/42011/problems/) | [`13.11.2022, 23:59`](https://t.me/c/1684649676/30)|
 | [Лекция 5. Transfer learning](https://youtu.be/CFVHHyiBsAo)| [Конспект 5](https://colab.research.google.com/drive/1tURrDYNmn89c0NOboVptNgEOuedK0hbo?usp=sharing)| [ДЗ 5](https://contest.yandex.ru/contest/42468/problems/) | [`20.11.2022 23:59`](https://t.me/c/1684649676/35)|
-| Лекция 6. Seq2seq модели. Задача машинного перевода||||
-| Лекция 7. Построение информативных векторных представлений||||
+| [Лекция 6. Построение информативных векторных представлений]()| [Конспект 6](https://colab.research.google.com/drive/1frihu_TiDgJrA3oX3YIdxeRVXEeWvH_t?usp=sharing)|[ДЗ 6]()|[`27.11.2022 23:59`]()|
+| Лекция 7. Seq2seq модели. Задача машинного перевода ||||
 | Лекция 8. Языковые модели. Работа с RNN||||
 | Лекция 9. Сиамские сети и работа с малыми выборками||||
 | Лекция 10. Механизм внимания и архитектура Transformer||||
