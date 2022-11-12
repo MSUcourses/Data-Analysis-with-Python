@@ -1,5 +1,4 @@
-# 💻 Основы программирования и анализа данных на Python
-   # Programming Fundamentals and Data Analysis with Python
+# 💻 Основы программирования и анализа данных на Python / Programming Fundamentals and Data Analysis with Python
 
 <div align="center">
 <img width="1440" alt="python" src="https://user-images.githubusercontent.com/28728575/147373436-a509b080-61c4-48f1-8998-de8987df534b.png">
