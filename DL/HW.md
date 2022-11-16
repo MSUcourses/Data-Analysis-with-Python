@@ -22,8 +22,8 @@
 | [Лекция 4. Работа с изображениями. Сверточные нейронные сети](https://youtu.be/xkuJ3TkFlGA)| [Конспект 4](https://colab.research.google.com/drive/1ZMu6C3ZEt3kCSDBNWGM6sicXL5-EhSve?usp=sharing) [Слайды](https://drive.google.com/file/d/17kITkKcbRhMROFjL0AZXIzgOcWjLUahN/view?usp=sharing)|[ДЗ 4](https://contest.yandex.ru/contest/42011/problems/) | [`13.11.2022, 23:59`](https://t.me/c/1684649676/30)|
 | [Лекция 5. Transfer learning](https://youtu.be/CFVHHyiBsAo)| [Конспект 5](https://colab.research.google.com/drive/1tURrDYNmn89c0NOboVptNgEOuedK0hbo?usp=sharing)| [ДЗ 5](https://contest.yandex.ru/contest/42468/problems/) | [`20.11.2022 23:59`](https://t.me/c/1684649676/35)|
 | [Лекция 6. Построение информативных векторных представлений](https://youtu.be/N6XzDTTFI5U)| [Конспект 6](https://colab.research.google.com/drive/1frihu_TiDgJrA3oX3YIdxeRVXEeWvH_t?usp=sharing)|[ДЗ 6](https://contest.yandex.ru/contest/42820/problems/)|[`27.11.2022 23:59`](https://t.me/c/1684649676/37)|
-| Лекция 7. Seq2seq модели. Задача машинного перевода | [Конспект 7](https://colab.research.google.com/drive/1u3gW7iPjkNsCm72fwIrIvavi_sCEzlAv?usp=sharing) [Слайды](https://github.com/girafe-ai/ml-course/blob/msu_branch/week07_language_modeling/07_rnns_and_language_modeling__black.pdf)|||
-| Лекция 8. Языковые модели. Работа с RNN||||
+| Лекция 7. Языковое моделирование. Рекуррентные нейронные сети | [Конспект 7](https://colab.research.google.com/drive/1u3gW7iPjkNsCm72fwIrIvavi_sCEzlAv?usp=sharing) [Слайды](https://github.com/girafe-ai/ml-course/blob/msu_branch/week07_language_modeling/07_rnns_and_language_modeling__black.pdf)|||
+| Лекция 8. ЯSeq2seq модели. Задача машинного перевода||||
 | Лекция 9. Сиамские сети и работа с малыми выборками||||
 | Лекция 10. Механизм внимания и архитектура Transformer||||
 | Лекция 11. BERT в задачах обработки текста. Построение вопросно-ответных и диалоговых систем||||
