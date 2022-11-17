@@ -23,7 +23,7 @@
 | [Лекция 5. Transfer learning](https://youtu.be/CFVHHyiBsAo)| [Конспект 5](https://colab.research.google.com/drive/1tURrDYNmn89c0NOboVptNgEOuedK0hbo?usp=sharing)| [ДЗ 5](https://contest.yandex.ru/contest/42468/problems/) | [`20.11.2022 23:59`](https://t.me/c/1684649676/35)|
 | [Лекция 6. Построение информативных векторных представлений](https://youtu.be/N6XzDTTFI5U)| [Конспект 6](https://colab.research.google.com/drive/1frihu_TiDgJrA3oX3YIdxeRVXEeWvH_t?usp=sharing)| [ДЗ 6](https://contest.yandex.ru/contest/42820/problems/)| [`27.11.2022 23:59`](https://t.me/c/1684649676/37)|
 | [Лекция 7. Языковое моделирование. Рекуррентные нейронные сети](https://youtu.be/17atOPaSaAY)| [Конспект 7](https://colab.research.google.com/drive/1u3gW7iPjkNsCm72fwIrIvavi_sCEzlAv?usp=sharing) [Слайды](https://github.com/girafe-ai/ml-course/blob/msu_branch/week07_language_modeling/07_rnns_and_language_modeling__black.pdf)| [ДЗ 7]()| [`04.12.2022 23:59`]()|
-| Лекция 8. ЯSeq2seq модели. Задача машинного перевода||||
+| Лекция 8. Seq2seq модели. Задача машинного перевода||||
 | Лекция 9. Сиамские сети и работа с малыми выборками||||
 | Лекция 10. Механизм внимания и архитектура Transformer||||
 | Лекция 11. BERT в задачах обработки текста. Построение вопросно-ответных и диалоговых систем||||
