@@ -32,7 +32,7 @@
 | [Лекция 5. Сортировка данных](https://youtu.be/A2U751t_lAQ)| [Конспект 5](https://colab.research.google.com/drive/1NstnAsm0qS3f6FQHgJNV-PpMpvHsrKIL?usp=sharing)| [ДЗ 5](https://contest.yandex.ru/contest/42449/problems/) | [`20.11.2022, 23:59`](https://t.me/c/1680995387/123)|
 | [Лекция 6. Частотный анализ и группировка данных](https://youtu.be/uHLyH7aeHUQ)| [Конспект 6](https://colab.research.google.com/drive/1ru8FIjKqeeZ5ccpMty9_ctt3Q9uFRQyx?usp=sharing)| [ДЗ 6](https://contest.yandex.ru/contest/42846/problems/) | [`27.11.2022, 23:59`]() |
 | [Лекция 7. Библиотека Matplotlib](https://youtu.be/KC08erJFLE4 )| [Конспект 7](https://colab.research.google.com/drive/1q2h_xhO9hPWaoi59thzhwBEgjuz3WG30?usp=sharing )| [ДЗ 7](https://t.me/c/1680995387/131)| [`04.12.2022, 23:59`](https://t.me/c/1680995387/131)|
-| [Лекция 8. Библиотека NumPy](https://youtu.be/Yz455ytUJCM)| [Конспект 8]()| | |
+| [Лекция 8. Библиотека NumPy](https://youtu.be/Yz455ytUJCM)| [Конспект 8](https://colab.research.google.com/drive/1NeMnmR5ZEpf9vZGSyvSmnK_UgEngra5M?usp=sharing)| [ДЗ 8](https://contest.yandex.ru/contest/43781/problems/)| [`11.12.2022, 23:59`]()|
 | [Лекция 9. Логика, NumPy, библиотека Pandas](https://youtu.be/vGF63L9q-bc)| [Конспект 9]()| | |
 | [Лекция 10. Бибилотека Pandas](https://youtu.be/zot9VsJwZ5U)| [Конспект 10]()| |
 | [Лекция 11. Поиск данных и введение в машинное обучение](https://youtu.be/PDMH8U6IT-Y)| [Конспект 11]()| | |
