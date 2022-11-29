@@ -30,7 +30,7 @@
 | [Лекция 11. Обработка временных рядов](https://youtu.be/zdwKGO650Bo) | [Конспект 11]() |||||
 | [Лекция 12. ](https://youtu.be/BtXt_2dMd3c) | [Конспект 12]() | - | - | - | - |
 
-Также доступ к материалам есть и на других платформах
+Также доступ к материалам есть и на других платформах:
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PLcsjsqLLSfNDgb5cau6OjutZo-jwd8Z1l)
 * Видеозаписи и конспекты также доступны на сайте [teach-in](https://teach-in.ru/course/machine-learning-for-applied-tasks)
