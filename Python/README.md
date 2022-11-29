@@ -8,7 +8,7 @@
 
 Основная цель курса — это изучение основ работы с данными с помощью языка Python.
 
-Продолжительность: 1 семестр (12 лекций) - [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PLcsjsqLLSfND6vNUS4b13dHJHOxLm0nv5).
+Продолжительность: 1 семестр (12 лекций).
 
 Темы курса:
 * синтаксис языка Python
@@ -32,14 +32,14 @@
 | [Лекция 6. Частотный анализ и группировка данных](https://youtu.be/uHLyH7aeHUQ)| [Конспект 6](https://colab.research.google.com/drive/1ru8FIjKqeeZ5ccpMty9_ctt3Q9uFRQyx?usp=sharing)| [ДЗ 6](https://contest.yandex.ru/contest/42846/problems/) | [`27.11.2022, 23:59`]() |
 | [Лекция 7. Библиотека Matplotlib](https://youtu.be/KC08erJFLE4 )| [Конспект 7](https://colab.research.google.com/drive/1q2h_xhO9hPWaoi59thzhwBEgjuz3WG30?usp=sharing )| [ДЗ 7](https://contest.yandex.ru/contest/43365/problems/)| [`04.12.2022, 23:59`](https://t.me/c/1680995387/131)|
 | [Лекция 8. Библиотека NumPy](https://youtu.be/Yz455ytUJCM)| [Конспект 8](https://colab.research.google.com/drive/1NeMnmR5ZEpf9vZGSyvSmnK_UgEngra5M?usp=sharing)| [ДЗ 8](https://contest.yandex.ru/contest/43781/problems/)| [`11.12.2022, 23:59`]()|
-| [Лекция 9. Логика, NumPy, библиотека Pandas]()| [Конспект 9](https://colab.research.google.com/drive/1GXHEAgyj0sVyFw3owTeYgY7eI-bLaPNU?usp=sharing)| [ДЗ 8]()| |
+| [Лекция 9. Логика, NumPy, библиотека Pandas]()| [Конспект 9](https://colab.research.google.com/drive/1GXHEAgyj0sVyFw3owTeYgY7eI-bLaPNU?usp=sharing)| [ДЗ 9]()| |
 | [Лекция 10. Бибилотека Pandas](https://youtu.be/zot9VsJwZ5U)| [Конспект 10]()| |
 | [Лекция 11. Поиск данных и введение в машинное обучение](https://youtu.be/PDMH8U6IT-Y)| [Конспект 11]()| | |
 | [Лекция 12. Парадигмы программирования](https://youtu.be/4U9Ad1PVpdM)| [Конспект 12]()| - | - |
 
-Также доступ к метериалам есть и на других платформах
+Также доступ к материалам есть и на других платформах:
 
-* [Видеозаписи лекций](https://www.youtube.com/watch?v=kxjr9OcxvlM&list=PLcsjsqLLSfNCB0yQMHoGsVFx2axpqjlSR)
+* [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PLcsjsqLLSfND6vNUS4b13dHJHOxLm0nv5)
 * Видеозаписи и конспекты также доступны на сайте [teach-in](https://teach-in.ru/course/python-programming-and-data-analysis-basics/lecture) 
 
 ## 📝 Ссылки и дополнительная литература
