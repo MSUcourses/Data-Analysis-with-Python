@@ -26,7 +26,7 @@
 | [Лекция 6. Построение информативных векторных представлений](https://youtu.be/N6XzDTTFI5U)| [Конспект 6](https://colab.research.google.com/drive/1frihu_TiDgJrA3oX3YIdxeRVXEeWvH_t?usp=sharing)| [ДЗ 6](https://contest.yandex.ru/contest/42820/problems/)| [`27.11.2022, 23:59`](https://t.me/c/1684649676/37)|
 | [Лекция 7. Языковое моделирование. Рекуррентные нейронные сети](https://youtu.be/17atOPaSaAY)| [Конспект 7](https://colab.research.google.com/drive/1u3gW7iPjkNsCm72fwIrIvavi_sCEzlAv?usp=sharing) [Слайды](https://drive.google.com/file/d/1fmIHh35etVqFPqFZ1RNjiLFKtAyDmvFW/view?usp=share_link)| [ДЗ 7](https://contest.yandex.ru/contest/43355/problems/)| [`04.12.2022, 23:59`](https://t.me/c/1684649676/39)|
 | [Лекция 8. Задача машинного перевода (Seq2seq модели). Механизм Attention](https://youtu.be/bIkfbl2y8wY)| [Конспект 8](https://colab.research.google.com/drive/1XLQb_LQMtKmnyXQO4K7b37XmnRPpqqid?usp=sharing) [Слайды](https://drive.google.com/file/d/1N3Hz9pcMGrDj2ET5awBlPFgHOi0qv2G2/view?usp=share_link)| [ДЗ 8](https://contest.yandex.ru/contest/44079/problems/)| [`18.12.2022, 23:59`](https://t.me/c/1680995387/139)|
-| Лекция 9. Сиамские сети и работа с малыми выборками||||
+| [Лекция 9. Сегментация и детекция изображений]()| [Конспект 9]()| [ДЗ 9]()||
 | Лекция 10. Механизм внимания и архитектура Transformer||||
 | Лекция 11. BERT в задачах обработки текста. Построение вопросно-ответных и диалоговых систем||||
 | Лекция 12. Работа с мультимодальными данными. Генеративные модели для изображений||||
