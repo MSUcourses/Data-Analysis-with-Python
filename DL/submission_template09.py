@@ -61,7 +61,7 @@ class UNet(nn.Module):
         self.dec2_block = decoder_block(?, ?, 3, 1)
         self.dec3_block = decoder_block(?, out_channels, 3, 1)
 
-    def __call__(self, x):
+    def forward(self, x):
 
         # downsampling part
         enc1 = self.enc1_block(x)
