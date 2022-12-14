@@ -27,7 +27,7 @@
 | [Лекция 7. Языковое моделирование. Рекуррентные нейронные сети](https://youtu.be/17atOPaSaAY)| [Конспект 7](https://colab.research.google.com/drive/1u3gW7iPjkNsCm72fwIrIvavi_sCEzlAv?usp=sharing) [Слайды](https://drive.google.com/file/d/1fmIHh35etVqFPqFZ1RNjiLFKtAyDmvFW/view?usp=share_link)| [ДЗ 7](https://contest.yandex.ru/contest/43355/problems/)| [`04.12.2022, 23:59`](https://t.me/c/1684649676/39)|
 | [Лекция 8. Задача машинного перевода (Seq2seq модели). Механизм Attention](https://youtu.be/bIkfbl2y8wY)| [Конспект 8](https://colab.research.google.com/drive/1XLQb_LQMtKmnyXQO4K7b37XmnRPpqqid?usp=sharing) [Слайды](https://drive.google.com/file/d/1N3Hz9pcMGrDj2ET5awBlPFgHOi0qv2G2/view?usp=share_link)| [ДЗ 8](https://contest.yandex.ru/contest/44079/problems/)| [`18.12.2022, 23:59`](https://t.me/c/1680995387/139)|
 | [Лекция 9. Компьютерное зрение. Сегментация и детекция изображений](https://youtu.be/a6IApFnaZqE)| [Конспект 9](https://colab.research.google.com/drive/1HRUeBp89XvZ1TMi3fW6wBkqfGoiZjZao?usp=sharing)| [ДЗ 9](https://contest.yandex.ru/contest/44326/problems/)| [`19.12.2022, 15:00`](https://t.me/c/1684649676/54)|
-| Лекция 10. Механизм внимания и архитектура Transformer||||
+| [Лекция 10. Автоэнкодеры (AE) и генеративные состязательные сети (GAN)](https://youtu.be/HNPJFa1JdqI)| [Конспект 10](https://colab.research.google.com/drive/1S0M82Q6rxJ3JiTYNXC_ygUeDdVdEJobx?usp=sharing)|||
 | Лекция 11. BERT в задачах обработки текста. Построение вопросно-ответных и диалоговых систем||||
 | Лекция 12. Работа с мультимодальными данными. Генеративные модели для изображений||||
 
