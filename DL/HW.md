@@ -28,7 +28,7 @@
 | [Лекция 8. Задача машинного перевода (Seq2seq модели). Механизм Attention](https://youtu.be/bIkfbl2y8wY)| [Конспект 8](https://colab.research.google.com/drive/1XLQb_LQMtKmnyXQO4K7b37XmnRPpqqid?usp=sharing) [Слайды](https://drive.google.com/file/d/1N3Hz9pcMGrDj2ET5awBlPFgHOi0qv2G2/view?usp=share_link)| [ДЗ 8](https://contest.yandex.ru/contest/44079/problems/)| [`18.12.2022, 23:59`](https://t.me/c/1680995387/139)|
 | [Лекция 9. Компьютерное зрение. Сегментация и детекция изображений](https://youtu.be/a6IApFnaZqE)| [Конспект 9](https://colab.research.google.com/drive/1HRUeBp89XvZ1TMi3fW6wBkqfGoiZjZao?usp=sharing)| [ДЗ 9](https://contest.yandex.ru/contest/44326/problems/)| [`19.12.2022, 15:00`](https://t.me/c/1684649676/54)|
 | [Лекция 10. Автоэнкодеры (AE) и генеративные состязательные сети (GAN)](https://youtu.be/HNPJFa1JdqI)| [Конспект 10](https://colab.research.google.com/drive/1S0M82Q6rxJ3JiTYNXC_ygUeDdVdEJobx?usp=sharing)|-|-|
-| Лекция 11.|-|-|-|
+| Лекция 11. | [Слайды](https://docs.google.com/presentation/d/1JqcM4B75nZVR33NzSoMDtoOd35CQpgAK8U_SQRDxaDE/edit)|-|-|
 
 Также доступ к материалам есть и на других платформах:
 
