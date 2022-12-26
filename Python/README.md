@@ -35,7 +35,7 @@
 | [Лекция 9. Логика, NumPy, библиотека Pandas](https://youtu.be/M6PjX5qha3Y)| [Конспект 9](https://colab.research.google.com/drive/1GXHEAgyj0sVyFw3owTeYgY7eI-bLaPNU?usp=sharing)| [ДЗ 9](https://contest.yandex.ru/contest/43828/problems/)| [`18.12.2022, 23:59`](https://t.me/c/1680995387/139)|
 | [Лекция 10. Библиотека Pandas](https://youtu.be/VZm-Od6OWGQ)| [Конспект 10](https://colab.research.google.com/drive/1acvLycZQrtB4Ks-_7gAIEx6lksXZi8cT?usp=sharing)| [ДЗ 10](https://contest.yandex.ru/contest/44177/problems/) |[`19.12.2022, 11:59`](https://t.me/c/1680995387/145)|
 | [Лекция 11. Парадигмы программирования](https://youtu.be/R-vd6-OdwfA)| [Конспект 11](https://colab.research.google.com/drive/1LXxtblxBuZYYvKLC2xIa_CSkfF9bIvHc?usp=sharing)| - | - |
-| [Лекция 12. Реляционные базы данных](https://youtu.be/OQGrCVuMmjc)| [Конспект 12]()| - | - |
+| [Лекция 12. Реляционные базы данных](https://youtu.be/OQGrCVuMmjc)| [Конспект 12](https://colab.research.google.com/drive/1FFsZaEYS-WgKsT3ndlQt44HhCoNneR2r?usp=sharing)| - | - |
 
 Также доступ к материалам есть и на других платформах:
 
