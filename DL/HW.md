@@ -62,8 +62,30 @@
 
 Более полный список хороших книг/лекционных заметок на русском и английском языке можно найти [здесь](https://github.com/girafe-ai/ml-course/blob/master/extra_materials.md)
 
+**Youtube**
 
-Также прилагаю небольшую подборка материалов для тех, кто хочет быстро освежить/улучшить знания Python:
+En:
+[Канал Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) - рассказывает про обучение глубоких нейронных сетей на больших наборах данных.
+[Классный канала 3Blue1Brown от Гранта Сандерсона](https://youtube.com/c/3blue1brown) с комбинацией математики и развлечения, где объяснения сопровождаются анимацией (просто о сложном).
+
+Ru:
+Переводы научно-популярных видео, лекций в т.ч. роликов выше - https://www.youtube.com/@VertDiderScience
+Подкаст про машинное обучение - https://www.youtube.com/@machinelearningpodcast9502
+
+**Блоги и каналы:**
+https://dyakonov.org/ag/
+https://ruder.io
+http://karpathy.github.io
+https://t.me/dlinnlp
+https://t.me/dl_stories
+https://t.me/nn_for_science
+https://t.me/ai_newz
+
+**Курсы:**
+[Open Machine Learning course](https://github.com/girafe-ai/ml-course)
+[Курс по машинному обучению. Проект «ИИ Старт»](https://stepik.org/course/125587/promo)
+
+Также небольшую подборка материалов для тех, кто хочет быстро освежить/улучшить знания Python:
 
 1. [Хороший и короткий туториал от Stanford’а](http://cs231n.github.io/python-numpy-tutorial/)
 
