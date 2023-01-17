@@ -80,13 +80,13 @@ Ru:
 
 **Блоги и каналы:**
 
-* https://dyakonov.org/ag/
-* https://ruder.io
-* http://karpathy.github.io
-* https://t.me/dlinnlp
-* https://t.me/dl_stories
-* https://t.me/nn_for_science
-* https://t.me/ai_newz
+* [КвазиНаучный блог Александра Дьяконова АНАЛИЗ МАЛЫХ ДАННЫХ](https://dyakonov.org/ag/)
+* [Sebastian Ruder blog about natural language processing and machine learning](https://ruder.io)
+* [Andrej Karpathy blog](http://karpathy.github.io)
+* [DL in NLP](https://t.me/dlinnlp) - новости и обзоры статей на тему обработки естественного языка, нейросетей и всего такого.
+* [DLStories | Нейронные сети и ИИ](https://t.me/dl_stories) - новинки искусственного интеллекта и нейронных сетей, разборы статей.
+* [NN for Science](https://t.me/nn_for_science) - новинки из области машинного обучения с прицелом на использование в науке.
+* [эйай ньюз](https://t.me/ai_newz) - новости из мира AI в сопровождении мнения автора канала.
 
 **Курсы:**
 
