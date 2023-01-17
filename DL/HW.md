@@ -74,8 +74,8 @@ En:
 * [Классный канала 3Blue1Brown от Гранта Сандерсона](https://youtube.com/c/3blue1brown) с комбинацией математики и развлечения, где объяснения сопровождаются анимацией (просто о сложном).
 
 Ru:
-* Переводы научно-популярных видео, лекций в т.ч. роликов выше - https://www.youtube.com/@VertDiderScience
-* Подкаст про машинное обучение - https://www.youtube.com/@machinelearningpodcast9502
+* [Переводы](https://www.youtube.com/@VertDiderScience)научно-популярных видео, лекций в т.ч. роликов выше.
+* [Machine Learning Podcast.](https://www.youtube.com/@machinelearningpodcast9502)
 
 **Блоги и каналы:**
 
