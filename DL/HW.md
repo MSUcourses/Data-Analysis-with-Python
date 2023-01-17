@@ -79,19 +79,13 @@ Ru:
 
 **Блоги и каналы:**
 
-https://dyakonov.org/ag/
-
-https://ruder.io
-
-http://karpathy.github.io
-
-https://t.me/dlinnlp
-
-https://t.me/dl_stories
-
-https://t.me/nn_for_science
-
-https://t.me/ai_newz
+* https://dyakonov.org/ag/
+* https://ruder.io
+* http://karpathy.github.io
+* https://t.me/dlinnlp
+* https://t.me/dl_stories
+* https://t.me/nn_for_science
+* https://t.me/ai_newz
 
 **Курсы:**
 
