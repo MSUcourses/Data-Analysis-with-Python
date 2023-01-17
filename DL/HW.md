@@ -67,6 +67,7 @@
 
    Более полный список хороших книг/лекционных заметок на русском и английском языке можно найти [здесь](https://github.com/girafe-ai/ml-course/blob/master/extra_materials.md)
 
+
 **Youtube**
 
 En:
