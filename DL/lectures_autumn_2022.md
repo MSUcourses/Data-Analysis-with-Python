@@ -13,3 +13,8 @@
 |30.11.2022| [Лекция 9. Компьютерное зрение. Сегментация и детекция изображений](https://youtu.be/a6IApFnaZqE)| [Конспект 9](https://colab.research.google.com/drive/1HRUeBp89XvZ1TMi3fW6wBkqfGoiZjZao?usp=sharing)|||
 |14.12.2022| [Лекция 10. Автоэнкодеры (AE) и генеративные состязательные сети (GAN)](https://youtu.be/HNPJFa1JdqI)| [Конспект 10](https://colab.research.google.com/drive/1S0M82Q6rxJ3JiTYNXC_ygUeDdVdEJobx?usp=sharing)|||
 |21.12.2022| [Лекция 11. Применение нейронных сетей для решения практических задач](https://us06web.zoom.us/rec/share/oAhcPYwLJUnLGTgqFoRXyqjECmpkfG6jF-HlGHTSkSYGW_esq-fzO_OrXfxWOZJx.JUSIPEu_xOAlRE_K) | [Слайды](https://docs.google.com/presentation/d/1JqcM4B75nZVR33NzSoMDtoOd35CQpgAK8U_SQRDxaDE/edit)|||
+
+Также доступ к материалам есть и на других платформах:
+
+* [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PLcsjsqLLSfNAlDDbL03EZ3aHjQesv1FSC)
+* Видеозаписи и конспекты также доступны на сайте [teach-in](https://teach-in.ru/course/introduction-to-dl-neychev) 
