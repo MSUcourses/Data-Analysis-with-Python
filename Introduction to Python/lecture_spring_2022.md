@@ -14,3 +14,8 @@
 || [Лекция 10. Множества и словари](https://youtu.be/XD-l0Nhi_iY) | [Конспект 10](https://colab.research.google.com/drive/1xOlvt5vjIiT0V-1jBBYWCm1Cq9LXcrH2) |||
 || [Лекция 11. Словарь и операции с ним](https://youtu.be/ffW_HeusBpA) | [Конспект 11](https://colab.research.google.com/drive/1ABlJx6CfHy1ebFQjncs6cRPvHKInRXp-) |||
 || [Лекция 12. Чат-бот в Telegram](https://youtu.be/irQC408YSD8) | [Конспект 12](https://colab.research.google.com/drive/1kgF5zu-WUhRZvWwhsdSKiVI-4H56BZIC#scrollTo=-gzklDergf5v) |||
+
+Также доступ к материалам есть и на других платформах:
+
+* [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PLcsjsqLLSfNByuz66FtX-GSTEjKaYeQhs)
+* Видеозаписи и конспекты также доступны на сайте [teach-in](https://teach-in.ru/course/introduction-to-programming-based-on-python-language)
