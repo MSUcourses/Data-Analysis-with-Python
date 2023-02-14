@@ -17,3 +17,8 @@
 * [Математическая статистика. Семинары (2022)](https://teach-in.ru/course/math-statistics-seminars-ryadnova)
 
 * [Теория вероятностей и математическая статистика (2016)](https://teach-in.ru/course/tvims)
+
+**3. ВМК МГУ имени М.В. Ломоносова:**
+
+* [Ульянов В.В. | Лекции по теории вероятностей, 2022-2023](https://youtube.com/playlist?list=PLhe7c-LCgl4I18jAN4BWEJlSlfNSb_UjI)
+
