@@ -10,13 +10,13 @@
 
 **2. Курсы на платформе Teach-in:**
 
-* [Математическая статистика (2022)](https://teach-in.ru/course/mathematical-statistics-chulichkov2)
+* [лектор Чуличков А.И. | Математическая статистика (2022)](https://teach-in.ru/course/mathematical-statistics-chulichkov2)
 
-* [Математическая статистика. Лекции (2022)](https://teach-in.ru/course/math-statistics-lectures-shabanov/lecture)
+* [лектор Шабанов Д.А. | Математическая статистика. Лекции (2022)](https://teach-in.ru/course/math-statistics-lectures-shabanov/lecture)
 
-* [Математическая статистика. Семинары (2022)](https://teach-in.ru/course/math-statistics-seminars-ryadnova)
+* [преподаватель Ряднова Е.М. | Математическая статистика. Семинары (2022)](https://teach-in.ru/course/math-statistics-seminars-ryadnova)
 
-* [Теория вероятностей и математическая статистика (2016)](https://teach-in.ru/course/tvims)
+* [лектор Сердобольская М.Л. | Теория вероятностей и математическая статистика (2016)](https://teach-in.ru/course/tvims)
 
 
 **3. Курс на факультете ВМК МГУ имени М.В. Ломоносова:**
@@ -28,4 +28,4 @@
 
 * [лектор Родионов И.В. | Математическая статистика (2019) ](https://youtube.com/playlist?list=PL4_hYwCyhAvZZr17tiRCP7ItwRmRnU4QS)
 
-**5. [Платный курс «Математика для анализа данных» от Яндекс.Практикума ](https://practicum.yandex.ru/math-for-da-ds/)**
+**5. Платный курс [«Математика для анализа данных» от Яндекс.Практикума](https://practicum.yandex.ru/math-for-da-ds/)**
