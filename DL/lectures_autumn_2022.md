@@ -1,7 +1,7 @@
 ## 📋 Материалы курса "Введение в глубокое обучение" за осенний семестр 2022/2023 уч.года
 
 Дата лекции | Запись лекции | Конспект 
-|:----:|----|:----:|
+|:----:|----|----|
 |05.10.2022| [Лекция 1. Введение в DL](https://youtu.be/bTdDhAFKPZc)| [Конспект 1](https://colab.research.google.com/drive/1oY4yysrlNVNqWuB6la0LrrABz-Y-lKj6?usp=sharing)|||
 |12.10.2022| [Лекция 2. Построение нейронной сети и ее проверка на реальных данных. Обратное распространение ошибки](https://youtu.be/eNLIN5b96pE)| [Конспект 2](https://colab.research.google.com/drive/11N4BfAlA5xKsJ6KkJ6eGiO7U-UZH58w3?usp=sharing) [Слайды](https://drive.google.com/file/d/1Cw7xlnTRmjC28LLcUh1Aud3Qh5WQgC4g/view?usp=sharing)|||
 |19.10.2022| [Лекция 3. Регуляризация в DL + Оптимизация в DL](https://youtu.be/Ql00acFsEhE)| [Конспект 3](https://colab.research.google.com/drive/1VnVuI0Bic7T6WE6eHjrnsGUTPiUl17jS?usp=sharing) [Слайды](https://drive.google.com/file/d/1OibRGXexJhSq6ID7zIwNSliJGUrBliFr/view?usp=sharing)|||
