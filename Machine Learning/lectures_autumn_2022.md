@@ -1,7 +1,7 @@
 ## 📋 Материалы курса "Машинное обучение для решения прикладных задач" за осенний семестр 2022/2023 уч.года
 
 Дата лекции | Запись лекции | Конспект 
-|:----:|----|:----:|
+|:----:|----|----|
 |05.10.2022| [Лекция 1. Введение в ML](https://youtu.be/-VxkHYeTjko) | [Конспект 1](https://colab.research.google.com/drive/1hTgyT40O6Q-7iVVrjt4aXBkG-urvfo0W?usp=sharing)
 |12.10.2022| [Лекция 2. Метрические алгоритмы](https://youtu.be/jxZRUBKnXl8) | [Конспект 2](https://colab.research.google.com/drive/19JVe3N1ZOqLDbV_NWTE6PbfrY6BE8Vg6?usp=sharing) 
 |19.10.2022| [Лекция 3. Линейные модели классификации](https://youtu.be/EuLlwLcLvZc) |[Конспект 3](https://colab.research.google.com/drive/1xjX_YnXcRr8HSiYLByMHxEIAADqs7QES?usp=sharing)
