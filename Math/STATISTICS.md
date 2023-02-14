@@ -4,9 +4,9 @@
 **1. Бесплатный курс на платформе Stepik:**
 
 * **Основы статистики**
-* [Часть 1](https://stepik.org/course/76/promo)
-* [Часть 2](https://stepik.org/course/524/promo)
-* [Часть 3](https://stepik.org/course/2152/promo)
+[Часть 1](https://stepik.org/course/76/promo)
+[Часть 2](https://stepik.org/course/524/promo)
+[Часть 3](https://stepik.org/course/2152/promo)
 
 **2. Курсы на платформе Teach-in:**
 
