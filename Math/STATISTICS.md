@@ -9,7 +9,6 @@
 
 * [Часть 3](https://stepik.org/course/2152/promo)
 
-
 **2. Курсы на платформе Teach-in:**
 
 * [Математическая статистика (2022)](https://teach-in.ru/course/mathematical-statistics-chulichkov2)
@@ -29,3 +28,5 @@
 **4. Лекторий Физтех-школы прикладной математики и информатики МФТИ:**
 
 * [лектор Родионов И.В. | Математическая статистика (2019) ](https://youtube.com/playlist?list=PL4_hYwCyhAvZZr17tiRCP7ItwRmRnU4QS)
+
+**5. [Платный курс «Математика для анализа данных» от Яндекс.Практикума ](https://practicum.yandex.ru/math-for-da-ds/)**
