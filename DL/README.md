@@ -96,7 +96,7 @@ Ru:
 * [Регистрация для получения доступа к заданиям курса](https://youtu.be/R1_Xzr3Eyso )
 * [Установка Python и Jupyter Notebook на Windows](https://youtu.be/fVu3OjCfVps)
 * [Особенности работы с Google Colab ](https://youtu.be/Fbdisx6XUzw)
-* [Типы ошибок в Яндекс. Контест и способы их устранения ](https://disk.yandex.ru/i/cSHfi_NXpcDDuw)
+* [Типы ошибок в Яндекс. Контест и способы их устранения ](https://youtu.be/y3nRM1Wd_3M)
 
 ## ❓Часто задаваемые вопросы
 
