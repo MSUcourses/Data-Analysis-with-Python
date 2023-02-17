@@ -22,7 +22,7 @@
 
 Дата лекции |Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи
 |:----:|----|----|:----:|:----:|
-|15.02.2023| [Лекция 1. Вводная лекция](https://www.youtube.com/live/BYWlqbTEa9M) | [Конспект 1](https://colab.research.google.com/drive/14CH88ceOlchi59c1AVuzQp55BlXKZoKq?usp=sharing) |||
+|15.02.2023| [Лекция 1. Вводная лекция](https://www.youtube.com/live/BYWlqbTEa9M) | [Конспект 1](https://colab.research.google.com/drive/14CH88ceOlchi59c1AVuzQp55BlXKZoKq?usp=sharing) | [ДЗ 1](https://contest.yandex.ru/contest/46538/problems/) ||
 |22.02.2023| Лекция 2. Текстовые данные | Конспект 2 |||
 |01.03.2023| Лекция 3. Итерируемые объекты | Конспект 3 |||
 |15.03.2023| Лекция 4. Числовые данные | Конспект 4 |||
