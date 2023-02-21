@@ -21,7 +21,7 @@
 
 Дата лекции | Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи 
 |:----:|----|:----:|:----:|:----:|
-|15.02.2023| [Лекция 1. Вводная лекция. Знакомство с Python](https://www.youtube.com/live/8-5AltCJ2-k) | [Конспект 1](https://colab.research.google.com/drive/1UEhcnf3qU6HONbscWxb79DmNcZJ8ooM3) | [ДЗ 1](https://contest.yandex.ru/contest/46539/problems/) ||
+|15.02.2023| [Лекция 1. Вводная лекция. Знакомство с Python](https://www.youtube.com/live/8-5AltCJ2-k) | [Конспект 1](https://colab.research.google.com/drive/1UEhcnf3qU6HONbscWxb79DmNcZJ8ooM3) | [ДЗ 1](https://contest.yandex.ru/contest/46539/problems/) | 05.03.2023 |
 |22.02.2023| Лекция 2. Числовые и текстовые данные и условные конструкции | Конспект 2 |||
 |01.03.2023| Лекция 3. Логический тип данных | Конспект 3 |||
 |15.03.2023| Лекция 4. Циклы | Конспект 4 |||
