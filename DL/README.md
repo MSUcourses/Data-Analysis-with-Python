@@ -17,7 +17,7 @@
 Дата лекции | Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи 
 |:----:|----|:----:|:----:|:----:|
 |15.02.2023| [Лекция 1. Вводная лекция](https://www.youtube.com/watch?v=UVTycaA9tGU) | [Конспект 1](https://colab.research.google.com/drive/1H8RMbqy8-FPkJ5uif8ZJxjvRcp2leKtk)|---|---|
-|22.02.2023| Лекция 2. | Конспект 2 |||
+|22.02.2023| [Лекция 2. ](https://youtube.com/live/C0Ud1RmNG1g) | [Конспект 2](https://colab.research.google.com/drive/1mZhf1Wyg0grBwrDJCWYM7yaAF47Caeeu?usp=sharing) |ДЗ 2 | 12.03.2023|
 |01.03.2023| Лекция 3. | Конспект 3|||
 |15.03.2023| Лекция 4. | Конспект 4 |||
 |22.03.2023| Лекция 5. | Конспект 5 |||
