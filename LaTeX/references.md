@@ -1,4 +1,4 @@
-[Ссылка на онлайн редактор](https://www.overleaf.com)
+Ссылка на онлайн редактор: https://www.overleaf.com
 
 Буквы греческого алфавита: http://www.fkn.ktu10.com/?q=node/3443
 
