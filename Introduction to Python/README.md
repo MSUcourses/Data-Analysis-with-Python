@@ -22,7 +22,7 @@
 Дата лекции | Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи 
 |:----:|----|:----:|:----:|:----:|
 |15.02.2023| [Лекция 1. Вводная лекция. Знакомство с Python](https://www.youtube.com/live/8-5AltCJ2-k) | [Конспект 1](https://colab.research.google.com/drive/1UEhcnf3qU6HONbscWxb79DmNcZJ8ooM3) | [ДЗ 1](https://contest.yandex.ru/contest/46539/problems/) | 05.03.2023 |
-|22.02.2023| [Лекция 2. Ввод и вывод информации. Условные конструкции.](https://youtube.com/live/njuC0Hiuzpg) | [Конспект 2](https://colab.research.google.com/drive/1qkNI-LxHLXVmsp-uc4yvMB8oOuhPWpY5?usp=sharing)| [ДЗ 2](https://contest.yandex.ru/contest/46908/problems/) | 12.03.2023 |
+|22.02.2023| [Лекция 2. Ввод и вывод информации. Условные конструкции](https://youtube.com/live/njuC0Hiuzpg) | [Конспект 2](https://colab.research.google.com/drive/1qkNI-LxHLXVmsp-uc4yvMB8oOuhPWpY5?usp=sharing)| [ДЗ 2](https://contest.yandex.ru/contest/46908/problems/) | 12.03.2023 |
 |01.03.2023| [Лекция 3. Условные конструкции](https://youtube.com/live/4wm0Xw_fs1s) | Конспект 3 |||
 |15.03.2023| Лекция 4. Циклы | Конспект 4 |||
 |22.03.2023| Лекция 5. Итерируемые объекты. Списки | Конспект 5 |||
