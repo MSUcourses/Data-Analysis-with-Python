@@ -16,7 +16,7 @@
 Дата лекции | Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи | Критерии
 |:----:|----|:----:|:----:|:----:|----|
 |15.02.2023| [Лекция 1. Вводная лекция](https://youtube.com/live/yGjpLjQk3Ug) | [Конспект 1](https://colab.research.google.com/drive/1hTgyT40O6Q-7iVVrjt4aXBkG-urvfo0W?usp=sharing) |---|---|---|
-|22.02.2023| [Лекция 2. Метрические алгоритмы](https://youtube.com/live/Qf2qjdTpfK8) | [Конспект 2](https://colab.research.google.com/drive/19JVe3N1ZOqLDbV_NWTE6PbfrY6BE8Vg6?usp=sharing) | [ДЗ 2](https://contest.yandex.ru/contest/46875/problems/) | 12.03.2023 ||
+|22.02.2023| [Лекция 2. Метрические алгоритмы](https://youtube.com/live/Qf2qjdTpfK8) | [Конспект 2](https://colab.research.google.com/drive/19JVe3N1ZOqLDbV_NWTE6PbfrY6BE8Vg6?usp=sharing) | [ДЗ 2](https://contest.yandex.ru/contest/46875/problems/) | 12.03.2023 | За *тестовое задание (№1-10)* при правильном ответе - **1 балл**. Задачи: *P1.Аргументы* - **2 балла**; *P2.Оптимальный K* - **3 балла**; *P3.KNN* - **5 баллов**. Максимально 20 баллов. Домашнее задание будет **засчитано** при выполнении **от 60%** *(т.е. 12 баллов)*. **Сертификат** - при выполнении **от 80%** *(т.е. 16 баллов)*. |
 |01.03.2023| [Лекция 3. Линейные модели классификации](https://www.youtube.com/live/tufpniPKvEc) | Конспект 3||||
 |15.03.2023| Лекция 4. Линейные модели регрессии | Конспект 4 ||||
 |22.03.2023| Лекция 5. Решающие деревья | Конспект 5 ||||
