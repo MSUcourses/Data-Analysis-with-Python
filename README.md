@@ -18,5 +18,5 @@
 	* [Семинары (осень_2022 - весна_2022)](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Math/seminars)
 4. [Машинное обучение для решения прикладных задач](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Machine%20Learning)
 	* [Архив лекций (осень_2022)](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Machine%20Learning/lectures_autumn_2022.md)
-5. [Введение в глубокое обучение](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/DL/HW.md)
+5. [Введение в глубокое обучение](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/DL)
 	* [Архив лекций (осень_2022)](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/DL/lectures_autumn_2022.md)
