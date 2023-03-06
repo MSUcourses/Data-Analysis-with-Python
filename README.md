@@ -9,7 +9,7 @@
 
 ## 📋 Содержание
 
-1. [Введение в программирование на основе языка Python]([https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Introduction%20to%20Python](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Intro%20to%20programming))
+1. [Введение в программирование на основе языка Python](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Intro%20to%20programming)
 	* [Архив лекций (весна_2022)](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Introduction%20to%20Python/lecture_spring_2022.md)
 2. [Основы программирования и анализа данных на Python](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python) 
 	* [Архив лекций (осень_2022)](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Python/lectures_autumn_2022.md)
