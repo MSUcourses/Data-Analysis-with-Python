@@ -24,7 +24,7 @@
 |15.02.2023| [Лекция 1. Вводная лекция. Знакомство с Python](https://www.youtube.com/live/8-5AltCJ2-k) | [Конспект 1](https://colab.research.google.com/drive/1UEhcnf3qU6HONbscWxb79DmNcZJ8ooM3) | [ДЗ 1](https://contest.yandex.ru/contest/46539/problems/) | 05.03.2023 |
 |22.02.2023| [Лекция 2. Ввод и вывод информации. Условные конструкции](https://youtube.com/live/njuC0Hiuzpg) | [Конспект 2](https://colab.research.google.com/drive/1qkNI-LxHLXVmsp-uc4yvMB8oOuhPWpY5?usp=sharing)| [ДЗ 2](https://contest.yandex.ru/contest/46908/problems/) | 12.03.2023 |
 |01.03.2023| [Лекция 3. Условные конструкции](https://youtube.com/live/4wm0Xw_fs1s) | [Конспект 3](https://colab.research.google.com/drive/1V4k2tEWUr9BSdr-2BQnSQpprhKgH1FNk?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/47160/problems/) | 19.03.2023 |
-|15.03.2023| [Лекция 4. Циклы](https://www.youtube.com/live/kV5p2712ttM) | Конспект 4 |||
+|15.03.2023| [Лекция 4. Циклы](https://www.youtube.com/live/kV5p2712ttM) | [Конспект 4](https://colab.research.google.com/drive/1KtJ2QNC2f7dXgGmFlRl5xMC6HekQj7SL?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/47726/problems/) | 02.04.2023 |
 |22.03.2023| Лекция 5. Итерируемые объекты. Списки | Конспект 5 |||
 |29.03.2023| Лекция 6. Срезы строк и списков| Конспект 6 |||
 |05.04.2023| Лекция 7. Файлы | Конспект 7 |||
