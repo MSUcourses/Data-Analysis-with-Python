@@ -19,7 +19,7 @@
 |15.02.2023| [Лекция 1. Вводная лекция](https://www.youtube.com/watch?v=UVTycaA9tGU) | [Конспект 1](https://colab.research.google.com/drive/1H8RMbqy8-FPkJ5uif8ZJxjvRcp2leKtk)|---|---|
 |22.02.2023| [Лекция 2. Pytorch. Метод обратного распространения ошибки](https://youtube.com/live/C0Ud1RmNG1g) | [Конспект 2](https://colab.research.google.com/drive/1mZhf1Wyg0grBwrDJCWYM7yaAF47Caeeu?usp=sharing) | [ДЗ 2](https://contest.yandex.ru/contest/46876/problems/) | 12.03.2023|
 |01.03.2023| [Лекция 3. Обучение по батчам, регуляризация](https://www.youtube.com/live/qvauAflpnyo) | [Конспект 3](https://colab.research.google.com/drive/1wADBJAdbWbKEoZAmp0Tb-P5sqDKfIRa-?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/47171/problems/) | 19.03.2023 |
-|15.03.2023| [Лекция 4. Компьютерное зрение. Сверточные нейросети](https://www.youtube.com/live/qwnAJ8_Fksc) | [Конспект 4](https://colab.research.google.com/drive/1ZMu6C3ZEt3kCSDBNWGM6sicXL5-EhSve?usp=sharing ) |||
+|15.03.2023| [Лекция 4. Компьютерное зрение. Сверточные нейросети](https://www.youtube.com/live/qwnAJ8_Fksc) | [Конспект 4](https://colab.research.google.com/drive/1ZMu6C3ZEt3kCSDBNWGM6sicXL5-EhSve?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/47730/problems/) | 02.04.2023 |
 |22.03.2023| Лекция 5. | Конспект 5 |||
 |29.03.2023| Лекция 6. | Конспект 6 |||
 |05.04.2023| Лекция 7. | Конспект 7 |||
