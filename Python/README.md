@@ -25,7 +25,7 @@
 |15.02.2023| [Лекция 1. Вводная лекция](https://www.youtube.com/live/BYWlqbTEa9M) | [Конспект 1](https://colab.research.google.com/drive/14CH88ceOlchi59c1AVuzQp55BlXKZoKq?usp=sharing) | [ДЗ 1](https://contest.yandex.ru/contest/46538/problems/) | 05.03.2023 |
 |22.02.2023| [Лекция 2. Текстовые данные](https://www.youtube.com/live/jqlHsKgJfvk) | [Конспект 2](https://colab.research.google.com/drive/1bWvnRzsjiFneg5KU5DfA6ts_F9l37ZEj?usp=sharing) | [ДЗ 2](https://contest.yandex.ru/contest/46877/problems/) | 12.03.2023 |
 |01.03.2023| [Лекция 3. Итерируемые объекты](https://youtube.com/live/O1NkbBZhWEY) | [Конспект 3](https://colab.research.google.com/drive/1nDTBYMi4rHCa0R0kFax7SAOwyn1i6x-O?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/47164/problems/) | 19.03.2023 |
-|15.03.2023| [Лекция 4. Числовые данные](https://youtube.com/live/gpWOg8ARV6o) | [Конспект 4](https://colab.research.google.com/drive/1ltKt_-m29veUzT0ol4agjsc3nYd1_jO8?usp=sharing) |||
+|15.03.2023| [Лекция 4. Числовые данные](https://youtube.com/live/gpWOg8ARV6o) | [Конспект 4](https://colab.research.google.com/drive/1ltKt_-m29veUzT0ol4agjsc3nYd1_jO8?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/47719/problems/) | 02.04.2023 |
 |22.03.2023| Лекция 5. Сортировка данных | Конспект 5 |||
 |29.03.2023| Лекция 6. Частотный анализ и группировка данных | Конспект 6 |||
 |05.04.2023| Лекция 7. Библиотека Matplotlib | Конспект 7 |||
