@@ -25,7 +25,7 @@
 |22.02.2023| [Лекция 2. Ввод и вывод информации. Условные конструкции](https://youtube.com/live/njuC0Hiuzpg) | [Конспект 2](https://colab.research.google.com/drive/1qkNI-LxHLXVmsp-uc4yvMB8oOuhPWpY5?usp=sharing)| [ДЗ 2](https://contest.yandex.ru/contest/46908/problems/) | 12.03.2023 |
 |01.03.2023| [Лекция 3. Условные конструкции](https://youtube.com/live/4wm0Xw_fs1s) | [Конспект 3](https://colab.research.google.com/drive/1V4k2tEWUr9BSdr-2BQnSQpprhKgH1FNk?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/47160/problems/) | 19.03.2023 |
 |15.03.2023| [Лекция 4. Циклы](https://www.youtube.com/live/kV5p2712ttM) | [Конспект 4](https://colab.research.google.com/drive/1KtJ2QNC2f7dXgGmFlRl5xMC6HekQj7SL?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/47726/problems/) | 02.04.2023 |
-|22.03.2023| [Лекция 5. Функции](https://youtube.com/live/h2KuzerREQE) | Конспект 5 |||
+|22.03.2023| [Лекция 5. Функции](https://youtube.com/live/h2KuzerREQE) | [Конспект 5](https://colab.research.google.com/drive/15B6M9dx1QvNOVmAf5NrAmCW6bR2_xsmf?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/47972/problems/) | 09.04.2023 |
 |29.03.2023| Лекция 6. Итерируемые объекты. Списки| Конспект 6 |||
 |05.04.2023| Лекция 7. Срезы строк и списков | Конспект 7 |||
 |12.04.2023| Лекция 8. Файлы | Конспект 8 |||
