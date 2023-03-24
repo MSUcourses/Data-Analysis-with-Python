@@ -20,7 +20,7 @@
 |22.02.2023| [Лекция 2. Pytorch. Метод обратного распространения ошибки](https://youtube.com/live/C0Ud1RmNG1g) | [Конспект 2](https://colab.research.google.com/drive/1mZhf1Wyg0grBwrDJCWYM7yaAF47Caeeu?usp=sharing) | [ДЗ 2](https://contest.yandex.ru/contest/46876/problems/) | 12.03.2023|
 |01.03.2023| [Лекция 3. Обучение по батчам, регуляризация](https://www.youtube.com/live/qvauAflpnyo) | [Конспект 3](https://colab.research.google.com/drive/1wADBJAdbWbKEoZAmp0Tb-P5sqDKfIRa-?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/47171/problems/) | 19.03.2023 |
 |15.03.2023| [Лекция 4. Компьютерное зрение. Сверточные нейросети](https://www.youtube.com/live/qwnAJ8_Fksc) | [Конспект 4](https://colab.research.google.com/drive/1ZMu6C3ZEt3kCSDBNWGM6sicXL5-EhSve?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/47730/problems/) | 02.04.2023 |
-|22.03.2023| [Лекция 5. Архитектура сверточных нейросетей. Transfer learning](https://www.youtube.com/live/natx7EVccKg) | [Конспект 5](https://colab.research.google.com/drive/1tURrDYNmn89c0NOboVptNgEOuedK0hbo?usp=sharing) |||
+|22.03.2023| [Лекция 5. Архитектура сверточных нейросетей. Transfer learning](https://www.youtube.com/live/natx7EVccKg) | [Конспект 5](https://colab.research.google.com/drive/1tURrDYNmn89c0NOboVptNgEOuedK0hbo?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/47827/problems/) | 09.04.2023 |
 |29.03.2023| Лекция 6. | Конспект 6 |||
 |05.04.2023| Лекция 7. | Конспект 7 |||
 |12.04.2023| Лекция 8. | Конспект 8 |||
