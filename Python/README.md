@@ -27,7 +27,7 @@
 |01.03.2023| [Лекция 3. Итерируемые объекты](https://youtube.com/live/O1NkbBZhWEY) | [Конспект 3](https://colab.research.google.com/drive/1nDTBYMi4rHCa0R0kFax7SAOwyn1i6x-O?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/47164/problems/) | 19.03.2023 |
 |15.03.2023| [Лекция 4. Числовые данные](https://youtube.com/live/gpWOg8ARV6o) | [Конспект 4](https://colab.research.google.com/drive/1ltKt_-m29veUzT0ol4agjsc3nYd1_jO8?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/47719/problems/) | 02.04.2023 |
 |22.03.2023| [Лекция 5. Сортировка данных](https://youtube.com/live/I5tbOe4lydw) | [Конспект 5](https://colab.research.google.com/drive/1NstnAsm0qS3f6FQHgJNV-PpMpvHsrKIL?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/47823/problems/)| 09.04.2023 |
-|29.03.2023| Лекция 6. Частотный анализ и группировка данных | Конспект 6 |||
+|29.03.2023| [Лекция 6. Частотный анализ](https://www.youtube.com/live/FFbGGIvIx0s) | [Конспект 6](https://colab.research.google.com/drive/1ru8FIjKqeeZ5ccpMty9_ctt3Q9uFRQyx?usp=sharing ) |||
 |05.04.2023| Лекция 7. Библиотека Matplotlib | Конспект 7 |||
 |12.04.2023| Лекция 8. Библиотека NumPy | Конспект 8 |||
 |19.04.2023| Лекция 9. Логика, NumPy, библиотека Pandas | Конспект 9 |||
