@@ -21,7 +21,7 @@
 |01.03.2023| [Лекция 3. Обучение по батчам, регуляризация](https://www.youtube.com/live/qvauAflpnyo) | [Конспект 3](https://colab.research.google.com/drive/1wADBJAdbWbKEoZAmp0Tb-P5sqDKfIRa-?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/47171/problems/) | 19.03.2023 |
 |15.03.2023| [Лекция 4. Компьютерное зрение. Сверточные нейросети](https://www.youtube.com/live/qwnAJ8_Fksc) | [Конспект 4](https://colab.research.google.com/drive/1ZMu6C3ZEt3kCSDBNWGM6sicXL5-EhSve?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/47730/problems/) | 02.04.2023 |
 |22.03.2023| [Лекция 5. Архитектура сверточных нейросетей. Transfer learning](https://www.youtube.com/live/natx7EVccKg) | [Конспект 5](https://colab.research.google.com/drive/1tURrDYNmn89c0NOboVptNgEOuedK0hbo?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/47827/problems/) | 09.04.2023 |
-|29.03.2023| [Лекция 6. Эмбеддинги, word2vec](https://www.youtube.com/live/yZ1bHd6-j9E) | [Конспект 6](https://colab.research.google.com/drive/16V-CiuxFBXkUkQDJh4xOI0ERf9MXDtox?usp=sharing) |||
+|29.03.2023| [Лекция 6. Эмбеддинги, word2vec](https://www.youtube.com/live/yZ1bHd6-j9E) | [Конспект 6](https://colab.research.google.com/drive/16V-CiuxFBXkUkQDJh4xOI0ERf9MXDtox?usp=sharing) | [ДЗ 6](https://contest.yandex.ru/contest/48235/problems/) | 16.04.2023 |
 |05.04.2023| Лекция 7. | Конспект 7 |||
 |12.04.2023| Лекция 8. | Конспект 8 |||
 |19.04.2023| Лекция 9. | Конспект 9 |||
