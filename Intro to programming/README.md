@@ -27,7 +27,7 @@
 |15.03.2023| [Лекция 4. Циклы](https://www.youtube.com/live/kV5p2712ttM) | [Конспект 4](https://colab.research.google.com/drive/1KtJ2QNC2f7dXgGmFlRl5xMC6HekQj7SL?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/47726/problems/) | 02.04.2023 |
 |22.03.2023| [Лекция 5. Функции](https://youtube.com/live/h2KuzerREQE) | [Конспект 5](https://colab.research.google.com/drive/15B6M9dx1QvNOVmAf5NrAmCW6bR2_xsmf?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/47972/problems/) | 09.04.2023 |
 |29.03.2023| [Лекция 6.  Текстовые данные. Файлы](https://www.youtube.com/live/E7UGbujLPdQ) | [Конспект 6](https://colab.research.google.com/drive/1v3CnobWyZ-xNIocCGNUjlYIaqHKA612X?usp=sharing) | [ДЗ 6](https://contest.yandex.ru/contest/48312/problems/) | 16.04.2023 |
-|05.04.2023| Лекция 7. Срезы строк и списков | Конспект 7 |||
+|05.04.2023| [Лекция 7. Срезы строк и списков](https://youtube.com/live/D0v0Ab-u1_k) | [Конспект 7](https://colab.research.google.com/drive/11Pchb5tJHqwKiphbBIFC8IfYXw_xlO8N?usp=sharing) | [ДЗ 7](https://contest.yandex.ru/contest/48522/problems/) | 23.04.2023 |
 |12.04.2023| Лекция 8. Файлы | Конспект 8 |||
 |19.04.2023| Лекция 9. Модули, пакеты (библиотеки) | Конспект 9 |||
 |26.04.2023| Лекция 10. Множества | Конспект 10 |||
