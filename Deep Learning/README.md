@@ -22,7 +22,7 @@
 |15.03.2023| [Лекция 4. Компьютерное зрение. Сверточные нейросети](https://www.youtube.com/live/qwnAJ8_Fksc) | [Конспект 4](https://colab.research.google.com/drive/1ZMu6C3ZEt3kCSDBNWGM6sicXL5-EhSve?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/47730/problems/) | 02.04.2023 |
 |22.03.2023| [Лекция 5. Архитектура сверточных нейросетей. Transfer learning](https://www.youtube.com/live/natx7EVccKg) | [Конспект 5](https://colab.research.google.com/drive/1tURrDYNmn89c0NOboVptNgEOuedK0hbo?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/47827/problems/) | 09.04.2023 |
 |29.03.2023| [Лекция 6. Эмбеддинги, word2vec](https://www.youtube.com/live/yZ1bHd6-j9E) | [Конспект 6](https://colab.research.google.com/drive/16V-CiuxFBXkUkQDJh4xOI0ERf9MXDtox?usp=sharing) | [ДЗ 6](https://contest.yandex.ru/contest/48235/problems/) | 16.04.2023 |
-|05.04.2023| Лекция 7. | Конспект 7 |||
+|05.04.2023| [Лекция 7. Языковое моделирование и RNN](https://youtube.com/live/AvBmhXx-bKg) | [Конспект 7](https://colab.research.google.com/drive/18RBcmlZyiB2h0Ss5U-zdsmVn6QO-QvJ3?usp=sharing) | [ДЗ 7](https://contest.yandex.ru/contest/48477/problems/) | 23.04.2023 |
 |12.04.2023| Лекция 8. | Конспект 8 |||
 |19.04.2023| Лекция 9. | Конспект 9 |||
 |26.04.2023| Лекция 10. | Конспект 10 |||
