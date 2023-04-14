@@ -48,7 +48,7 @@ $\LaTeX$ — это программное обеспечение для наб�
 
 ## 📝 Ссылки и дополнительная литература
 - К. В. Воронцов. [LaTeX2e][latex_examples] в примерах. — 2005. — 56 c.
-- Добавление ссылок на литературу с помощью [bibtex][bibtex].
+- Добавление ссылок на литературу с помощью [bibtex][bibtex]. Онлайн [конвертер][bib2bib] bibtex в bibitem.
 
 
 
@@ -69,3 +69,4 @@ $\LaTeX$ — это программное обеспечение для наб�
 [latex2e]: https://github.com/latex3/latex2e
 [latex_wiki]: https://en.wikipedia.org/wiki/LaTeX
 [bibtex]: https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex
+[bib2bib]: https://asouqi.github.io/bibtex-converter/
