@@ -1,0 +1,113 @@
+% ****** Start of file aipsamp.tex ******
+%
+%   This file is part of the AIP files in the AIP distribution for REVTeX 4.
+%   Version 4.1 of REVTeX, October 2009
+%
+%   Copyright (c) 2009 American Institute of Physics.
+%
+%   See the AIP README file for restrictions and more information.
+%
+% TeX'ing this file requires that you have AMS-LaTeX 2.0 installed
+% as well as the rest of the prerequisites for REVTeX 4.1
+% 
+% It also requires running BibTeX. The commands are as follows:
+%
+%  1)  latex  aipsamp
+%  2)  bibtex aipsamp
+%  3)  latex  aipsamp
+%  4)  latex  aipsamp
+%
+% Use this file as a source of example code for your aip document.
+% Use the file aiptemplate.tex as a template for your document.
+\documentclass[%
+ aip,
+% jmp,
+% bmf,
+% sd,
+% rsi,
+ amsmath,amssymb,
+%preprint,%
+ reprint,%
+%author-year,%
+%author-numerical,%
+% Conference Proceedings
+]{revtex4-1}
+
+\usepackage{graphicx}% Include figure files
+\usepackage{dcolumn}% Align table columns on decimal point
+\usepackage{bm}% bold math
+%\usepackage[mathlines]{lineno}% Enable numbering of text and display math
+%\linenumbers\relax % Commence numbering lines
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage{etoolbox}
+
+%% Apr 2021: AIP requests that the corresponding 
+%% email to be moved after the affiliations
+\makeatletter
+\def\@email#1#2{%
+ \endgroup
+ \patchcmd{\titleblock@produce}
+  {\frontmatter@RRAPformat}
+  {\frontmatter@RRAPformat{\produce@RRAP{*#1\href{mailto:#2}{#2}}}\frontmatter@RRAPformat}
+  {}{}
+}%
+\makeatother
+\begin{document}
+
+\preprint{AIP/123-QED}
+
+\title[Sample title]{Sample Title:\\with Forced Linebreak}
+% Force line breaks with \\
+\author{A. Author}
+ \altaffiliation[Also at ]{Physics Department, XYZ University.}%Lines break automatically or can be forced with \\
+\author{B. Author}%
+ \email{Second.Author@institution.edu.}
+\affiliation{ 
+Authors' institution and/or address%\\This line break forced with \textbackslash\textbackslash
+}%
+
+\author{C. Author}
+ \homepage{http://www.Second.institution.edu/~Charlie.Author.}
+\affiliation{%
+Second institution and/or address%\\This line break forced% with \\
+}%
+
+\date{\today}% It is always \today, today,
+             %  but any date may be explicitly specified
+
+\begin{abstract}
+An article usually includes an abstract, a concise summary of the work
+covered at length in the main body of the article. It is used for
+secondary publications and for information retrieval purposes. 
+\end{abstract}
+
+\maketitle
+
+\begin{quotation}
+The ``lead paragraph'' is encapsulated with the \LaTeX\ 
+\verb+quotation+ environment and is formatted as a single paragraph before the first section heading. 
+(The \verb+quotation+ environment reverts to its usual meaning after the first sectioning command.) 
+Note that numbered references are allowed in the lead paragraph.
+%
+The lead paragraph will only be found in an article being prepared for the journal \textit{Chaos}.
+\end{quotation}
+
+\section{Introduction}
+\input{Text/intro}
+
+\section{Related Work}
+\subsection{Classic Object Detectors}
+\input{Text/classic_object_detectors}
+
+
+\newpage
+
+\nocite{*}
+\bibliography{aipsamp}% Produces the bibliography via BibTeX.
+
+\end{document}
+%
+% ****** End of file aipsamp.tex ******

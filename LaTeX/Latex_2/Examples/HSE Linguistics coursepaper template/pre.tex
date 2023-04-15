@@ -1,0 +1,124 @@
+%!TEX TS-program = xelatex
+\documentclass[a4paper,12pt]{article}
+\usepackage[left=30mm, top=30mm, right=30mm, bottom=30mm, nohead, nofoot]{geometry}
+%\usepackage[english,russian]{babel} %% загружает пакет многоязыковой вёрстки
+	\usepackage{fontspec}
+\setmainfont[
+BoldFont=Montserrat-Bold.ttf,
+ItalicFont=Montserrat-Italic.ttf,
+BoldItalicFont=Montserrat-BoldItalic.ttf
+]{Montserrat-Regular.ttf}
+	
+	%%% Дополнительная работа с математикой
+    \usepackage{float}
+	\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} % AMS
+	\usepackage{icomma} % "Умная" запятая: $0,2$ --- число, $0, 2$ --- перечисление
+	
+	%%% Работа с картинками
+	\usepackage{wrapfig} % Обтекание рисунков текстом
+	\usepackage{rotating}
+    \usepackage{subfigure}
+	\usepackage{hhline}
+	\usepackage{lscape}
+	\usepackage[usenames,dvipsnames,svgnames,table,rgb]{xcolor}%пакет для использования цветов
+	
+	\usepackage{enumitem}
+	\setlist{nolistsep, leftmargin=5mm}
+	
+	%%% Работа с таблицами
+	\usepackage{array,tabularx,tabulary,booktabs} % Дополнительная работа с таблицами
+	\usepackage{longtable} % Длинные таблицы
+	\usepackage{multirow} % Слияние строк в таблице
+	
+	\usepackage{multicol} % Несколько колонок
+	
+	%%% Страница
+	\usepackage{extsizes} % Возможность сделать 14-й шрифт
+	\usepackage{geometry} % Простой способ задавать поля
+	\geometry{top=20mm}
+	\geometry{bottom=20mm}
+	\geometry{left=20mm}
+	\geometry{right=20mm}
+    
+    \usepackage{hyperref}
+	
+	%\usepackage{fancyhdr} % Колонтитулы
+	% \pagestyle{fancy}
+	%\renewcommand{\headrulewidth}{0pt} % Толщина линейки, отчеркивающей верхний колонтитул
+	% \lfoot{Нижний левый}
+	% \rfoot{Нижний правый}
+	% \rhead{Верхний правый}
+	% \chead{Верхний в центре}
+	% \lhead{Верхний левый}
+	% \cfoot{Нижний в центре} % По умолчанию здесь номер страницы
+	
+	\usepackage{setspace} % Интерлиньяж
+	\onehalfspacing % Интерлиньяж 1.5
+% 	\doublespacing % Интерлиньяж 2
+	%\singlespacing % Интерлиньяж 1
+	
+	\usepackage{lastpage} % Узнать, сколько всего страниц в документе.
+	\usepackage{soul} % Модификаторы начертания
+	\usepackage{bbding}
+	\usepackage{hyperref}
+	\usepackage[usenames,dvipsnames,svgnames,table,rgb]{xcolor}
+	\hypersetup{ % Гиперссылки
+	colorlinks=true, % false: ссылки в рамках; true: цветные ссылки
+	linkcolor=black, % внутренние ссылки
+	citecolor=black, % на библиографию
+	filecolor=black, % на файлы
+	urlcolor=ForestGreen % на URL
+	}
+	
+	\usepackage{environ}
+	\makeatletter
+	\newsavebox{\measure@tikzpicture}
+	\NewEnviron{scaletikzpicturetowidth}[1]{%
+	\def\tikz@width{#1}%
+	\def\tikzscale{1}\begin{lrbox}{\measure@tikzpicture}%
+	\BODY
+	\end{lrbox}%
+	\pgfmathparse{#1/\wd\measure@tikzpicture}%
+	\edef\tikzscale{\pgfmathresult}%
+	\BODY
+	}
+	\makeatother
+	
+    \usepackage{verbatim}
+	
+	\usepackage{attachfile2}
+	\attachfilesetup{appearance=true,
+	color=0 0 0
+	}
+	
+	%%% Лингвистические пакеты
+	%\usepackage{savetrees} % пакет, который экономит место
+	\usepackage{forest} % для рисования деревьев
+	\usepackage{vowel} % для рисования трапеций гласных
+	\usepackage{natbib}
+	\bibpunct[: ]{[}{]}{;}{a}{}{,}
+	\usepackage{philex} % пакет для примеров
+    
+	\renewcommand{\thesection}{\arabic{section}.}
+	\renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
+	\setlength{\columnsep}{1.6cm}
+	
+	\usepackage{sectsty}
+	\sectionfont{\normalsize}
+	\subsectionfont{\normalsize}
+	\usepackage{titlesec}
+	\titlespacing*{\section}
+	{0pt}{2ex plus 0ex minus .2ex}{0ex plus .2ex}
+	\titlespacing*{\subsection}
+	{0pt}{2ex plus 0ex minus .2ex}{0ex plus .2ex}
+	\newlength{\bibitemsep}\setlength{\bibitemsep}{.2\baselineskip plus .05\baselineskip minus .05\baselineskip}
+	\newlength{\bibparskip}\setlength{\bibparskip}{0pt}
+	\let\oldthebibliography\thebibliography
+	\renewcommand\thebibliography[1]{%
+	\oldthebibliography{#1}%
+	\setlength{\parskip}{\bibitemsep}%
+	\setlength{\itemsep}{\bibparskip}%
+	}
+\usepackage{tikz}
+\usepackage{pstricks}
+\usetikzlibrary{arrows,positioning,shapes.geometric}

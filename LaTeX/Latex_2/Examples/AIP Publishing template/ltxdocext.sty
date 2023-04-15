@@ -1,0 +1,296 @@
+%%
+%% This is file `ltxdocext.sty',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% ltxdocext.dtx  (with options: `package,kernel')
+%% 
+%% This is a generated file;
+%% altering it directly is inadvisable;
+%% instead, modify the original source file.
+%% See the URL in the file README.
+%% 
+%% License
+%%    You may distribute this file under the conditions of the
+%%    LaTeX Project Public License 1.3 or later
+%%    (http://www.latex-project.org/lppl.txt).
+%% 
+%%    This file is distributed WITHOUT ANY WARRANTY;
+%%    without even the implied warranty of MERCHANTABILITY
+%%    or FITNESS FOR A PARTICULAR PURPOSE.
+%% 
+\NeedsTeXFormat{LaTeX2e}[1995/12/01]%
+\ProvidesFile{ltxdocext.sty}%
+ [2008/08/04 1.1b2 ltxdoc extensions package]% \fileversion
+\def\class@name{ltxdocext}%
+\expandafter\PackageInfo\expandafter{\class@name}{%
+ An extension to the \protect\LaTeXe\space ltxdoc class
+ by A. Ogawa (arthur\_ogawa sbcglobal.net)%
+}%
+\RequirePackage{verbatim}%
+\let\o@verbatim\verbatim
+\def\verbatim{%
+  \ifhmode\unskip\par\fi
+  \ifx\@currsize\normalsize
+     \small
+  \fi
+  \o@verbatim
+}%
+\renewcommand \verbatim@font {%
+  \normalfont \ttfamily
+  \catcode`\<=\active
+  \catcode`\>=\active
+}%
+\RequirePackage{shortvrb}
+\AtBeginDocument{%
+ \MakeShortVerb{\|}%
+}%
+\begingroup
+  \catcode`\<=\active
+  \catcode`\>=\active
+  \gdef<{\@ifnextchar<\@lt\@meta}
+  \gdef>{\@ifnextchar>\@gt\@gtr@err}
+  \gdef\@meta#1>{\marg{#1}}
+  \gdef\@lt<{\char`\<}
+  \gdef\@gt>{\char`\>}
+\endgroup
+\def\@gtr@err{%
+   \ClassError{ltxguide}{%
+      Isolated \protect>%
+   }{%
+      In this document class, \protect<...\protect>
+      is used to indicate a parameter.\MessageBreak
+      I've just found a \protect> on its own.
+      Perhaps you meant to type \protect>\protect>?
+   }%
+}
+\def\verbatim@nolig@list{\do\`\do\,\do\'\do\-}
+\def\GetFileInfo#1{%
+  \def\filename{#1}%
+  \def\@tempb##1 ##2 ##3\relax##4\relax{%
+    \def\filedate{##1}%
+    \def\fileversion{##2}%
+    \def\fileinfo{##3}}%
+  \edef\@tempa{\csname ver@#1\endcsname}%
+  \expandafter\@tempb\@tempa\relax? ? \relax\relax}
+\DeclareRobustCommand{\marg}[1]{%
+ \meta{#1}%
+ \index{#1=\string\meta{#1} placeholder}\index{placeholder>#1=\string\meta{#1}}%
+}%
+\DeclareRobustCommand\meta[1]{%
+ \mbox{\LANGLE\itshape#1\/\RANGLE}%
+}%
+\def\LANGLE{$\langle$}%
+\def\RANGLE{$\rangle$}%
+\DeclareRobustCommand{\arg}[1]{%
+ {\ttfamily\string{}\meta{#1}{\ttfamily\string}}%
+ \index{#1=\string\ttt{#1}, argument}\index{argument>#1=\string\ttt{#1}}%
+}%
+\let\oarg\undefined
+\DeclareRobustCommand{\oarg}[1]{%
+ {\ttfamily[%]
+  }\meta{#1}{\ttfamily%[
+ ]}%
+ \index{#1=\string\ttt{#1}, optional argument}%
+ \index{argument, optional>#1=\string\ttt{#1}}%
+}%
+\DeclareRobustCommand\cmd{\begingroup\makeatletter\@cmd}%
+\long\def\@cmd#1{%
+ \endgroup
+ \cs{\expandafter\cmd@to@cs\string#1}%
+ \expandafter\cmd@to@index\string#1\@nil
+}%
+\def\cmd@to@cs#1#2{\char\number`#2\relax}%
+\def\cmd@to@index#1#2\@nil{%
+ \index{#2=\string\cmd#1#2}%\index{command>#2=\string\cmd#1#2}%
+}%
+\DeclareRobustCommand\cs[1]{{\ttfamily\char`\\#1}}%
+\def\scmd#1{%
+ \cs{\expandafter\cmd@to@cs\string#1}%
+ \expandafter\scmd@to@index\string#1\@nil
+}%
+\def\scmd@to@index#1#2\@nil#3{%
+ \index{\string$#3=\string\cmd#1#2---#3}%
+}%
+\DeclareRobustCommand\env{\name@idx{environment}}%
+\DeclareRobustCommand\envb[1]{%
+ {\ttfamily\string\begin\string{}\env{#1}{\ttfamily\string}}%
+}%
+\DeclareRobustCommand\enve[1]{{\ttfamily\string\end\string{}\env{#1}{\ttfamily\string}}}%
+\DeclareRobustCommand{\file}{\begingroup\@sanitize\@file}%
+\long\def\@file#1{\endgroup
+ {\ttfamily#1}%
+ \index{#1=\string\ttt{#1}}\index{file>#1=\string\ttt{#1}}%
+}%
+\DeclareRobustCommand\substyle{\name@idx{document substyle}}%
+\DeclareRobustCommand\classoption{\name@idx{document class option}}%
+\DeclareRobustCommand\classname{\name@idx{document class}}%
+\def\name@idx#1#2{%
+ {\ttfamily#2}%
+ \index{#2\space#1=\string\ttt{#2}\space#1}\index{#1>#2=\string\ttt{#2}}%
+}%
+\DeclareRobustCommand\url@ltxdocext{\begingroup\catcode`\/\active\catcode`\.\active\catcode`\:\active\@url}%
+\AtBeginDocument{%
+ \ifx\url\undefined\let\url\url@ltxdocext\fi
+}%
+\def\@url#1{%
+ \url@break{\ttfamily#1}%
+ \url@char\edef\@tempa{#1=\string\url{#1}}%
+ \expandafter\index\expandafter{\@tempa}%
+ \expandafter\index\expandafter{\expandafter u\expandafter r\expandafter l\expandafter >\@tempa}%
+ \endgroup
+}%
+{\catcode`\:\active\aftergroup\def\aftergroup:}{\active@colon}%
+\def\colon@break{\colon@char\allowbreak}%
+\def\colon@char{:}%
+{\catcode`\/\active\aftergroup\def\aftergroup/}{\active@slash}%
+\def\slash@break{\slash@char\allowbreak}%
+\def\slash@char{/}%
+{\catcode`\.\active\aftergroup\def\aftergroup.}{\active@dot}%
+\def\dot@break{\dot@char\allowbreak}%
+\def\dot@char{.}%
+\def\url@break{\let\active@slash\slash@break\let\active@dot\dot@break\let\active@colon\colon@break}%
+\def\url@char{\let\active@slash\slash@char\let\active@dot\dot@char\let\active@colon\colon@char}%
+\renewenvironment{theindex}
+               {\if@twocolumn
+                  \@restonecolfalse
+                \else
+                  \@restonecoltrue
+                \fi
+                \columnseprule \z@
+                \columnsep 35\p@
+\def\see##1##2{\textit{See} ##1}%
+\def\seealso##1##2{\textit{See also} ##1}%
+\long\def\cmd##1{\cs{\expandafter\cmd@to@cs\string##1}}%
+\def\@url##1{\url@break\ttt{##1}\endgroup}%
+\def\ttt{\begingroup\@sanitize\ttfamily\@ttt}%
+\def\@ttt##1{##1\endgroup}%
+\mathchardef\save@secnumdepth\c@secnumdepth
+\c@secnumdepth\m@ne
+                \twocolumn[\section{\indexname}]%
+\c@secnumdepth\save@secnumdepth
+                \thispagestyle{plain}\parindent\z@
+                \parskip\z@ \@plus .3\p@\relax
+                \let\item\@idxitem}
+               {\if@restonecol\onecolumn\else\clearpage\fi}
+\renewenvironment{quote}
+               {\list{}{%
+                \leftmargin1em\relax
+                \rightmargin\leftmargin
+                }%
+                \item\relax}
+               {\endlist}
+\newif\if@mainmatter
+\newif\if@openright
+\@openrighttrue
+\DeclareRobustCommand\frontmatter{%
+  \cleartorecto
+  \@mainmatterfalse
+  \pagenumbering{roman}%
+}%
+\DeclareRobustCommand\mainmatter{%
+  \cleartorecto
+  \@mainmattertrue
+  \pagenumbering{arabic}%
+}%
+\DeclareRobustCommand\backmatter{%
+  \if@openright
+    \cleartorecto
+  \else
+    \clearpage
+  \fi
+  \@mainmatterfalse
+}%
+\ifx\undefined\cleartorecto
+ \def\cleartorecto{\cleardoublepage}%
+\fi
+\def\@to{to}%
+\newenvironment{unnumtable}{%
+ \par
+ \addpenalty\predisplaypenalty
+ \addvspace\abovedisplayskip
+ \hbox\@to\hsize\bgroup\hfil\ignorespaces
+  \let\@Hline\@empty
+}{%
+ \unskip\hfil\egroup
+ \penalty\postdisplaypenalty
+ \vskip\belowdisplayskip
+ \aftergroup\ignorespaces
+ \@endpetrue
+}%
+\providecommand\toprule{\hline\hline}%
+\providecommand\colrule{\\\hline}%
+\providecommand\botrule{\\\hline\hline}%
+\DeclareRobustCommand\subsubsubsection{%
+ \@startsection{subsubsection}{4}%
+  {\z@}{-15\p@\@plus-5\p@\@minus-2\p@}%
+  {5\p@}{\normalfont\normalsize\itshape}%
+}%
+\DoNotIndex{\',\.,\@M,\@@input,\@Alph,\@alph,\@addtoreset,\@arabic}
+\DoNotIndex{\@badmath,\@centercr,\@cite}
+\DoNotIndex{\@dotsep,\@empty,\@float,\@gobble,\@gobbletwo,\@ignoretrue}
+\DoNotIndex{\@input,\@ixpt,\@m,\@minus,\@mkboth}
+\DoNotIndex{\@ne,\@nil,\@nomath,\@plus,\roman,\@set@topoint}
+\DoNotIndex{\@tempboxa,\@tempcnta,\@tempdima,\@tempdimb}
+\DoNotIndex{\@tempswafalse,\@tempswatrue,\@viipt,\@viiipt,\@vipt}
+\DoNotIndex{\@vpt,\@warning,\@xiipt,\@xipt,\@xivpt,\@xpt,\@xviipt}
+\DoNotIndex{\@xxpt,\@xxvpt,\\,\ ,\addpenalty,\addtolength,\addvspace}
+\DoNotIndex{\advance,\ast,\begin,\begingroup,\bfseries,\bgroup,\box}
+\DoNotIndex{\bullet}
+\DoNotIndex{\cdot,\cite,\CodelineIndex,\cr,\day,\DeclareOption}
+\DoNotIndex{\def,\DisableCrossrefs,\divide,\DocInput,\documentclass}
+\DoNotIndex{\DoNotIndex,\egroup,\ifdim,\else,\fi,\em,\endtrivlist}
+\DoNotIndex{\EnableCrossrefs,\end,\end@dblfloat,\end@float,\endgroup}
+\DoNotIndex{\endlist,\everycr,\everypar,\ExecuteOptions,\expandafter}
+\DoNotIndex{\fbox}
+\DoNotIndex{\filedate,\filename,\fileversion,\fontsize,\framebox,\gdef}
+\DoNotIndex{\global,\halign,\hangindent,\hbox,\hfil,\hfill,\hrule}
+\DoNotIndex{\hsize,\hskip,\hspace,\hss,\if@tempswa,\ifcase,\or,\fi,\fi}
+\DoNotIndex{\ifhmode,\ifvmode,\ifnum,\iftrue,\ifx,\fi,\fi,\fi,\fi,\fi}
+\DoNotIndex{\input}
+\DoNotIndex{\jobname,\kern,\leavevmode,\let,\leftmark}
+\DoNotIndex{\list,\llap,\long,\m@ne,\m@th,\mark,\markboth,\markright}
+\DoNotIndex{\month,\newcommand,\newcounter,\newenvironment}
+\DoNotIndex{\NeedsTeXFormat,\newdimen}
+\DoNotIndex{\newlength,\newpage,\nobreak,\noindent,\null,\number}
+\DoNotIndex{\numberline,\OldMakeindex,\OnlyDescription,\p@}
+\DoNotIndex{\pagestyle,\par,\paragraph,\paragraphmark,\parfillskip}
+\DoNotIndex{\penalty,\PrintChanges,\PrintIndex,\ProcessOptions}
+\DoNotIndex{\protect,\ProvidesClass,\raggedbottom,\raggedright}
+\DoNotIndex{\refstepcounter,\relax,\renewcommand}
+\DoNotIndex{\rightmargin,\rightmark,\rightskip,\rlap,\rmfamily}
+\DoNotIndex{\secdef,\selectfont,\setbox,\setcounter,\setlength}
+\DoNotIndex{\settowidth,\sfcode,\skip,\sloppy,\slshape,\space}
+\DoNotIndex{\symbol,\the,\trivlist,\typeout,\tw@,\undefined,\uppercase}
+\DoNotIndex{\usecounter,\usefont,\usepackage,\vfil,\vfill,\viiipt}
+\DoNotIndex{\viipt,\vipt,\vskip,\vspace}
+\DoNotIndex{\wd,\xiipt,\year,\z@}
+\DoNotIndex{\next}
+\AtEndDocument{\PrintIndex\PrintChanges}%
+\makeatletter
+\def\endfilecontents{%
+ \immediate\write\reserved@c{%
+  \string\iffalse\space ltxdoc klootch^^J%
+  \ifx\undefined\fileversion\else
+  \ifx\undefined\filedate\else
+  This file has version number \fileversion, last revised \filedate.%
+  \fi\fi
+  \string\fi
+ }%
+ \immediate\closeout\reserved@c
+ \def\T##1##2##3{%
+  \ifx##1\@undefined\else
+    \@latex@warning@no@line{##2 has been converted to Blank ##3e}%
+  \fi
+ }%
+ \T\L{Form Feed}{Lin}%
+ \T\I{Tab}{Spac}%
+ \immediate\write\@unused{}%
+}%
+\expandafter\let\csname endfilecontents*\endcsname\endfilecontents
+\makeatother
+\setlength\arraycolsep{0pt}%
+\endinput
+%%
+%% End of file `ltxdocext.sty'.

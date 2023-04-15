@@ -1,0 +1,15 @@
+Current state-of-the-art object detectors are based on
+a two-stage, proposal-driven mechanism. As popularized
+in the R-CNN framework, the first stage generates a
+sparse set of candidate object locations and the second stage
+classifies each candidate location as one of the foreground
+classes or as background using a convolutional neural network. Through a sequence of advances , this
+two-stage framework consistently achieves top accuracy on
+the challenging COCO benchmark.
+Despite the success of two-stage detectors, a natural
+question to ask is: could a simple one-stage detector achieve
+similar accuracy? One stage detectors are applied over a
+regular, dense sampling of object locations, scales, and aspect ratios. Recent work on one-stage detectors, such as
+YOLO and SSD, demonstrates promising
+results, yielding faster detectors with accuracy within 10-
+40\% relative to state-of-the-art two-stage methods.
