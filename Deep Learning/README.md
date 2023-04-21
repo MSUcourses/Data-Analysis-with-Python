@@ -24,7 +24,7 @@
 |29.03.2023| [Лекция 6. Эмбеддинги, word2vec](https://www.youtube.com/live/yZ1bHd6-j9E) | [Конспект 6](https://colab.research.google.com/drive/16V-CiuxFBXkUkQDJh4xOI0ERf9MXDtox?usp=sharing) | [ДЗ 6](https://contest.yandex.ru/contest/48235/problems/) | 16.04.2023 |
 |05.04.2023| [Лекция 7. Языковое моделирование и RNN](https://youtube.com/live/AvBmhXx-bKg) | [Конспект 7](https://colab.research.google.com/drive/18RBcmlZyiB2h0Ss5U-zdsmVn6QO-QvJ3?usp=sharing) | [ДЗ 7](https://contest.yandex.ru/contest/48477/problems/) | 23.04.2023 |
 |12.04.2023| [Лекция 8. Задача машинного перевода (seq2seq). Механизм Attention](https://www.youtube.com/live/oFVToNLVzKw) | [Конспект 8](https://colab.research.google.com/drive/1-Btn7xdS112ic9Qjwmhfs7EibFy2mwG2?usp=sharing) | [ДЗ 8](https://contest.yandex.ru/contest/48751/problems/) | 30.04.2023 |
-|19.04.2023| [Лекция 9. Компьютерное зрение. Сегментация и детекция](https://www.youtube.com/live/TW5HrbkAJKU) | [Конспект 9](https://colab.research.google.com/drive/1HRUeBp89XvZ1TMi3fW6wBkqfGoiZjZao?usp=sharing) | [ДЗ 9](https://t.me/c/1684649676/157) | 07.05.2023 |
+|19.04.2023| [Лекция 9. Компьютерное зрение. Сегментация и детекция](https://www.youtube.com/live/TW5HrbkAJKU) | [Конспект 9](https://colab.research.google.com/drive/1HRUeBp89XvZ1TMi3fW6wBkqfGoiZjZao?usp=sharing) | [ДЗ 9](https://t.me/c/1684649676/159) | 07.05.2023 |
 |26.04.2023| Лекция 10. | Конспект 10 |||
 |03.05.2023| Лекция 11. | Конспект 11 |||
 |10.05.2023| Лекция 12. | Конспект 12 |---|---|
