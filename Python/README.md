@@ -30,7 +30,7 @@
 |29.03.2023| [Лекция 6. Частотный анализ](https://www.youtube.com/live/FFbGGIvIx0s) | [Конспект 6](https://colab.research.google.com/drive/1ru8FIjKqeeZ5ccpMty9_ctt3Q9uFRQyx?usp=sharing) | [ДЗ 6](https://contest.yandex.ru/contest/48298/problems/) | 16.04.2023 |
 |05.04.2023| [Лекция 7. Библиотека Matplotlib](https://youtube.com/live/sfcz-6c1ZA0) | [Конспект 7](https://colab.research.google.com/drive/1q2h_xhO9hPWaoi59thzhwBEgjuz3WG30?usp=sharing) | [ДЗ 7](https://contest.yandex.ru/contest/48524/problems/)| 23.04.2023 |
 |12.04.2023| [Лекция 8. Библиотека NumPy](https://www.youtube.com/live/iMAP1IAmbw4) | [Конспект 8](https://colab.research.google.com/drive/1NeMnmR5ZEpf9vZGSyvSmnK_UgEngra5M?usp=sharing)| [ДЗ 8](https://contest.yandex.ru/contest/48813/problems/) | 30.04.2023 |
-|19.04.2023| Лекция 9. Логика, NumPy, библиотека Pandas | Конспект 9 |||
+|19.04.2023| [Лекция 9. Логика, NumPy, библиотека Pandas](https://www.youtube.com/live/7xoQxORN7JA) | [Конспект 9](https://colab.research.google.com/drive/1GXHEAgyj0sVyFw3owTeYgY7eI-bLaPNU?usp=sharing) | [ДЗ 9](https://t.me/c/1680995387/295) | 07.05.2023|
 |26.04.2023| Лекция 10. Библиотека Pandas | Конспект 10 |||
 |03.05.2023| Лекция 11. Парадигмы программирования | Конспект 11 |||
 |10.05.2023| Лекция 12. Реляционные базы данных | Конспект 12|---|---|
