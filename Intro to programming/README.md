@@ -29,7 +29,7 @@
 |29.03.2023| [Лекция 6.  Текстовые данные. Файлы](https://www.youtube.com/live/E7UGbujLPdQ) | [Конспект 6](https://colab.research.google.com/drive/1v3CnobWyZ-xNIocCGNUjlYIaqHKA612X?usp=sharing) | [ДЗ 6](https://contest.yandex.ru/contest/48312/problems/) | 16.04.2023 |
 |05.04.2023| [Лекция 7. Срезы строк и списков](https://youtube.com/live/D0v0Ab-u1_k) | [Конспект 7](https://colab.research.google.com/drive/11Pchb5tJHqwKiphbBIFC8IfYXw_xlO8N?usp=sharing) | [ДЗ 7](https://contest.yandex.ru/contest/48522/problems/) | 23.04.2023 |
 |12.04.2023| [Лекция 8. Файлы](https://www.youtube.com/live/SGiWz--mUKY) | [Конспект 8](https://colab.research.google.com/drive/1GrJ-MZFIjshRP-d0m9yCinwVGpZnjzk-?usp=sharing) | [ДЗ 8](https://contest.yandex.ru/contest/48755/problems/) | 30.04.2023 |
-|19.04.2023| [Лекция 9. Модули, пакеты (библиотеки)](https://www.youtube.com/live/7xoQxORN7JA) | [Конспект 9](https://colab.research.google.com/drive/17xdP_i2ix-y4fgoPRsdNvnhTZfk52Xx6#scrollTo=x-kVyLZvsP7A) | [ДЗ 9](https://t.me/c/1586432422/199) | 07.05.2023 |
+|19.04.2023| [Лекция 9. Словари](https://www.youtube.com/live/U19TXpA1i2U) | [Конспект 9](https://colab.research.google.com/drive/17xdP_i2ix-y4fgoPRsdNvnhTZfk52Xx6#scrollTo=x-kVyLZvsP7A) | [ДЗ 9](https://t.me/c/1586432422/199) | 07.05.2023 |
 |26.04.2023| Лекция 10. Множества | Конспект 10 |||
 |03.05.2023| Лекция 11. Словари | Конспект 11 |||
 |10.05.2023| Лекция 12. Решение прикладных задач с помощью программирования на Python | Конспект 12 |---|---|
