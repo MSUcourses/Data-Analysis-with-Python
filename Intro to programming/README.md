@@ -30,7 +30,7 @@
 |05.04.2023| [Лекция 7. Файлы. Срезы строк и списков](https://youtube.com/live/D0v0Ab-u1_k) | [Конспект 7](https://colab.research.google.com/drive/11Pchb5tJHqwKiphbBIFC8IfYXw_xlO8N?usp=sharing) | [ДЗ 7](https://contest.yandex.ru/contest/48522/problems/) | 23.04.2023 |
 |12.04.2023| [Лекция 8. Модули, пакеты, библиотеки](https://www.youtube.com/live/SGiWz--mUKY) | [Конспект 8](https://colab.research.google.com/drive/1GrJ-MZFIjshRP-d0m9yCinwVGpZnjzk-?usp=sharing) | [ДЗ 8](https://contest.yandex.ru/contest/48755/problems/) | 30.04.2023 |
 |19.04.2023| [Лекция 9. Словари](https://www.youtube.com/live/U19TXpA1i2U) | [Конспект 9](https://colab.research.google.com/drive/17xdP_i2ix-y4fgoPRsdNvnhTZfk52Xx6#scrollTo=x-kVyLZvsP7A) | [ДЗ 9](https://t.me/c/1586432422/199) | 07.05.2023 |
-|26.04.2023| [Лекция 10.](https://youtube.com/live/bgeUxwbmlus) | Конспект 10 |||
+|26.04.2023| [Лекция 10.](https://youtube.com/live/bgeUxwbmlus) | [Конспект 10](https://colab.research.google.com/drive/1J-GPPlhlHEnYkix2ME-kSl4OGOtWps6H?usp=sharing) | [ДЗ 10](https://contest.yandex.ru/contest/49260/problems/) | 14.05.2023 |
 |03.05.2023| Лекция 11. | Конспект 11 |||
 |10.05.2023| Лекция 12. | Конспект 12 |---|---|
 
