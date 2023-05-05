@@ -32,7 +32,7 @@
 |12.04.2023| [Лекция 8. Библиотека NumPy](https://www.youtube.com/live/iMAP1IAmbw4) | [Конспект 8](https://colab.research.google.com/drive/1NeMnmR5ZEpf9vZGSyvSmnK_UgEngra5M?usp=sharing)| [ДЗ 8](https://contest.yandex.ru/contest/48813/problems/) | 30.04.2023 |
 |19.04.2023| [Лекция 9. Логика, NumPy, библиотека Pandas](https://www.youtube.com/live/7xoQxORN7JA) | [Конспект 9](https://colab.research.google.com/drive/1GXHEAgyj0sVyFw3owTeYgY7eI-bLaPNU?usp=sharing) | [ДЗ 9](https://t.me/c/1680995387/295) | 07.05.2023|
 |26.04.2023| [Лекция 10. Библиотека Pandas](https://youtube.com/live/0M4khrtE2jc) | [Конспект 10](https://colab.research.google.com/drive/1acvLycZQrtB4Ks-_7gAIEx6lksXZi8cT?usp=sharing) | [ДЗ 10](https://contest.yandex.ru/contest/49257/problems/) | 14.05.2023 |
-|03.05.2023| [Лекция 11. Объектно-ориентированное программирование](https://youtube.com/live/WoA8V7f7V_4) | [Конспект 11](https://colab.research.google.com/drive/1_mou_YIwha5EPWZV6dPSMB4c1wR-ASqp) | [ДЗ 11]() | 14.05.2023 |
+|03.05.2023| [Лекция 11. Объектно-ориентированное программирование](https://youtube.com/live/WoA8V7f7V_4) | [Конспект 11](https://colab.research.google.com/drive/1_mou_YIwha5EPWZV6dPSMB4c1wR-ASqp) | [ДЗ 11](https://contest.yandex.ru/contest/48972/problems/) | 14.05.2023 |
 |10.05.2023| Лекция 12. Реляционные базы данных | Конспект 12|---|---|
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qgCMm8RtXm59w27bPTQx55I)
