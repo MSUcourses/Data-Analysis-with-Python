@@ -32,7 +32,7 @@
 |19.04.2023| [Лекция 9. Словари](https://www.youtube.com/live/U19TXpA1i2U) | [Конспект 9](https://colab.research.google.com/drive/17xdP_i2ix-y4fgoPRsdNvnhTZfk52Xx6#scrollTo=x-kVyLZvsP7A) | [ДЗ 9](https://t.me/c/1586432422/199) | 07.05.2023 |
 |26.04.2023| [Лекция 10. Множества. Исключения](https://youtube.com/live/bgeUxwbmlus) | [Конспект 10](https://colab.research.google.com/drive/1J-GPPlhlHEnYkix2ME-kSl4OGOtWps6H?usp=sharing) | [ДЗ 10](https://contest.yandex.ru/contest/49260/problems/) | 14.05.2023 |
 |03.05.2023| [Лекция 11. Решение прикладных задач](https://youtube.com/live/d9zFuW98iHc) | [Конспект 11](https://colab.research.google.com/drive/1d2ybHFy8h4D2L0y9cOHAbkiVVr6jbTBP?usp=sharing) | [ДЗ 11](https://contest.yandex.ru/contest/49430/problems/) | 14.05.2023 |
-|10.05.2023| Лекция 12. | Конспект 12 |---|---|
+|10.05.2023| [Лекция 12. Анализ данных]() | Конспект 12 |---|---|
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qiw2yIP4XC_13Hibe6iPf3N)
 
