@@ -21,18 +21,18 @@
 
 Дата лекции | Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи 
 |:----:|----|:----:|:----:|:----:|
-|15.02.2023| [Лекция 1. Вводная лекция. Знакомство с Python](https://www.youtube.com/live/8-5AltCJ2-k) | [Конспект 1](https://colab.research.google.com/drive/1UEhcnf3qU6HONbscWxb79DmNcZJ8ooM3) |  | 05.03.2023 |
-|22.02.2023| [Лекция 2. Ввод и вывод информации. Условные конструкции](https://youtube.com/live/njuC0Hiuzpg) | [Конспект 2](https://colab.research.google.com/drive/1qkNI-LxHLXVmsp-uc4yvMB8oOuhPWpY5?usp=sharing)|  | 12.03.2023 |
-|01.03.2023| [Лекция 3. Условные конструкции](https://youtube.com/live/4wm0Xw_fs1s) | [Конспект 3](https://colab.research.google.com/drive/1V4k2tEWUr9BSdr-2BQnSQpprhKgH1FNk?usp=sharing) |  | 19.03.2023 |
-|15.03.2023| [Лекция 4. Циклы](https://www.youtube.com/live/kV5p2712ttM) | [Конспект 4](https://colab.research.google.com/drive/1KtJ2QNC2f7dXgGmFlRl5xMC6HekQj7SL?usp=sharing) |  | 02.04.2023 |
-|22.03.2023| [Лекция 5. Функции](https://youtube.com/live/h2KuzerREQE) | [Конспект 5](https://colab.research.google.com/drive/15B6M9dx1QvNOVmAf5NrAmCW6bR2_xsmf?usp=sharing) |  | 09.04.2023 |
-|29.03.2023| [Лекция 6.  Текстовые данные. Файлы](https://www.youtube.com/live/E7UGbujLPdQ) | [Конспект 6](https://colab.research.google.com/drive/1v3CnobWyZ-xNIocCGNUjlYIaqHKA612X?usp=sharing) |  | 16.04.2023 |
-|05.04.2023| [Лекция 7. Файлы. Срезы строк и списков](https://youtube.com/live/D0v0Ab-u1_k) | [Конспект 7](https://colab.research.google.com/drive/11Pchb5tJHqwKiphbBIFC8IfYXw_xlO8N?usp=sharing) |  | 23.04.2023 |
-|12.04.2023| [Лекция 8. Модули, пакеты, библиотеки](https://www.youtube.com/live/SGiWz--mUKY) | [Конспект 8](https://colab.research.google.com/drive/1GrJ-MZFIjshRP-d0m9yCinwVGpZnjzk-?usp=sharing) |  | 30.04.2023 |
-|19.04.2023| [Лекция 9. Словари](https://www.youtube.com/live/U19TXpA1i2U) | [Конспект 9](https://colab.research.google.com/drive/17xdP_i2ix-y4fgoPRsdNvnhTZfk52Xx6#scrollTo=x-kVyLZvsP7A) |  | 07.05.2023 |
-|26.04.2023| [Лекция 10. Множества. Исключения](https://youtube.com/live/bgeUxwbmlus) | [Конспект 10](https://colab.research.google.com/drive/1J-GPPlhlHEnYkix2ME-kSl4OGOtWps6H?usp=sharing) |  | 14.05.2023 |
-|03.05.2023| [Лекция 11. Решение прикладных задач](https://youtube.com/live/d9zFuW98iHc) | [Конспект 11](https://colab.research.google.com/drive/1d2ybHFy8h4D2L0y9cOHAbkiVVr6jbTBP?usp=sharing) |  | 14.05.2023 |
-|10.05.2023| [Лекция 12. Анализ данных](https://youtube.com/live/0ebripfBLGA) | [Конспект 12](https://colab.research.google.com/drive/17pU2MHoG3I9F4Ifj6uzXspWx8WGZECbg?usp=sharing) |---|---|
+|15.02.2023| [Лекция 1. Вводная лекция. Знакомство с Python](https://www.youtube.com/live/8-5AltCJ2-k) | [Конспект 1](https://colab.research.google.com/drive/1UEhcnf3qU6HONbscWxb79DmNcZJ8ooM3) |  |  |
+|22.02.2023| [Лекция 2. Ввод и вывод информации. Условные конструкции](https://youtube.com/live/njuC0Hiuzpg) | [Конспект 2](https://colab.research.google.com/drive/1qkNI-LxHLXVmsp-uc4yvMB8oOuhPWpY5?usp=sharing)|  |  |
+|01.03.2023| [Лекция 3. Условные конструкции](https://youtube.com/live/4wm0Xw_fs1s) | [Конспект 3](https://colab.research.google.com/drive/1V4k2tEWUr9BSdr-2BQnSQpprhKgH1FNk?usp=sharing) |  |  |
+|15.03.2023| [Лекция 4. Циклы](https://www.youtube.com/live/kV5p2712ttM) | [Конспект 4](https://colab.research.google.com/drive/1KtJ2QNC2f7dXgGmFlRl5xMC6HekQj7SL?usp=sharing) |  |  |
+|22.03.2023| [Лекция 5. Функции](https://youtube.com/live/h2KuzerREQE) | [Конспект 5](https://colab.research.google.com/drive/15B6M9dx1QvNOVmAf5NrAmCW6bR2_xsmf?usp=sharing) |  |  |
+|29.03.2023| [Лекция 6.  Текстовые данные. Файлы](https://www.youtube.com/live/E7UGbujLPdQ) | [Конспект 6](https://colab.research.google.com/drive/1v3CnobWyZ-xNIocCGNUjlYIaqHKA612X?usp=sharing) |  |  |
+|05.04.2023| [Лекция 7. Файлы. Срезы строк и списков](https://youtube.com/live/D0v0Ab-u1_k) | [Конспект 7](https://colab.research.google.com/drive/11Pchb5tJHqwKiphbBIFC8IfYXw_xlO8N?usp=sharing) |  |  |
+|12.04.2023| [Лекция 8. Модули, пакеты, библиотеки](https://www.youtube.com/live/SGiWz--mUKY) | [Конспект 8](https://colab.research.google.com/drive/1GrJ-MZFIjshRP-d0m9yCinwVGpZnjzk-?usp=sharing) |  |  |
+|19.04.2023| [Лекция 9. Словари](https://www.youtube.com/live/U19TXpA1i2U) | [Конспект 9](https://colab.research.google.com/drive/17xdP_i2ix-y4fgoPRsdNvnhTZfk52Xx6#scrollTo=x-kVyLZvsP7A) |  |  |
+|26.04.2023| [Лекция 10. Множества. Исключения](https://youtube.com/live/bgeUxwbmlus) | [Конспект 10](https://colab.research.google.com/drive/1J-GPPlhlHEnYkix2ME-kSl4OGOtWps6H?usp=sharing) |  |  |
+|03.05.2023| [Лекция 11. Решение прикладных задач](https://youtube.com/live/d9zFuW98iHc) | [Конспект 11](https://colab.research.google.com/drive/1d2ybHFy8h4D2L0y9cOHAbkiVVr6jbTBP?usp=sharing) |  |  |
+|10.05.2023| [Лекция 12. Анализ данных](https://youtube.com/live/0ebripfBLGA) | [Конспект 12](https://colab.research.google.com/drive/17pU2MHoG3I9F4Ifj6uzXspWx8WGZECbg?usp=sharing) |  |  |
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qiw2yIP4XC_13Hibe6iPf3N)
 
