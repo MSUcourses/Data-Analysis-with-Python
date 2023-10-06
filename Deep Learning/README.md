@@ -100,10 +100,10 @@ Ru:
 
 ## ❓Часто задаваемые вопросы
 
-* [Где лучше писать код на python?](./instructions/IDE-review.md)
-* [Как пользоваться Яндекс.Контестом?](./instructions/yandex_contest.md)
-* [На что обращать внимание при работе с вводом-выводом?](./instructions/input-output.md)
-* [Как использовать Google Colab в качестве среды разработки?](./instructions/GoogleColab.md)
+* [Где лучше писать код на python?](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Python/instructions/IDE-review.md)
+* [Как пользоваться Яндекс.Контестом?](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Python/instructions/yandex_contest.md)
+* [На что обращать внимание при работе с вводом-выводом?](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Python/instructions/input-output.md)
+* [Как использовать Google Colab в качестве среды разработки?](https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Python/instructions/GoogleColab.md)
 
 ## 📞 Контакты
 * [Телеграм-канал](https://t.me/+p52yYKfqD040NGMy) с основной информацией по курсу
