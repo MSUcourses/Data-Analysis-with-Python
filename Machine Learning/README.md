@@ -16,7 +16,7 @@
 Дата лекции | Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи | Критерии
 |:----:|----|:----:|:----:|:----:|----|
 |27.09.2023| [Лекция 1. Вводная лекция](https://youtube.com/live/AUaOmousG_s) | [Конспект 1](https://colab.research.google.com/drive/1hTgyT40O6Q-7iVVrjt4aXBkG-urvfo0W?usp=sharing) |---|---|---|
-|04.10.2023| [Лекция 2. Методология машинного обучения](https://youtube.com/live/jalGry6m0hw) | [Конспект 2](https://colab.research.google.com/drive/1ZGY2I32qqQV9KRJG8YSa9eg_6Hqt-lVo) | ДЗ 2 |  |  |
+|04.10.2023| [Лекция 2. Методология машинного обучения](https://youtube.com/live/jalGry6m0hw) | [Конспект 2](https://colab.research.google.com/drive/1ZGY2I32qqQV9KRJG8YSa9eg_6Hqt-lVo) | [ДЗ 2](https://contest.yandex.ru/contest/53765/problems/) | 22.10.2023 |  |
 |11.10.2023| [Лекция 3. Линейные модели классификации]() | [Конспект 3]() | ДЗ 3 |  |  |
 |18.10.2023| [Лекция 4. Линейные модели регрессии]() | [Конспект 4]() | ДЗ 4 |  |  |
 |25.10.2023| [Лекция 5. Решающие деревья]() | [Конспект 5]() | ДЗ 5 |  |  |
