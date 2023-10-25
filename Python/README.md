@@ -21,7 +21,7 @@
 |27.09.2023| [Лекция 1. Вводная лекция](https://youtube.com/live/-6bcl5a6sZk) | [Конспект 1](https://colab.research.google.com/drive/14CH88ceOlchi59c1AVuzQp55BlXKZoKq?usp=sharing) | [ДЗ 1](https://contest.yandex.ru/contest/52987/problems/) | 15.10.2023 |
 |04.10.2023| [Лекция 2. Текстовые данные](https://youtube.com/live/9jnqulltVNc) | [Конспект 2](https://colab.research.google.com/drive/1bWvnRzsjiFneg5KU5DfA6ts_F9l37ZEj?usp=sharing) | [ДЗ 2](https://contest.yandex.ru/contest/53615/problems/) | 22.10.2023 |
 |11.10.2023| [Лекция 3. Итерируемые объекты](https://www.youtube.com/live/B6u4fCrKuxE) | [Конспект 3](https://colab.research.google.com/drive/1nDTBYMi4rHCa0R0kFax7SAOwyn1i6x-O?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/54017/problems/) | 29.10.2023 |
-|25.10.2023| [Лекция 4. Числовые данные]() | [Конспект 4]() | ДЗ 4 | 12.11.2023 |
+|25.10.2023| [Лекция 4. Числовые данные](https://www.youtube.com/live/vCOVDj58s1s) | [Конспект 4](https://colab.research.google.com/drive/1ltKt_-m29veUzT0ol4agjsc3nYd1_jO8?usp=sharing) | ДЗ 4 | 12.11.2023 |
 |01.11.2023| [Лекция 5. Сортировка данных]() | [Конспект 5]() | ДЗ 5 | 19.11.2023 |
 |08.11.2023| [Лекция 6. Частотный анализ]() | [Конспект 6]() | ДЗ 6 | 26.11.2023 |
 |15.11.2023| [Лекция 7. Библиотека Matplotlib]() | [Конспект 7]() | ДЗ 7 | 03.12.2023 |
