@@ -20,7 +20,7 @@
 |04.10.2023| [Лекция 2. PyTorch. Градиентный спуск для обучения нейросети](https://www.youtube.com/live/W_zok-Nh_0s) | [Конспект 2](https://colab.research.google.com/drive/1q2F7nRlq8qqqjJoo3_56X_3EJ8Bk0jYi) | [ДЗ 2](https://contest.yandex.ru/contest/53767/problems/) | 22.10.2023 |
 |11.10.2023| [Лекция 3. Обучение по батчам, регуляризация](https://www.youtube.com/live/G8A1U54gx1o) | [Конспект 3](https://colab.research.google.com/drive/1wADBJAdbWbKEoZAmp0Tb-P5sqDKfIRa-?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/53940/problems/) | 29.10.2023 |
 |25.10.2023| [Лекция 4. Компьютерное зрение. Сверточные нейросети](https://www.youtube.com/live/DFt5JKiZycg) | [Конспект 4](https://colab.research.google.com/drive/1ZMu6C3ZEt3kCSDBNWGM6sicXL5-EhSve?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/54896/problems/) | 12.11.2023 |
-|01.11.2023| [Лекция 5. Архитектура сверточных нейросетей. Transfer learning](https://youtube.com/live/-NAgwz8eaPg) | [Конспект 5](https://colab.research.google.com/drive/1tURrDYNmn89c0NOboVptNgEOuedK0hbo?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/55262/problems/) | 19.11.2023 |
+|01.11.2023| [Лекция 5. Архитектура сверточных нейросетей. Transfer learning](https://youtube.com/live/-NAgwz8eaPg) | [Конспект 5](https://colab.research.google.com/drive/19dIwBcwepfm5PzEjxwxaNuYHKP-vvxx8?usp=sharing ) | [ДЗ 5](https://contest.yandex.ru/contest/55262/problems/) | 19.11.2023 |
 |08.11.2023| [Лекция 6. Эмбеддинги, word2vec]() | [Конспект 6]() | ДЗ 6 | 26.11.2023 |
 |15.11.2023| [Лекция 7. Языковое моделирование и RNN]() | [Конспект 7]() | ДЗ 7 | 03.12.2023 |
 |22.11.2023| [Лекция 8. Задача машинного перевода (seq2seq). Механизм Attention]() | [Конспект 8]() | ДЗ 8 | 10.12.2023 |
