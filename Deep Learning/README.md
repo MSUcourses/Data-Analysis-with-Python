@@ -21,7 +21,7 @@
 |11.10.2023| [Лекция 3. Обучение по батчам, регуляризация](https://www.youtube.com/live/G8A1U54gx1o) | [Конспект 3](https://colab.research.google.com/drive/1wADBJAdbWbKEoZAmp0Tb-P5sqDKfIRa-?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/53940/problems/) | 29.10.2023 |
 |25.10.2023| [Лекция 4. Компьютерное зрение. Сверточные нейросети](https://www.youtube.com/live/DFt5JKiZycg) | [Конспект 4](https://colab.research.google.com/drive/1ZMu6C3ZEt3kCSDBNWGM6sicXL5-EhSve?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/54896/problems/) | 12.11.2023 |
 |01.11.2023| [Лекция 5. Архитектура сверточных нейросетей. Transfer learning](https://youtube.com/live/-NAgwz8eaPg) | [Конспект 5](https://colab.research.google.com/drive/19dIwBcwepfm5PzEjxwxaNuYHKP-vvxx8?usp=sharing ) | [ДЗ 5](https://contest.yandex.ru/contest/55262/problems/) | 19.11.2023 |
-|08.11.2023| [Лекция 6. Эмбеддинги, word2vec](https://youtube.com/live/T7nEPvzWjpY) | [Конспект 6](https://colab.research.google.com/drive/1wYR2b2AiTy5q9m_3-MWXqDPT-6ZDXp0o?usp=sharing) | ДЗ 6 | 26.11.2023 |
+|08.11.2023| [Лекция 6. Эмбеддинги, word2vec](https://youtube.com/live/T7nEPvzWjpY) | [Конспект 6](https://colab.research.google.com/drive/1wYR2b2AiTy5q9m_3-MWXqDPT-6ZDXp0o?usp=sharing) | [ДЗ 6](https://contest.yandex.ru/contest/55744/problems/) | 26.11.2023 |
 |15.11.2023| [Лекция 7. Языковое моделирование и RNN]() | [Конспект 7]() | ДЗ 7 | 03.12.2023 |
 |22.11.2023| [Лекция 8. Задача машинного перевода (seq2seq). Механизм Attention]() | [Конспект 8]() | ДЗ 8 | 10.12.2023 |
 |29.11.2023| [Лекция 9. Компьютерное зрение. Сегментация и детекция]() | [Конспект 9]() | ДЗ 9 | 17.12.2023 |
