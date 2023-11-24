@@ -25,7 +25,7 @@
 |01.11.2023| [Лекция 5. Сортировка данных](https://youtube.com/live/Jl1egHJmsB4) | [Конспект 5](https://colab.research.google.com/drive/1NstnAsm0qS3f6FQHgJNV-PpMpvHsrKIL?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/55258/problems/) | 19.11.2023 |
 |08.11.2023| [Лекция 6. Частотный анализ](https://www.youtube.com/live/QAQ4rydrCNA) | [Конспект 6](https://colab.research.google.com/drive/1ru8FIjKqeeZ5ccpMty9_ctt3Q9uFRQyx?usp=sharing) | [ДЗ 6](https://contest.yandex.ru/contest/55735/problems/) | 26.11.2023 |
 |15.11.2023| [Лекция 7. Библиотека Matplotlib](https://www.youtube.com/live/oghEvb4yaoc) | [Конспект 7](https://colab.research.google.com/drive/1q2h_xhO9hPWaoi59thzhwBEgjuz3WG30?usp=sharing) | [ДЗ 7](https://contest.yandex.ru/contest/56130/problems/) | 03.12.2023 |
-|22.11.2023| [Лекция 8. Библиотека NumPy]() | [Конспект 8]()| ДЗ 8 | 10.12.2023 |
+|22.11.2023| [Лекция 8. Библиотека NumPy](https://colab.research.google.com/drive/1NeMnmR5ZEpf9vZGSyvSmnK_UgEngra5M?usp=sharing) | [Конспект 8](https://youtube.com/live/SdClci-dCc8)| [ДЗ 8](https://contest.yandex.ru/contest/56654/problems/) | 10.12.2023 |
 |29.11.2023| [Лекция 9. Логика, NumPy, библиотека Pandas]() | [Конспект 9]() | ДЗ 9 | 17.12.2023 |
 |06.12.2023| [Лекция 10. Библиотека Pandas]() | [Конспект 10]() | ДЗ 10 | 17.12.2023 |
 |13.12.2023| [Лекция 11. Объектно-ориентированное программирование]() | [Конспект 11]() | ДЗ 11 | 17.12.2023 |
