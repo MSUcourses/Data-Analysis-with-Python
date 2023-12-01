@@ -24,7 +24,7 @@
 |08.11.2023| [Лекция 6. Эмбеддинги, word2vec](https://youtube.com/live/T7nEPvzWjpY) | [Конспект 6](https://colab.research.google.com/drive/1wYR2b2AiTy5q9m_3-MWXqDPT-6ZDXp0o?usp=sharing) | [ДЗ 6](https://contest.yandex.ru/contest/55744/problems/) | 26.11.2023 |
 |15.11.2023| [Лекция 7. Языковое моделирование и RNN](https://www.youtube.com/live/Yrd6mJZvj0M) | [Конспект 7](https://colab.research.google.com/drive/12Oae_QTcgb1cHVpiJtCYahJ0YEDO0atU?usp=sharing) | [ДЗ 7](https://contest.yandex.ru/contest/56142/problems/) | 03.12.2023 |
 |22.11.2023| [Лекция 8. Задача машинного перевода (seq2seq). Механизм Attention](https://www.youtube.com/live/L4NLE0uGccc) | [Конспект 8](https://colab.research.google.com/drive/1dbgLOWgL7Xl0ydRFVV2hp4eJ36Wqssfu?usp=sharing) | [ДЗ 8](https://contest.yandex.ru/contest/56588/problems/) | 10.12.2023 |
-|29.11.2023| [Лекция 9. Компьютерное зрение. Сегментация и детекция](https://www.youtube.com/live/4fTYvD7B6OE) | [Конспект 9](https://colab.research.google.com/drive/1HRUeBp89XvZ1TMi3fW6wBkqfGoiZjZao?usp=sharing) | ДЗ 9 | 17.12.2023 |
+|29.11.2023| [Лекция 9. Компьютерное зрение. Сегментация и детекция](https://www.youtube.com/live/4fTYvD7B6OE) | [Конспект 9](https://colab.research.google.com/drive/1HRUeBp89XvZ1TMi3fW6wBkqfGoiZjZao?usp=sharing) | [ДЗ 9](https://contest.yandex.ru/contest/57033/problems/) | 17.12.2023 |
 |06.12.2023| [Лекция 10. Компьютерное зрение. Autoencoders & GANs]() | [Конспект 10]() | ДЗ 10 | 17.12.2023 |
 |13.12.2023| [Лекция 11. Metric Learning, Image Captioning]() | [Конспект 11]() | ДЗ 11 | 24.12.2023 |
 |20.12.2023| [Лекция 12. Что дальше?]() | [Презентация]() |---|---|
