@@ -28,7 +28,7 @@
 |22.11.2023| [Лекция 8. Библиотека NumPy](https://youtube.com/live/SdClci-dCc8) | [Конспект 8](https://colab.research.google.com/drive/1NeMnmR5ZEpf9vZGSyvSmnK_UgEngra5M?usp=sharing)| [ДЗ 8](https://contest.yandex.ru/contest/56654/problems/) | 10.12.2023 |
 |29.11.2023| [Лекция 9. Логика и библиотеки NumPy и Pandas](https://www.youtube.com/live/xlXkR_jB_iY) | [Конспект 9](https://colab.research.google.com/drive/1GXHEAgyj0sVyFw3owTeYgY7eI-bLaPNU?usp=sharing) | [ДЗ 9](https://contest.yandex.ru/contest/57031/problems/) | 17.12.2023 |
 |06.12.2023| [Лекция 10. Библиотека Pandas](https://www.youtube.com/live/AhiZzcSx3Lc) | [Конспект 10](https://colab.research.google.com/drive/1acvLycZQrtB4Ks-_7gAIEx6lksXZi8cT?usp=sharing) | [ДЗ 10](https://contest.yandex.ru/contest/57239/problems/) | 17.12.2023 |
-|13.12.2023| [Лекция 11. Объектно-ориентированное программирование]() | [Конспект 11]() | ДЗ 11 | 17.12.2023 |
+|13.12.2023| [Лекция 11. Объектно-ориентированное программирование](https://www.youtube.com/live/9n918OIRAZ8) | [Конспект 11](https://colab.research.google.com/drive/1_mou_YIwha5EPWZV6dPSMB4c1wR-ASqp) | [ДЗ 11](https://contest.yandex.ru/contest/57476/problems/) | 17.12.2023 |
 |20.12.2023| [Лекция 12. Реляционные базы данных]() | [Конспект 12]() | --- | --- |
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qgCMm8RtXm59w27bPTQx55I)
