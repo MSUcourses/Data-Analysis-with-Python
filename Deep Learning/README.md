@@ -27,7 +27,7 @@
 |29.11.2023| [Лекция 9. Компьютерное зрение. Сегментация и детекция](https://www.youtube.com/live/4fTYvD7B6OE) | [Конспект 9](https://colab.research.google.com/drive/1HRUeBp89XvZ1TMi3fW6wBkqfGoiZjZao?usp=sharing) | [ДЗ 9](https://contest.yandex.ru/contest/57033/problems/) | 17.12.2023 |
 |06.12.2023| [Лекция 10. Компьютерное зрение. Autoencoders & GANs](https://youtube.com/live/kovJ0pWXTYU) | [Конспект 10](https://colab.research.google.com/drive/1dnbk4DJ5uyxU_OVmHBUVLb0Xo9ZzphNV?usp=sharing) | [ДЗ 10](https://contest.yandex.ru/contest/57245/problems/) | 17.12.2023 |
 |13.12.2023| [Лекция 11. Metric Learning, Image Captioning](https://www.youtube.com/live/8Y33M-q-HO8) | [Конспект 11](https://colab.research.google.com/drive/1uvXs3P1XsH7Mtc20kEI2D9cAPcg-cjyw?usp=sharing) | [ДЗ 11](https://contest.yandex.ru/contest/57489/problems/) | 24.12.2023 |
-|20.12.2023| [Лекция 12. Что дальше?](https://www.youtube.com/live/sJRBLghcX4o?feature=shared) | [Презентация]() |---|---|
+|20.12.2023| [Лекция 12. Что дальше?](https://www.youtube.com/live/sJRBLghcX4o?feature=shared) | [Презентация](https://docs.google.com/presentation/d/1JqcM4B75nZVR33NzSoMDtoOd35CQpgAK8U_SQRDxaDE/edit?usp=sharing) |---|---|
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qiVYN7jMN6tfYyDXKscX9zE)
 
