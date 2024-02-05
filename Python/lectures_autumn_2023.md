@@ -17,19 +17,19 @@
 ## 📋 Содержание
 
 Дата лекции |Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи
-|:----:|----|----|:----:|:----:|
-|27.09.2023| [Лекция 1. Вводная лекция](https://youtube.com/live/-6bcl5a6sZk) | [Конспект 1](https://colab.research.google.com/drive/14CH88ceOlchi59c1AVuzQp55BlXKZoKq?usp=sharing) | [ДЗ 1](https://contest.yandex.ru/contest/52987/problems/) | 15.10.2023 |
-|04.10.2023| [Лекция 2. Текстовые данные](https://youtube.com/live/9jnqulltVNc) | [Конспект 2](https://colab.research.google.com/drive/1bWvnRzsjiFneg5KU5DfA6ts_F9l37ZEj?usp=sharing) | [ДЗ 2](https://contest.yandex.ru/contest/53615/problems/) | 22.10.2023 |
-|11.10.2023| [Лекция 3. Итерируемые объекты](https://www.youtube.com/live/B6u4fCrKuxE) | [Конспект 3](https://colab.research.google.com/drive/1nDTBYMi4rHCa0R0kFax7SAOwyn1i6x-O?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/54017/problems/) | 29.10.2023 |
-|25.10.2023| [Лекция 4. Числовые данные](https://www.youtube.com/live/vCOVDj58s1s) | [Конспект 4](https://colab.research.google.com/drive/1ltKt_-m29veUzT0ol4agjsc3nYd1_jO8?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/54891/problems/) | 12.11.2023 |
-|01.11.2023| [Лекция 5. Сортировка данных](https://youtube.com/live/Jl1egHJmsB4) | [Конспект 5](https://colab.research.google.com/drive/1NstnAsm0qS3f6FQHgJNV-PpMpvHsrKIL?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/55258/problems/) | 19.11.2023 |
-|08.11.2023| [Лекция 6. Частотный анализ](https://www.youtube.com/live/QAQ4rydrCNA) | [Конспект 6](https://colab.research.google.com/drive/1ru8FIjKqeeZ5ccpMty9_ctt3Q9uFRQyx?usp=sharing) | [ДЗ 6](https://contest.yandex.ru/contest/55735/problems/) | 26.11.2023 |
-|15.11.2023| [Лекция 7. Библиотека Matplotlib](https://www.youtube.com/live/oghEvb4yaoc) | [Конспект 7](https://colab.research.google.com/drive/1q2h_xhO9hPWaoi59thzhwBEgjuz3WG30?usp=sharing) | [ДЗ 7](https://contest.yandex.ru/contest/56130/problems/) | 03.12.2023 |
-|22.11.2023| [Лекция 8. Библиотека NumPy](https://youtube.com/live/SdClci-dCc8) | [Конспект 8](https://colab.research.google.com/drive/1NeMnmR5ZEpf9vZGSyvSmnK_UgEngra5M?usp=sharing)| [ДЗ 8](https://contest.yandex.ru/contest/56654/problems/) | 10.12.2023 |
-|29.11.2023| [Лекция 9. Логика и библиотеки NumPy и Pandas](https://www.youtube.com/live/xlXkR_jB_iY) | [Конспект 9](https://colab.research.google.com/drive/1GXHEAgyj0sVyFw3owTeYgY7eI-bLaPNU?usp=sharing) | [ДЗ 9](https://contest.yandex.ru/contest/57031/problems/) | 17.12.2023 |
-|06.12.2023| [Лекция 10. Библиотека Pandas](https://www.youtube.com/live/AhiZzcSx3Lc) | [Конспект 10](https://colab.research.google.com/drive/1acvLycZQrtB4Ks-_7gAIEx6lksXZi8cT?usp=sharing) | [ДЗ 10](https://contest.yandex.ru/contest/57239/problems/) | 17.12.2023 |
-|13.12.2023| [Лекция 11. Объектно-ориентированное программирование](https://www.youtube.com/live/9n918OIRAZ8) | [Конспект 11](https://colab.research.google.com/drive/1_mou_YIwha5EPWZV6dPSMB4c1wR-ASqp) | [ДЗ 11](https://contest.yandex.ru/contest/57476/problems/) | 17.12.2023 |
-|20.12.2023| [Лекция 12. Реляционные базы данных](https://www.youtube.com/live/J9GeKvuVG8g?feature=shared) | [Конспект 12](https://colab.research.google.com/drive/1RlNFjftL2zMxEvkSdwO--Ec8tAVGy_yk) | --- | --- |
+|:----:|----|----|
+|27.09.2023| [Лекция 1. Вводная лекция](https://youtube.com/live/-6bcl5a6sZk) | [Конспект 1](https://colab.research.google.com/drive/14CH88ceOlchi59c1AVuzQp55BlXKZoKq?usp=sharing) |
+|04.10.2023| [Лекция 2. Текстовые данные](https://youtube.com/live/9jnqulltVNc) | [Конспект 2](https://colab.research.google.com/drive/1bWvnRzsjiFneg5KU5DfA6ts_F9l37ZEj?usp=sharing) | 
+|11.10.2023| [Лекция 3. Итерируемые объекты](https://www.youtube.com/live/B6u4fCrKuxE) | [Конспект 3](https://colab.research.google.com/drive/1nDTBYMi4rHCa0R0kFax7SAOwyn1i6x-O?usp=sharing) | 
+|25.10.2023| [Лекция 4. Числовые данные](https://www.youtube.com/live/vCOVDj58s1s) | [Конспект 4](https://colab.research.google.com/drive/1ltKt_-m29veUzT0ol4agjsc3nYd1_jO8?usp=sharing) | 
+|01.11.2023| [Лекция 5. Сортировка данных](https://youtube.com/live/Jl1egHJmsB4) | [Конспект 5](https://colab.research.google.com/drive/1NstnAsm0qS3f6FQHgJNV-PpMpvHsrKIL?usp=sharing) | 
+|08.11.2023| [Лекция 6. Частотный анализ](https://www.youtube.com/live/QAQ4rydrCNA) | [Конспект 6](https://colab.research.google.com/drive/1ru8FIjKqeeZ5ccpMty9_ctt3Q9uFRQyx?usp=sharing) |
+|15.11.2023| [Лекция 7. Библиотека Matplotlib](https://www.youtube.com/live/oghEvb4yaoc) | [Конспект 7](https://colab.research.google.com/drive/1q2h_xhO9hPWaoi59thzhwBEgjuz3WG30?usp=sharing) |
+|22.11.2023| [Лекция 8. Библиотека NumPy](https://youtube.com/live/SdClci-dCc8) | [Конспект 8](https://colab.research.google.com/drive/1NeMnmR5ZEpf9vZGSyvSmnK_UgEngra5M?usp=sharing)|
+|29.11.2023| [Лекция 9. Логика и библиотеки NumPy и Pandas](https://www.youtube.com/live/xlXkR_jB_iY) | [Конспект 9](https://colab.research.google.com/drive/1GXHEAgyj0sVyFw3owTeYgY7eI-bLaPNU?usp=sharing) | 
+|06.12.2023| [Лекция 10. Библиотека Pandas](https://www.youtube.com/live/AhiZzcSx3Lc) | [Конспект 10](https://colab.research.google.com/drive/1acvLycZQrtB4Ks-_7gAIEx6lksXZi8cT?usp=sharing) |
+|13.12.2023| [Лекция 11. Объектно-ориентированное программирование](https://www.youtube.com/live/9n918OIRAZ8) | [Конспект 11](https://colab.research.google.com/drive/1_mou_YIwha5EPWZV6dPSMB4c1wR-ASqp) | 
+|20.12.2023| [Лекция 12. Реляционные базы данных](https://www.youtube.com/live/J9GeKvuVG8g?feature=shared) | [Конспект 12](https://colab.research.google.com/drive/1RlNFjftL2zMxEvkSdwO--Ec8tAVGy_yk) | 
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qgCMm8RtXm59w27bPTQx55I)
 
