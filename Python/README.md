@@ -18,7 +18,7 @@
 
 Дата лекции |Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи
 |:----:|----|----|:----:|:----:|
-|07.02.2024| Лекция 1. Вводная лекци | Конспект 1 | --- | --- |
+|07.02.2024| [Лекция 1. Вводная лекция](https://www.youtube.com/live/GFr7rRAmcfU) | [Конспект 1](https://colab.research.google.com/drive/14CH88ceOlchi59c1AVuzQp55BlXKZoKq?usp=sharing) | ДЗ 1 | 25.02.2024 |
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qgCMm8RtXm59w27bPTQx55I)
 
