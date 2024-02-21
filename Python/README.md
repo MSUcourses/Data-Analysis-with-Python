@@ -20,6 +20,8 @@
 |:----:|----|----|:----:|:----:|
 |07.02.2024| [Лекция 1. Вводная лекция](https://www.youtube.com/live/GFr7rRAmcfU) | [Конспект 1](https://colab.research.google.com/drive/14CH88ceOlchi59c1AVuzQp55BlXKZoKq?usp=sharing) | [ДЗ 1](https://contest.yandex.ru/contest/59580/problems/) | 25.02.2024 |
 |14.02.2024| [Лекция 2. Текстовые данные](https://youtu.be/9GLdgXSG1-g?feature=shared) | [Конспект 2](https://colab.research.google.com/drive/1bWvnRzsjiFneg5KU5DfA6ts_F9l37ZEj?usp=sharing) | [ДЗ 2](https://contest.yandex.ru/contest/59937/problems/) | 03.03.2024 |
+|21.02.2024| [Лекция 3. Итерируемые объекты](https://www.youtube.com/live/XUqQQoRiHEA) | [Конспект 3](https://colab.research.google.com/drive/1nDTBYMi4rHCa0R0kFax7SAOwyn1i6x-O?usp=sharing) | [ДЗ 3]() | 10.03.2024 |
+
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qgCMm8RtXm59w27bPTQx55I)
 
