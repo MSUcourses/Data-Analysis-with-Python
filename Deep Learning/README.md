@@ -18,7 +18,7 @@
 |:----:|----|:----:|:----:|:----:|
 |07.02.2024| [Лекция 1. Вводная лекция](https://youtu.be/_fvs0msh_f0) | [Конспект 1](https://colab.research.google.com/drive/1tT0lwNsERmCaVvrR2WsLW3LBq6KrOJ1t) |---|---|
 |14.02.2024| [Лекция 2. PyTorch. Градиентный спуск для обучения нейросети](https://www.youtube.com/live/QJe4srKrwQA) | [Конспект 2](https://colab.research.google.com/drive/1M9D_0RWHPJvuTERSwcGRlLWdQnMUDnQp) | [ДЗ 2](https://contest.yandex.ru/contest/59939/problems/) | 03.03.2024 |
-|21.02.2024| [Лекция 3. Обучение по батчам, регуляризация](https://www.youtube.com/live/L1OVB9V28jI) | [Конспект 3](https://colab.research.google.com/drive/1SNhwxGfVp4fbG_athXegnyw97EQVCUIc?usp=sharing) | [ДЗ 3]() | 10.03.2024 |
+|21.02.2024| [Лекция 3. Обучение по батчам, регуляризация](https://www.youtube.com/live/L1OVB9V28jI) | [Конспект 3](https://colab.research.google.com/drive/1SNhwxGfVp4fbG_athXegnyw97EQVCUIc?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/60132/problems/) | 10.03.2024 |
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qiVYN7jMN6tfYyDXKscX9zE)
 
