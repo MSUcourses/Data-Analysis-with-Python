@@ -22,6 +22,7 @@
 |14.02.2024| [Лекция 2. Текстовые данные](https://youtu.be/9GLdgXSG1-g?feature=shared) | [Конспект 2](https://colab.research.google.com/drive/1bWvnRzsjiFneg5KU5DfA6ts_F9l37ZEj?usp=sharing) | [ДЗ 2](https://contest.yandex.ru/contest/59937/problems/) | 03.03.2024 |
 |21.02.2024| [Лекция 3. Итерируемые объекты](https://www.youtube.com/live/XUqQQoRiHEA) | [Конспект 3](https://colab.research.google.com/drive/1nDTBYMi4rHCa0R0kFax7SAOwyn1i6x-O?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/60130/problems/) | 10.03.2024 |
 |28.02.2024| [Лекция 4. Числовые данные](https://youtube.com/live/TQI-qi4Y_v8) | [Конспект 4](https://colab.research.google.com/drive/1ltKt_-m29veUzT0ol4agjsc3nYd1_jO8?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/60352/problems/) | 17.03.2024 |
+|06.03.2024| [Лекция 5. Сортировка данных](https://www.youtube.com/live/0JsUrgq7g7Q?si=ou6zkuYxIqFJgucH) | [Конспект 5](https://colab.research.google.com/drive/1NstnAsm0qS3f6FQHgJNV-PpMpvHsrKIL?usp=sharing) | ДЗ 5 | 24.03.2024 |
 
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qgCMm8RtXm59w27bPTQx55I)
