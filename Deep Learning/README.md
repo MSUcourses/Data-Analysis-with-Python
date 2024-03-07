@@ -20,7 +20,7 @@
 |14.02.2024| [Лекция 2. PyTorch. Градиентный спуск для обучения нейросети](https://www.youtube.com/live/QJe4srKrwQA) | [Конспект 2](https://colab.research.google.com/drive/1M9D_0RWHPJvuTERSwcGRlLWdQnMUDnQp) | [ДЗ 2](https://contest.yandex.ru/contest/59939/problems/) | 03.03.2024 |
 |21.02.2024| [Лекция 3. Обучение по батчам, регуляризация](https://www.youtube.com/live/L1OVB9V28jI) | [Конспект 3](https://colab.research.google.com/drive/1SNhwxGfVp4fbG_athXegnyw97EQVCUIc?usp=sharing) | [ДЗ 3](https://contest.yandex.ru/contest/60132/problems/) | 10.03.2024 |
 |28.02.2024| [Лекция 4. Компьютерное зрение. Сверточные нейросети](https://youtube.com/live/7raMKcf04dk) | [Конспект 4](https://colab.research.google.com/drive/1ZMu6C3ZEt3kCSDBNWGM6sicXL5-EhSve?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/60375/problems/) | 17.03.2024 |
-|06.03.2024| [Лекция 5. Архитектура сверточных нейросетей. Transfer learning](https://www.youtube.com/live/ZnQhxR2Cp58?si=9Q0DUlvCfe0df2nW) | [Конспект 5](https://colab.research.google.com/drive/1-yQp_QkusL4v_Ardz6IH9d-XQAC1AB0B) | ДЗ 5 | 24.03.2024 |
+|06.03.2024| [Лекция 5. Архитектура сверточных нейросетей. Transfer learning](https://www.youtube.com/live/ZnQhxR2Cp58?si=9Q0DUlvCfe0df2nW) | [Конспект 5](https://colab.research.google.com/drive/1-yQp_QkusL4v_Ardz6IH9d-XQAC1AB0B) | [ДЗ 5](https://contest.yandex.ru/contest/60604/problems/) | 24.03.2024 |
 
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qiVYN7jMN6tfYyDXKscX9zE)
