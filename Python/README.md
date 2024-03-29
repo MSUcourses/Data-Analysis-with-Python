@@ -25,6 +25,7 @@
 |06.03.2024| [Лекция 5. Сортировка данных](https://www.youtube.com/live/0JsUrgq7g7Q?si=ou6zkuYxIqFJgucH) | [Конспект 5](https://colab.research.google.com/drive/1NstnAsm0qS3f6FQHgJNV-PpMpvHsrKIL?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/60602/problems/) | 24.03.2024 |
 |13.03.2024| [Лекция 6. Частотный анализ](https://youtube.com/live/ta-dIcMdds4) | [Конспект 6](https://colab.research.google.com/drive/1ru8FIjKqeeZ5ccpMty9_ctt3Q9uFRQyx?usp=sharing) | [ДЗ 6](https://contest.yandex.ru/contest/60845/problems/) | 31.03.2024 |
 |20.03.2024| [Лекция 7. Библиотека Matplotlib](https://www.youtube.com/live/NIFbrHJDxlA) | [Конспект 7](https://colab.research.google.com/drive/1q2h_xhO9hPWaoi59thzhwBEgjuz3WG30?usp=sharing) | [ДЗ 7](https://contest.yandex.ru/contest/61084/problems/) | 07.04.2024 |
+|27.03.2024| [Лекция 8. Библиотека NumPy](https://youtube.com/live/jlErwLeASYs) | [Конспект 8](https://colab.research.google.com/drive/1NeMnmR5ZEpf9vZGSyvSmnK_UgEngra5M?usp=sharing) | [ДЗ 8](https://contest.yandex.ru/contest/61318/problems/) | 14.04.2024 |
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qgCMm8RtXm59w27bPTQx55I)
 
