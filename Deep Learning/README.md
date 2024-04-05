@@ -24,6 +24,7 @@
 |13.03.2024| [Лекция 6. Эмбеддинги, word2vec](https://www.youtube.com/live/C54N3Zx97H4) | [Конспект 6](https://colab.research.google.com/drive/160u2lVYTMPDPEFpa4ZfYa52YAx9d6xjb) | [ДЗ 6](https://contest.yandex.ru/contest/60846/problems/) | 07.04.2024 |
 |20.03.2024| [Лекция 7. RNN и классификация текста](https://www.youtube.com/live/teZW5M6mRCk) | [Конспект 7](https://colab.research.google.com/drive/1lpmcAd46ytFA30Pn_X3KNxUJ-hl1eU_7) | [ДЗ 7](https://contest.yandex.ru/contest/61047/problems/) | 07.04.2024 |
 |27.03.2024| [Лекция 8. Языковое моделирование](https://www.youtube.com/live/bkqErlZ_Seo) | [Конспект 8](https://colab.research.google.com/drive/15aVdpWAOx_XncukjdvQfQ7JTLX3vtJlE?usp=sharing) | [ДЗ 8](https://contest.yandex.ru/contest/61303/problems/) | 14.04.2024 |
+|03.04.2024| [Лекция 9. Задача машинного перевода (seq2seq). Механизм Attention](https://youtube.com/live/4v0Cukr3rGw) | [Конспект 9](https://colab.research.google.com/drive/12mrsHR-34pDS5sLpo4CJj2e74U9i1ycf?usp=sharing) | [ДЗ 9](https://contest.yandex.ru/contest/61572/problems/) | 21.04.2024 |
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qiVYN7jMN6tfYyDXKscX9zE)
 
