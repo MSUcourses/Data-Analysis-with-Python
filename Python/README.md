@@ -27,6 +27,7 @@
 |20.03.2024| [Лекция 7. Библиотека Matplotlib](https://www.youtube.com/live/NIFbrHJDxlA) | [Конспект 7](https://colab.research.google.com/drive/1q2h_xhO9hPWaoi59thzhwBEgjuz3WG30?usp=sharing) | [ДЗ 7](https://contest.yandex.ru/contest/61084/problems/) | 07.04.2024 |
 |27.03.2024| [Лекция 8. Библиотека NumPy](https://youtube.com/live/jlErwLeASYs) | [Конспект 8](https://colab.research.google.com/drive/1NeMnmR5ZEpf9vZGSyvSmnK_UgEngra5M?usp=sharing) | [ДЗ 8](https://contest.yandex.ru/contest/61318/problems/) | 14.04.2024 |
 |03.04.2024| [Лекция 9. Логика и библиотеки NumPy и Pandas](https://youtube.com/live/Lkso6UcjzkY) | [Конспект 9](https://colab.research.google.com/drive/1GXHEAgyj0sVyFw3owTeYgY7eI-bLaPNU?usp=sharing) | [ДЗ 9](https://contest.yandex.ru/contest/61570/problems/) | 21.04.2024 |
+|17.04.2024| [Лекция 10.Библиотека Pandas](https://www.youtube.com/live/-cHl4oImPG0) | [Конспект 10](https://colab.research.google.com/drive/1acvLycZQrtB4Ks-_7gAIEx6lksXZi8cT?usp=sharing) | [ДЗ 10](https://contest.yandex.ru/contest/61919/problems/) | 05.05.2024 |
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qgCMm8RtXm59w27bPTQx55I)
 
