@@ -27,6 +27,7 @@
 |03.04.2024| [Лекция 9. Задача машинного перевода (seq2seq). Механизм Attention](https://youtube.com/live/4v0Cukr3rGw) | [Конспект 9](https://colab.research.google.com/drive/12mrsHR-34pDS5sLpo4CJj2e74U9i1ycf?usp=sharing) | [ДЗ 9](https://contest.yandex.ru/contest/61572/problems/) | 21.04.2024 |
 |17.04.2024| [Лекция 10. Компьютерное зрение. Сегментация и детекция.](https://www.youtube.com/live/YxSfNAfTJb4) | [Конспект 10](https://colab.research.google.com/drive/1CFrG3lJ81YYg20wngUQyfds_1kMQykps) | [ДЗ 10](https://contest.yandex.ru/contest/61923/problems/) | 05.05.2024 |
 |24.04.2024| [Лекция 11. Компьютерное зрение. Autoencoders & GANs](https://www.youtube.com/live/eqUKI6TN9j0) | [Конспект 11](https://colab.research.google.com/drive/125yknzOKmSmh6KrhRBoFWTBNIxrd-wRM) | [ДЗ 11](https://contest.yandex.ru/contest/62174/problems/) | 12.05.2024 |
+|08.05.2024| [Лекция 12. Что дальше?](https://youtu.be/AYpgDDwgewQ) | [Конспект 12](https://docs.google.com/presentation/d/1c1qDZGxXhnJ_puqCIyPysLmgH5TlFZ9z/edit) | --- | --- |
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qiVYN7jMN6tfYyDXKscX9zE)
 
