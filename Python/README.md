@@ -29,6 +29,7 @@
 |03.04.2024| [Лекция 9. Логика и библиотеки NumPy и Pandas](https://youtube.com/live/Lkso6UcjzkY) | [Конспект 9](https://colab.research.google.com/drive/1GXHEAgyj0sVyFw3owTeYgY7eI-bLaPNU?usp=sharing) | [ДЗ 9](https://contest.yandex.ru/contest/61570/problems/) | 21.04.2024 |
 |17.04.2024| [Лекция 10.Библиотека Pandas](https://www.youtube.com/live/-cHl4oImPG0) | [Конспект 10](https://colab.research.google.com/drive/1acvLycZQrtB4Ks-_7gAIEx6lksXZi8cT?usp=sharing) | [ДЗ 10](https://contest.yandex.ru/contest/61919/problems/) | 05.05.2024 |
 |24.04.2024| [Лекция 11. Объектно-ориентированное программирование](https://youtube.com/live/lCBn40VIeY8) | [Конспект 11](https://colab.research.google.com/drive/1-cGvXPxq8-LGhREbOZt-n7NFvDRr6-55?usp=sharing) | [ДЗ 11](https://contest.yandex.ru/contest/62172/problems/) | 12.05.2024 |
+|08.05.2024| [Лекция 12. Реляционные базы данных](https://www.youtube.com/watch?v=hRgCrKLUo5g) | [Конспект 12](https://colab.research.google.com/drive/1RlNFjftL2zMxEvkSdwO--Ec8tAVGy_yk) | --- | --- |
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PL2mBTfXHM2qgCMm8RtXm59w27bPTQx55I)
 
