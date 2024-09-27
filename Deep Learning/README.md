@@ -16,7 +16,7 @@
 
 Дата лекции | Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи 
 |:----:|----|:----:|:----:|:----:|
-|25.09.2024| [Лекция 1. Вводная лекция](https://rutube.ru/video/7f0136577511879d0ceba6c7da557146/) | [Конспект 1]](https://colab.research.google.com/drive/13EtO2k1pc-LRNEpiyc4QlukZSANOKiRC?usp=sharing) |---|---|
+|25.09.2024| [Лекция 1. Вводная лекция](https://rutube.ru/video/7f0136577511879d0ceba6c7da557146/) | [Конспект 1](https://colab.research.google.com/drive/13EtO2k1pc-LRNEpiyc4QlukZSANOKiRC?usp=sharing) |---|---|
 ||||||
 
 * [RUTUBE плейлист с видеозаписями лекций](https://rutube.ru/plst/593734/)
