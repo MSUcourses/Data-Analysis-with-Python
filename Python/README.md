@@ -18,7 +18,7 @@
 
 Дата лекции |Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи
 |:----:|----|----|:----:|:----:|
-|25.09.2024| [Лекция 1. Вводная лекция](https://rutube.ru/video/da77d6695017c16dfd3117fbe8ef82ca/) | [Конспект 1]](https://colab.research.google.com/drive/1WFXV_x0cWvLRRGbbbro-SzCUks3-ga3P) | [ДЗ 1](https://contest.yandex.ru/contest/68187/problems/) | 13.10.2024 |
+|25.09.2024| [Лекция 1. Вводная лекция](https://rutube.ru/video/da77d6695017c16dfd3117fbe8ef82ca/) | [Конспект 1](https://colab.research.google.com/drive/1WFXV_x0cWvLRRGbbbro-SzCUks3-ga3P) | [ДЗ 1](https://contest.yandex.ru/contest/68187/problems/) | 13.10.2024 |
 ||| ||  |
 
 
