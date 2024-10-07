@@ -17,7 +17,7 @@
 Дата лекции | Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи 
 |:----:|----|:----:|:----:|:----:|
 |25.09.2024| [Лекция 1. Вводная лекция](https://rutube.ru/video/7f0136577511879d0ceba6c7da557146/) | [Конспект 1](https://colab.research.google.com/drive/13EtO2k1pc-LRNEpiyc4QlukZSANOKiRC?usp=sharing) |---|---|
-||||||
+|02.10.2024| [Лекция 2. PyTorch. Градиентный спуск для обучения нейросети](https://rutube.ru/video/private/ac9f04b57472056385ff44f6dd2054b5/?r=wd&p=nP2fQO1SPnYo4c8T-L0_Tg) | [Конспект 2](https://colab.research.google.com/drive/1T7ETpxt9tWJV2-Z5lZp5P0hGzwkYDUPT) | [ДЗ 2](https://contest.yandex.ru/contest/68962/problems/) | 20.10.2024 |
 
 * [RUTUBE плейлист с видеозаписями лекций](https://rutube.ru/plst/593734/)
 
