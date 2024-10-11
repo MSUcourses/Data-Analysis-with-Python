@@ -20,7 +20,7 @@
 |:----:|----|----|:----:|:----:|
 |25.09.2024| [Лекция 1. Вводная лекция](https://rutube.ru/video/da77d6695017c16dfd3117fbe8ef82ca/) | [Конспект 1](https://colab.research.google.com/drive/1WFXV_x0cWvLRRGbbbro-SzCUks3-ga3P) | [ДЗ 1](https://contest.yandex.ru/contest/68187/problems/) | 13.10.2024 |
 |02.10.2024| [Лекция 2. Текстовые данные](https://rutube.ru/video/private/f873686946e1e9524488ea70d8125818/?p=bTy9FdZdgcUO1nyopz9SDg&t=401&r=plwd) | [Конспект 2](https://colab.research.google.com/drive/1rbwSLGudi5A_VF5Bst05u6Mlx5TUPdCT) | [ДЗ 2](https://contest.yandex.ru/contest/68726/problems/) | 20.10.2024 |
-
+|09.10.2024| [Лекция 3. Итерируемые объекты](https://vk.com/video813841893_456239017?list=ln-ZZf9cUxZVEHyrFZQJc) | [Конспект 3](https://colab.research.google.com/drive/1Z-pJ1CdlhFFNQfV-V8cr691w_MxCX1_8) | [ДЗ 3](https://contest.yandex.ru/contest/69221/problems/) | 27.10.2024 |
 
 * [RUTUBE плейлист с видеозаписями лекций](https://rutube.ru/plst/593731/)
 
