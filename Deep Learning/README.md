@@ -16,11 +16,12 @@
 
 Дата лекции | Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи 
 |:----:|----|:----:|:----:|:----:|
-|25.09.2024| [Лекция 1. Вводная лекция](https://rutube.ru/video/7f0136577511879d0ceba6c7da557146/) | [Конспект 1](https://colab.research.google.com/drive/13EtO2k1pc-LRNEpiyc4QlukZSANOKiRC?usp=sharing) |---|---|
-|02.10.2024| [Лекция 2. PyTorch. Градиентный спуск для обучения нейросети](https://rutube.ru/video/private/ac9f04b57472056385ff44f6dd2054b5/?r=wd&p=nP2fQO1SPnYo4c8T-L0_Tg) | [Конспект 2](https://colab.research.google.com/drive/1T7ETpxt9tWJV2-Z5lZp5P0hGzwkYDUPT) | [ДЗ 2](https://contest.yandex.ru/contest/68962/problems/) | 20.10.2024 |
-|09.10.2024| [Лекция 3. Обучение по батчам, регуляризация](https://rutube.ru/video/private/b0bf136bf27f38263a9da942ed54f371/?r=wd&p=Ks5PXUzJHs3k994EYyLLFg) | [Конспект 3](https://colab.research.google.com/drive/1Xx7vfWttf6FabC7OVZOhg63F3CW3RdkI) | [ДЗ 3](https://contest.yandex.ru/contest/69325/problems/) | 27.10.2024 |
-|16.10.2024| [Лекция 4. Компьютерное зрение. Сверточные нейросети](https://rutube.ru/video/private/29ab4eb3711622a34166877590dc4ebf/?p=IFq-o4v9SJQjO5_3A0BQCQ) | [Конспект 4](https://colab.research.google.com/drive/16EabDlrFBxOfcg3WADIC9kX51c6YzA4s) | [ДЗ 4](https://contest.yandex.ru/contest/69601/problems/) | 03.11.2024 |
-|23.10.2024| [Лекция 5. Transfer Learning](https://rutube.ru/video/private/6ade7ae958499bdf7022e82449039433/?p=cPYZer2ZR1OO1ZjsOBnLiw) | [Конспект 5](https://colab.research.google.com/drive/1FgzC6ZwZTnpme5JZKvEYtduGq56A6lBR?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/70002/problems/) | 10.11.2024 |
+|25.09.2024| [Лекция 1. Вводная лекция](https://teach-in.ru/lecture/2024-09-25-Artamonov-2) | [Конспект 1](https://colab.research.google.com/drive/13EtO2k1pc-LRNEpiyc4QlukZSANOKiRC?usp=sharing) |---|---|
+|02.10.2024| [Лекция 2. PyTorch. Градиентный спуск для обучения нейросети](https://teach-in.ru/lecture/2024-10-02-Artamonov-2) | [Конспект 2](https://colab.research.google.com/drive/1T7ETpxt9tWJV2-Z5lZp5P0hGzwkYDUPT) | [ДЗ 2](https://contest.yandex.ru/contest/68962/problems/) | 20.10.2024 |
+|09.10.2024| [Лекция 3. Обучение по батчам, регуляризация](https://teach-in.ru/lecture/2024-10-09-Artamonov-2) | [Конспект 3](https://colab.research.google.com/drive/1Xx7vfWttf6FabC7OVZOhg63F3CW3RdkI) | [ДЗ 3](https://contest.yandex.ru/contest/69325/problems/) | 27.10.2024 |
+|16.10.2024| [Лекция 4. Компьютерное зрение. Сверточные нейросети](https://teach-in.ru/lecture/2024-10-16-Artamonov-2) | [Конспект 4](https://colab.research.google.com/drive/16EabDlrFBxOfcg3WADIC9kX51c6YzA4s) | [ДЗ 4](https://contest.yandex.ru/contest/69601/problems/) | 03.11.2024 |
+|23.10.2024| [Лекция 5. Transfer Learning](https://teach-in.ru/lecture/2024-10-23-Artamonov-2) | [Конспект 5](https://colab.research.google.com/drive/1FgzC6ZwZTnpme5JZKvEYtduGq56A6lBR?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/70002/problems/) | 10.11.2024 |
+|06.11.2024| [Лекция 6. Эмбеддинги, word2vec](https://rutube.ru/video/private/161a879bf1986b4762a7ca5f37710082/?p=POCBBRftc24NXsCovgKtfw) | [Конспект 6](https://colab.research.google.com/drive/160u2lVYTMPDPEFpa4ZfYa52YAx9d6xjb) | [ДЗ 6](https://contest.yandex.ru/contest/70749/problems/) | 24.11.2024 |
 
 * [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PLcsjsqLLSfNDMmVI4MY231fYaMgfBT7oz&feature=shared)
 
