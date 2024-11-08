@@ -18,11 +18,12 @@
 
 Дата лекции |Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи
 |:----:|----|----|:----:|:----:|
-|25.09.2024| [Лекция 1. Вводная лекция](https://rutube.ru/video/da77d6695017c16dfd3117fbe8ef82ca/) | [Конспект 1](https://colab.research.google.com/drive/1WFXV_x0cWvLRRGbbbro-SzCUks3-ga3P) | [ДЗ 1](https://contest.yandex.ru/contest/68187/problems/) | 13.10.2024 |
-|02.10.2024| [Лекция 2. Текстовые данные](https://rutube.ru/video/private/f873686946e1e9524488ea70d8125818/?p=bTy9FdZdgcUO1nyopz9SDg&t=401&r=plwd) | [Конспект 2](https://colab.research.google.com/drive/1rbwSLGudi5A_VF5Bst05u6Mlx5TUPdCT) | [ДЗ 2](https://contest.yandex.ru/contest/68726/problems/) | 20.10.2024 |
-|09.10.2024| [Лекция 3. Итерируемые объекты](https://vk.com/video813841893_456239017?list=ln-ZZf9cUxZVEHyrFZQJc) | [Конспект 3](https://colab.research.google.com/drive/1Z-pJ1CdlhFFNQfV-V8cr691w_MxCX1_8) | [ДЗ 3](https://contest.yandex.ru/contest/69221/problems/) | 27.10.2024 |
-|16.10.2024| [Лекция 4. Числовые данные](https://vk.com/video813841893_456239019?list=ln-fiFn9guEErGeT1fmZ7) | [Конспект 4](https://colab.research.google.com/drive/1IydWpE3RHntFAeZZ-QJV3uBpLH_o_Zce) | [ДЗ 4](https://contest.yandex.ru/contest/69550/problems/) | 03.11.2024 |
-|23.10.2024| [Лекция 5. Списки в Python](https://vk.com/video813841893_456239018?list=ln-hv7faWqnKopCQliIUU) | [Конспект 5](https://colab.research.google.com/drive/1Y9lqS9sjsbop3BKF_bKyfnM5ZPuNakKD) | [ДЗ 5](https://contest.yandex.ru/contest/69994/problems/) | 10.11.2024 |
+|25.09.2024| [Лекция 1. Вводная лекция](https://teach-in.ru/lecture/2024-09-25-Hiryanov) | [Конспект 1](https://colab.research.google.com/drive/1WFXV_x0cWvLRRGbbbro-SzCUks3-ga3P) | [ДЗ 1](https://contest.yandex.ru/contest/68187/problems/) | 13.10.2024 |
+|02.10.2024| [Лекция 2. Текстовые данные](https://teach-in.ru/lecture/2024-10-02-Hiryanov) | [Конспект 2](https://colab.research.google.com/drive/1rbwSLGudi5A_VF5Bst05u6Mlx5TUPdCT) | [ДЗ 2](https://contest.yandex.ru/contest/68726/problems/) | 20.10.2024 |
+|09.10.2024| [Лекция 3. Итерируемые объекты](https://teach-in.ru/lecture/2024-10-09-Hiryanov) | [Конспект 3](https://colab.research.google.com/drive/1Z-pJ1CdlhFFNQfV-V8cr691w_MxCX1_8) | [ДЗ 3](https://contest.yandex.ru/contest/69221/problems/) | 27.10.2024 |
+|16.10.2024| [Лекция 4. Числовые данные](https://teach-in.ru/lecture/2024-10-16-Hiryanov) | [Конспект 4](https://colab.research.google.com/drive/1IydWpE3RHntFAeZZ-QJV3uBpLH_o_Zce) | [ДЗ 4](https://contest.yandex.ru/contest/69550/problems/) | 03.11.2024 |
+|23.10.2024| [Лекция 5. Списки в Python](https://teach-in.ru/lecture/2024-10-22-Hiryanov) | [Конспект 5](https://colab.research.google.com/drive/1Y9lqS9sjsbop3BKF_bKyfnM5ZPuNakKD) | [ДЗ 5](https://contest.yandex.ru/contest/69994/problems/) | 10.11.2024 |
+|06.11.2024| [Лекция 6. Частотный анализ, множества и словари](https://colab.research.google.com/drive/1kQgU31gK4F6L2JWPqv_GgCSJFGKThz0K) | [Конспект 6](https://colab.research.google.com/drive/1kQgU31gK4F6L2JWPqv_GgCSJFGKThz0K) | [ДЗ 6](https://contest.yandex.ru/contest/70841/problems/) | 24.11.2024 |
 
 * [RUTUBE плейлист с видеозаписями лекций](https://rutube.ru/plst/593731/)
 
