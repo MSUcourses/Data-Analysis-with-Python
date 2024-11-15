@@ -24,8 +24,7 @@
 |16.10.2024| [Лекция 4. Числовые данные](https://teach-in.ru/lecture/2024-10-16-Hiryanov) | [Конспект 4](https://colab.research.google.com/drive/1IydWpE3RHntFAeZZ-QJV3uBpLH_o_Zce) | [ДЗ 4](https://contest.yandex.ru/contest/69550/problems/) | 03.11.2024 |
 |23.10.2024| [Лекция 5. Списки в Python](https://teach-in.ru/lecture/2024-10-22-Hiryanov) | [Конспект 5](https://colab.research.google.com/drive/1Y9lqS9sjsbop3BKF_bKyfnM5ZPuNakKD) | [ДЗ 5](https://contest.yandex.ru/contest/69994/problems/) | 10.11.2024 |
 |06.11.2024| [Лекция 6. Частотный анализ, множества и словари](https://vk.com/video813841893_456239020?list=ln-aUl5hHI2TQ7AKmB5IZ) | [Конспект 6](https://colab.research.google.com/drive/1kQgU31gK4F6L2JWPqv_GgCSJFGKThz0K) | [ДЗ 6](https://contest.yandex.ru/contest/70841/problems/) | 24.11.2024 |
-
-* [RUTUBE плейлист с видеозаписями лекций](https://rutube.ru/plst/593731/)
+|13.11.2024| [Лекция 7. Библиотека Matplotlib и введение в Numpy](https://vk.com/video813841893_456239021?list=ln-tgY56JmLhaSWDhV2zn) | [Конспект 7](https://colab.research.google.com/drive/1ajRFVxieEXN0tQIKGklIDTfLidssNe67) | [ДЗ 7](https://contest.yandex.ru/contest/71157/problems/) | 01.12.2024 |
 
 ## 📝 Ссылки и дополнительная литература
 
