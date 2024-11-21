@@ -26,6 +26,8 @@
 |06.11.2024| [Лекция 6. Частотный анализ, множества и словари](https://vk.com/video813841893_456239020?list=ln-aUl5hHI2TQ7AKmB5IZ) | [Конспект 6](https://colab.research.google.com/drive/1kQgU31gK4F6L2JWPqv_GgCSJFGKThz0K) | [ДЗ 6](https://contest.yandex.ru/contest/70841/problems/) | 24.11.2024 |
 |13.11.2024| [Лекция 7. Библиотека Matplotlib и введение в Numpy](https://vk.com/video813841893_456239021?list=ln-tgY56JmLhaSWDhV2zn) | [Конспект 7](https://colab.research.google.com/drive/1ajRFVxieEXN0tQIKGklIDTfLidssNe67) | [ДЗ 7](https://contest.yandex.ru/contest/71157/problems/) | 01.12.2024 |
 
+Видеозаписи лекций также доступны на сайте [teach-in](https://teach-in.ru/course/python-programming-and-data-analysis-basics-2024).
+
 ## 📝 Ссылки и дополнительная литература
 
 * Сервисы для практики основных навыков
