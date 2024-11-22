@@ -23,8 +23,9 @@
 |23.10.2024| [Лекция 5. Transfer Learning](https://teach-in.ru/lecture/2024-10-23-Artamonov-2) | [Конспект 5](https://colab.research.google.com/drive/1FgzC6ZwZTnpme5JZKvEYtduGq56A6lBR?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/70002/problems/) | 10.11.2024 |
 |06.11.2024| [Лекция 6. Эмбеддинги, word2vec](https://rutube.ru/video/private/161a879bf1986b4762a7ca5f37710082/?p=POCBBRftc24NXsCovgKtfw) | [Конспект 6](https://colab.research.google.com/drive/160u2lVYTMPDPEFpa4ZfYa52YAx9d6xjb) | [ДЗ 6](https://contest.yandex.ru/contest/70749/problems/) | 24.11.2024 |
 |13.11.2024| [Лекция 7. RNN и классификация текста](https://rutube.ru/video/private/c5275ac2e0b9b932736c861c51099b54/?r=wd&p=g_M-gUGoTcnm6hPnRJ0XqQ) | [Конспект 7](https://colab.research.google.com/drive/1lpmcAd46ytFA30Pn_X3KNxUJ-hl1eU_7#scrollTo=mB0wDyZjrxKF ) | [ДЗ 7](https://contest.yandex.ru/contest/71281/problems/) | 01.12.2024 |
+|20.11.2024| [Лекция 8. Языковое моделирование](https://rutube.ru/video/private/aab0f91c8e9883f6df480a64bdbe9810/?p=dEGQRXN-we7QivmQyr4C7Q) | [Конспект 8](https://colab.research.google.com/drive/15aVdpWAOx_XncukjdvQfQ7JTLX3vtJlE) | [ДЗ 8](https://contest.yandex.ru/contest/71452/problems/) | 08.12.2024 |
 
-* [YouTube плейлист с видеозаписями лекций](https://youtube.com/playlist?list=PLcsjsqLLSfNDMmVI4MY231fYaMgfBT7oz&feature=shared)
+* [Rutube плейлист с видеозаписями лекций](https://rutube.ru/plst/593734)
 
 ## 📝 Ссылки и дополнительная литература
 
