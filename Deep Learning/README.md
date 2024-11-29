@@ -24,6 +24,7 @@
 |06.11.2024| [Лекция 6. Эмбеддинги, word2vec](https://rutube.ru/video/private/161a879bf1986b4762a7ca5f37710082/?p=POCBBRftc24NXsCovgKtfw) | [Конспект 6](https://colab.research.google.com/drive/160u2lVYTMPDPEFpa4ZfYa52YAx9d6xjb) | [ДЗ 6](https://contest.yandex.ru/contest/70749/problems/) | 24.11.2024 |
 |13.11.2024| [Лекция 7. RNN и классификация текста](https://rutube.ru/video/private/c5275ac2e0b9b932736c861c51099b54/?r=wd&p=g_M-gUGoTcnm6hPnRJ0XqQ) | [Конспект 7](https://colab.research.google.com/drive/1lpmcAd46ytFA30Pn_X3KNxUJ-hl1eU_7#scrollTo=mB0wDyZjrxKF ) | [ДЗ 7](https://contest.yandex.ru/contest/71281/problems/) | 01.12.2024 |
 |20.11.2024| [Лекция 8. Языковое моделирование](https://rutube.ru/video/private/aab0f91c8e9883f6df480a64bdbe9810/?p=dEGQRXN-we7QivmQyr4C7Q) | [Конспект 8](https://colab.research.google.com/drive/15aVdpWAOx_XncukjdvQfQ7JTLX3vtJlE) | [ДЗ 8](https://contest.yandex.ru/contest/71452/problems/) | 08.12.2024 |
+|27.11.2024| [Лекция 9. Задача машинного перевода (seq2seq). Механизм Attention](https://rutube.ru/video/f1fedc4a09ddcb92e95e17c7669b4a58/) | [Конспект 9](https://colab.research.google.com/drive/12mrsHR-34pDS5sLpo4CJj2e74U9i1ycf) | [ДЗ 9](https://contest.yandex.ru/contest/72003/problems/) | 15.12.2024 |
 
 * [Rutube плейлист с видеозаписями лекций](https://rutube.ru/plst/593734)
 
