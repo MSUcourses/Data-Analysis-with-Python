@@ -27,9 +27,9 @@
 |13.11.2024| [Лекция 7. Библиотека Matplotlib и введение в Numpy](https://teach-in.ru/lecture/2024-11-13-Hiryanov) | [Конспект 7](https://colab.research.google.com/drive/1ajRFVxieEXN0tQIKGklIDTfLidssNe67) | [ДЗ 7](https://contest.yandex.ru/contest/71157/problems/) | 01.12.2024 |
 |20.11.2024| [Лекция 8. Библиотека NumPy и введение в статистику](https://vk.com/video813841893_456239022?list=ln-4Whx73d72iKDbJVwom) | [Конспект 8](https://colab.research.google.com/drive/13qFYpk--vpeP4OJEduAmSiUv5Ebla9uK) | [ДЗ 8](https://contest.yandex.ru/contest/71449/problems/) | 08.12.2024 ||20.11.2024|
 |27.11.2024| [Лекция 9. Логика и библиотеки NumPy и Pandas](https://live.vkvideo.ru/19790858/record/de6998a8-41b0-4b6b-9047-9bb639a69107/video) | [Конспект 9](https://colab.research.google.com/drive/1IyZwWGLlQkeYCvVnafiLEyHsaFFleapo) | [ДЗ 9](https://contest.yandex.ru/contest/71973/problems/) | 15.12.2024 |
-|04.12.2024| [Лекция 10. ]() | [Конспект 10]() | [ДЗ 10]() |  | 18.12.2024 |
-|11.12.2024| [Лекция 11. ]() | [Конспект 11]() | [ДЗ 11]() |  | 20.12.2024 |
-|18.12.2024| [Лекция 12. ]() | [Конспект 12]() | --- | --- | --- |
+|04.12.2024| [Лекция 10. Библиотека Pandas]() | [Конспект 10]() | [ДЗ 10](https://contest.yandex.ru/contest/72090/problems/) | 18.12.2024 |
+|11.12.2024| [Лекция 11. ]() | [Конспект 11]() | [ДЗ 11]() | 20.12.2024 |
+|18.12.2024| [Лекция 12. ]() | [Конспект 12]() | --- | --- |
 
 Видеозаписи лекций также доступны на сайте [teach-in](https://teach-in.ru/course/python-programming-and-data-analysis-basics-2024).
 
