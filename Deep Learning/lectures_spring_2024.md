@@ -25,7 +25,7 @@
 |20.03.2024| [Лекция 7. RNN и классификация текста](https://www.youtube.com/live/teZW5M6mRCk) | [Конспект 7](https://colab.research.google.com/drive/1lpmcAd46ytFA30Pn_X3KNxUJ-hl1eU_7) |
 |27.03.2024| [Лекция 8. Языковое моделирование](https://www.youtube.com/live/bkqErlZ_Seo) | [Конспект 8](https://colab.research.google.com/drive/15aVdpWAOx_XncukjdvQfQ7JTLX3vtJlE?usp=sharing) |
 |03.04.2024| [Лекция 9. Задача машинного перевода (seq2seq). Механизм Attention](https://youtube.com/live/4v0Cukr3rGw) | [Конспект 9](https://colab.research.google.com/drive/12mrsHR-34pDS5sLpo4CJj2e74U9i1ycf?usp=sharing) |
-|17.04.2024| [Лекция 10. Компьютерное зрение. Сегментация и детекция.](https://www.youtube.com/live/YxSfNAfTJb4) | [Конспект 10](https://colab.research.google.com/drive/1CFrG3lJ81YYg20wngUQyfds_1kMQykps) |
+|17.04.2024| [Лекция 10. Компьютерное зрение. Сегментация и детекция](https://www.youtube.com/live/YxSfNAfTJb4) | [Конспект 10](https://colab.research.google.com/drive/1CFrG3lJ81YYg20wngUQyfds_1kMQykps) |
 |24.04.2024| [Лекция 11. Компьютерное зрение. Autoencoders & GANs](https://www.youtube.com/live/eqUKI6TN9j0) | [Конспект 11](https://colab.research.google.com/drive/125yknzOKmSmh6KrhRBoFWTBNIxrd-wRM) |
 |08.05.2024| [Лекция 12. Что дальше?](https://youtu.be/AYpgDDwgewQ) | [Конспект 12](https://docs.google.com/presentation/d/1c1qDZGxXhnJ_puqCIyPysLmgH5TlFZ9z/edit) |
 
