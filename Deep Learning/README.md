@@ -25,7 +25,7 @@
 |13.11.2024| [Лекция 7. RNN и классификация текста](https://teach-in.ru/lecture/2024-11-13-Artamonov-2) | [Конспект 7](https://colab.research.google.com/drive/1lpmcAd46ytFA30Pn_X3KNxUJ-hl1eU_7#scrollTo=mB0wDyZjrxKF ) | [ДЗ 7](https://contest.yandex.ru/contest/71281/problems/) | 01.12.2024 |
 |20.11.2024| [Лекция 8. Языковое моделирование](https://teach-in.ru/lecture/2024-11-20-Artamonov-2) | [Конспект 8](https://colab.research.google.com/drive/15aVdpWAOx_XncukjdvQfQ7JTLX3vtJlE) | [ДЗ 8](https://contest.yandex.ru/contest/71452/problems/) | 08.12.2024 |
 |27.11.2024| [Лекция 9. Задача машинного перевода (seq2seq). Механизм Attention](https://rutube.ru/video/f1fedc4a09ddcb92e95e17c7669b4a58/) | [Конспект 9](https://colab.research.google.com/drive/12mrsHR-34pDS5sLpo4CJj2e74U9i1ycf) | [ДЗ 9](https://contest.yandex.ru/contest/72003/problems/) | 15.12.2024 |
-|04.12.2024| [Лекция 10. ]() | [Конспект 10]() | [ДЗ 10]() |  | 18.12.2024 |
+|04.12.2024| [Лекция 10. Компьютерное зрение. Сегментация и детекция](https://rutube.ru/video/303045847a0326786acc3614935bff81/) | [Конспект 10]() | [ДЗ 10](https://contest.yandex.ru/contest/72275/problems/) | 18.12.2024 |
 |11.12.2024| [Лекция 11. ]() | [Конспект 11]() | [ДЗ 11]() |  | 20.12.2024 |
 |18.12.2024| [Лекция 12. ]() | [Конспект 12]() | --- | --- | --- |
 
