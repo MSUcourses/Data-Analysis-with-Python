@@ -24,10 +24,10 @@
 |06.11.2024| [Лекция 6. Эмбеддинги, word2vec](https://teach-in.ru/lecture/2024-11-06-Artamonov-2) | [Конспект 6](https://colab.research.google.com/drive/160u2lVYTMPDPEFpa4ZfYa52YAx9d6xjb) | [ДЗ 6](https://contest.yandex.ru/contest/70749/problems/) | 24.11.2024 |
 |13.11.2024| [Лекция 7. RNN и классификация текста](https://teach-in.ru/lecture/2024-11-13-Artamonov-2) | [Конспект 7](https://colab.research.google.com/drive/1lpmcAd46ytFA30Pn_X3KNxUJ-hl1eU_7#scrollTo=mB0wDyZjrxKF ) | [ДЗ 7](https://contest.yandex.ru/contest/71281/problems/) | 01.12.2024 |
 |20.11.2024| [Лекция 8. Языковое моделирование](https://teach-in.ru/lecture/2024-11-20-Artamonov-2) | [Конспект 8](https://colab.research.google.com/drive/15aVdpWAOx_XncukjdvQfQ7JTLX3vtJlE) | [ДЗ 8](https://contest.yandex.ru/contest/71452/problems/) | 08.12.2024 |
-|27.11.2024| [Лекция 9. Задача машинного перевода (seq2seq). Механизм Attention](https://rutube.ru/video/f1fedc4a09ddcb92e95e17c7669b4a58/) | [Конспект 9](https://colab.research.google.com/drive/12mrsHR-34pDS5sLpo4CJj2e74U9i1ycf) | [ДЗ 9](https://contest.yandex.ru/contest/72003/problems/) | 15.12.2024 |
-|04.12.2024| [Лекция 10. Компьютерное зрение. Сегментация и детекция](https://rutube.ru/video/303045847a0326786acc3614935bff81/) | [Конспект 10](https://colab.research.google.com/drive/1KOrDYLKY6PpHgyDTdIHvAXvNcqGzqAsk) | [ДЗ 10](https://contest.yandex.ru/contest/72275/problems/) | 18.12.2024 |
+|27.11.2024| [Лекция 9. Задача машинного перевода (seq2seq). Механизм Attention](https://teach-in.ru/lecture/2024-11-27-Artamonov-2) | [Конспект 9](https://colab.research.google.com/drive/12mrsHR-34pDS5sLpo4CJj2e74U9i1ycf) | [ДЗ 9](https://contest.yandex.ru/contest/72003/problems/) | 15.12.2024 |
+|04.12.2024| [Лекция 10. Компьютерное зрение. Сегментация и детекция](https://teach-in.ru/lecture/2024-12-04-Artamonov-2) | [Конспект 10](https://colab.research.google.com/drive/1KOrDYLKY6PpHgyDTdIHvAXvNcqGzqAsk) | [ДЗ 10](https://contest.yandex.ru/contest/72275/problems/) | 18.12.2024 |
 |11.12.2024| [Лекция 11. Компьютерное зрение. Autoencoders & GANs](https://rutube.ru/video/b93692e11ab4cd6617e2fd49a976322f/?t=33&r=plwd) | [Конспект 11](https://colab.research.google.com/drive/1ZGn0jDh5LsC_QYBzJU-pcqXpUNXxDAsT) | [ДЗ 11](https://contest.yandex.ru/contest/72565/problems/) | 20.12.2024 |
-|18.12.2024| [Лекция 12. ]() | [Конспект 12]() | --- | --- | --- |
+|18.12.2024| [Лекция 12. Что дальше?](https://rutube.ru/video/e168eb239cb3760d1ad63a8dfa4e3398/) | [Презентация](https://docs.google.com/presentation/d/1c1qDZGxXhnJ_puqCIyPysLmgH5TlFZ9z/edit) | --- | --- | --- |
 
 * [Rutube плейлист с видеозаписями лекций](https://rutube.ru/plst/593734)
 
