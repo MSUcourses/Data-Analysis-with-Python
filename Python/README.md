@@ -28,7 +28,7 @@
 |20.11.2024| [Лекция 8. Библиотека NumPy и введение в статистику](https://teach-in.ru/lecture/2024-11-20-Hiryanov) | [Конспект 8](https://colab.research.google.com/drive/13qFYpk--vpeP4OJEduAmSiUv5Ebla9uK) | [ДЗ 8](https://contest.yandex.ru/contest/71449/problems/) | 08.12.2024 ||20.11.2024|
 |27.11.2024| [Лекция 9. Логика и библиотеки NumPy и Pandas](https://teach-in.ru/lecture/2024-11-27-Hiryanov) | [Конспект 9](https://colab.research.google.com/drive/1IyZwWGLlQkeYCvVnafiLEyHsaFFleapo) | [ДЗ 9](https://contest.yandex.ru/contest/71973/problems/) | 15.12.2024 |
 |04.12.2024| [Лекция 10. Библиотека Pandas](https://teach-in.ru/lecture/2024-12-04-Hiryanov) | [Конспект 10](https://colab.research.google.com/drive/1nS5U-vy99Ecx1gzlG0xYhkIjqlqbeoN9) | [ДЗ 10](https://contest.yandex.ru/contest/72090/problems/) | 18.12.2024 |
-|11.12.2024| [Лекция 11. Объектно-ориентированное программирование](https://vkvideo.ru/video813841893_456239023) | [Конспект 11](https://colab.research.google.com/drive/1FkJMgTxYiM8S0blDckkbhmSDG5RugxKB ) | [ДЗ 11](https://contest.yandex.ru/contest/72563/problems/) | 20.12.2024 |
+|11.12.2024| [Лекция 11. Объектно-ориентированное программирование](https://teach-in.ru/lecture/2024-12-11-Hiryanov) | [Конспект 11](https://colab.research.google.com/drive/1FkJMgTxYiM8S0blDckkbhmSDG5RugxKB ) | [ДЗ 11](https://contest.yandex.ru/contest/72563/problems/) | 20.12.2024 |
 |18.12.2024| [Лекция 12. Реляционные базы данных](https://vkvideo.ru/video813841893_456239026) | [Конспект 12](https://colab.research.google.com/drive/1Oe3arJ3tLE41ITxxjJJDEr4DgnYSib32?usp=sharing) | --- | --- |
 
 Видеозаписи лекций также доступны на сайте [teach-in](https://teach-in.ru/course/python-programming-and-data-analysis-basics-2024).
