@@ -8,7 +8,7 @@
 |16.03.2022| [Лекция 4. Циклы](https://youtu.be/JMD3Ebgtu2U) | [Конспект 4](https://colab.research.google.com/drive/1ot3iwkXOrvjmSBq-7Sp44hcX4kI8qImX) |||
 |23.03.2022| [Лекция 5. Итерируемые объекты. Списки](https://youtu.be/Z-2JEYs5VKM) | [Конспект 5](https://colab.research.google.com/drive/1a_L0UasTAHsKqZBJTfCHP-3t6MzKTght) |||
 |30.03.2022| [Лекция 6. Срезы списков](https://youtu.be/tlp2R6uKBfw) | [Конспект 6](https://colab.research.google.com/drive/1VKFjlq1-snDul4w1MG-KjfNQmjaoANeM) |||
-|06.04.2022| [Лекция 7. Работа с текстовой информацией](https://youtu.be/OA9OiCuNlOI) | [Конспект 7](https://colab.research.google.com/drive/18FSI8rTF1zPFeFziXGuJb4DxKGL4zHiK#scrollTo=v1dDApJVbhF3) |||
+|06.04.2022| [Лекция 7. Работа с текстовой информацией](https://youtu.be/OA9OiCuNlOI) | [Конспект 7](https://colab.research.google.com/drive/18FSI8rTF1zPFeFziXGuJb4DxKGL4zHiK) |||
 |13.04.2022| [Лекция 8. Функции. Модули, пакеты](https://youtu.be/LuqdvFE3ULk) | [Конспект 8](https://colab.research.google.com/drive/1n_t9HiGdRUOGmNYJJlgRO8H1-WHttARz) |||
 |20.04.2022| [Лекция 9. Модули, пакеты (библиотеки)](https://youtu.be/WhH4l578shk) | [Конспект 9](https://colab.research.google.com/drive/1B8qrUa_-fAJgCIIkwNu4MDjOQZZydNt8?usp=sharing) |||
 |27.04.2022| [Лекция 10. Множества и словари](https://youtu.be/XD-l0Nhi_iY) | [Конспект 10](https://colab.research.google.com/drive/1xOlvt5vjIiT0V-1jBBYWCm1Cq9LXcrH2) |||
