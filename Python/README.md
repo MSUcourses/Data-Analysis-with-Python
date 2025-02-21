@@ -16,20 +16,20 @@
 
 ## 📋 Содержание
 
-Дата лекции |Запись лекции | Конспект | Домашнее задание | Дедлайн сдачи
-|:----:|----|----|:----:|:----:|
-|25.09.2024| [Лекция 1. Вводная лекция](https://teach-in.ru/lecture/2024-09-25-Hiryanov) | [Конспект 1](https://colab.research.google.com/drive/1WFXV_x0cWvLRRGbbbro-SzCUks3-ga3P) | [ДЗ 1](https://contest.yandex.ru/contest/68187/problems/) | 13.10.2024 |
-|02.10.2024| [Лекция 2. Текстовые данные](https://teach-in.ru/lecture/2024-10-02-Hiryanov) | [Конспект 2](https://colab.research.google.com/drive/1rbwSLGudi5A_VF5Bst05u6Mlx5TUPdCT) | [ДЗ 2](https://contest.yandex.ru/contest/68726/problems/) | 20.10.2024 |
-|09.10.2024| [Лекция 3. Итерируемые объекты](https://teach-in.ru/lecture/2024-10-09-Hiryanov) | [Конспект 3](https://colab.research.google.com/drive/1Z-pJ1CdlhFFNQfV-V8cr691w_MxCX1_8) | [ДЗ 3](https://contest.yandex.ru/contest/69221/problems/) | 27.10.2024 |
-|16.10.2024| [Лекция 4. Числовые данные](https://teach-in.ru/lecture/2024-10-16-Hiryanov) | [Конспект 4](https://colab.research.google.com/drive/1IydWpE3RHntFAeZZ-QJV3uBpLH_o_Zce) | [ДЗ 4](https://contest.yandex.ru/contest/69550/problems/) | 03.11.2024 |
-|23.10.2024| [Лекция 5. Списки в Python](https://teach-in.ru/lecture/2024-10-22-Hiryanov) | [Конспект 5](https://colab.research.google.com/drive/1Y9lqS9sjsbop3BKF_bKyfnM5ZPuNakKD) | [ДЗ 5](https://contest.yandex.ru/contest/69994/problems/) | 10.11.2024 |
-|06.11.2024| [Лекция 6. Частотный анализ, множества и словари](https://teach-in.ru/lecture/2024-11-06-Hiryanov) | [Конспект 6](https://colab.research.google.com/drive/1kQgU31gK4F6L2JWPqv_GgCSJFGKThz0K) | [ДЗ 6](https://contest.yandex.ru/contest/70841/problems/) | 24.11.2024 |
-|13.11.2024| [Лекция 7. Библиотека Matplotlib и введение в Numpy](https://teach-in.ru/lecture/2024-11-13-Hiryanov) | [Конспект 7](https://colab.research.google.com/drive/1ajRFVxieEXN0tQIKGklIDTfLidssNe67) | [ДЗ 7](https://contest.yandex.ru/contest/71157/problems/) | 01.12.2024 |
-|20.11.2024| [Лекция 8. Библиотека NumPy и введение в статистику](https://teach-in.ru/lecture/2024-11-20-Hiryanov) | [Конспект 8](https://colab.research.google.com/drive/13qFYpk--vpeP4OJEduAmSiUv5Ebla9uK) | [ДЗ 8](https://contest.yandex.ru/contest/71449/problems/) | 08.12.2024 ||20.11.2024|
-|27.11.2024| [Лекция 9. Логика и библиотеки NumPy и Pandas](https://teach-in.ru/lecture/2024-11-27-Hiryanov) | [Конспект 9](https://colab.research.google.com/drive/1IyZwWGLlQkeYCvVnafiLEyHsaFFleapo) | [ДЗ 9](https://contest.yandex.ru/contest/71973/problems/) | 15.12.2024 |
-|04.12.2024| [Лекция 10. Библиотека Pandas](https://teach-in.ru/lecture/2024-12-04-Hiryanov) | [Конспект 10](https://colab.research.google.com/drive/1nS5U-vy99Ecx1gzlG0xYhkIjqlqbeoN9) | [ДЗ 10](https://contest.yandex.ru/contest/72090/problems/) | 18.12.2024 |
-|11.12.2024| [Лекция 11. Объектно-ориентированное программирование](https://teach-in.ru/lecture/2024-12-11-Hiryanov) | [Конспект 11](https://colab.research.google.com/drive/1FkJMgTxYiM8S0blDckkbhmSDG5RugxKB ) | [ДЗ 11](https://contest.yandex.ru/contest/72563/problems/) | 20.12.2024 |
-|18.12.2024| [Лекция 12. Реляционные базы данных](https://vkvideo.ru/video813841893_456239026) | [Конспект 12](https://colab.research.google.com/drive/1Oe3arJ3tLE41ITxxjJJDEr4DgnYSib32?usp=sharing) | --- | --- |
+Дата лекции |Запись лекции | Конспект | 
+|:----:|----|----|
+|25.09.2024| [Лекция 1. Вводная лекция](https://teach-in.ru/lecture/2024-09-25-Hiryanov) | [Конспект 1](https://colab.research.google.com/drive/1WFXV_x0cWvLRRGbbbro-SzCUks3-ga3P) | 
+|02.10.2024| [Лекция 2. Текстовые данные](https://teach-in.ru/lecture/2024-10-02-Hiryanov) | [Конспект 2](https://colab.research.google.com/drive/1rbwSLGudi5A_VF5Bst05u6Mlx5TUPdCT) | 
+|09.10.2024| [Лекция 3. Итерируемые объекты](https://teach-in.ru/lecture/2024-10-09-Hiryanov) | [Конспект 3](https://colab.research.google.com/drive/1Z-pJ1CdlhFFNQfV-V8cr691w_MxCX1_8) |
+|16.10.2024| [Лекция 4. Числовые данные](https://teach-in.ru/lecture/2024-10-16-Hiryanov) | [Конспект 4](https://colab.research.google.com/drive/1IydWpE3RHntFAeZZ-QJV3uBpLH_o_Zce) |
+|23.10.2024| [Лекция 5. Списки в Python](https://teach-in.ru/lecture/2024-10-22-Hiryanov) | [Конспект 5](https://colab.research.google.com/drive/1Y9lqS9sjsbop3BKF_bKyfnM5ZPuNakKD) | 
+|06.11.2024| [Лекция 6. Частотный анализ, множества и словари](https://teach-in.ru/lecture/2024-11-06-Hiryanov) | [Конспект 6](https://colab.research.google.com/drive/1kQgU31gK4F6L2JWPqv_GgCSJFGKThz0K) |
+|13.11.2024| [Лекция 7. Библиотека Matplotlib и введение в Numpy](https://teach-in.ru/lecture/2024-11-13-Hiryanov) | [Конспект 7](https://colab.research.google.com/drive/1ajRFVxieEXN0tQIKGklIDTfLidssNe67) |
+|20.11.2024| [Лекция 8. Библиотека NumPy и введение в статистику](https://teach-in.ru/lecture/2024-11-20-Hiryanov) | [Конспект 8](https://colab.research.google.com/drive/13qFYpk--vpeP4OJEduAmSiUv5Ebla9uK) | 
+|27.11.2024| [Лекция 9. Логика и библиотеки NumPy и Pandas](https://teach-in.ru/lecture/2024-11-27-Hiryanov) | [Конспект 9](https://colab.research.google.com/drive/1IyZwWGLlQkeYCvVnafiLEyHsaFFleapo) |
+|04.12.2024| [Лекция 10. Библиотека Pandas](https://teach-in.ru/lecture/2024-12-04-Hiryanov) | [Конспект 10](https://colab.research.google.com/drive/1nS5U-vy99Ecx1gzlG0xYhkIjqlqbeoN9) |
+|11.12.2024| [Лекция 11. Объектно-ориентированное программирование](https://teach-in.ru/lecture/2024-12-11-Hiryanov) | [Конспект 11](https://colab.research.google.com/drive/1FkJMgTxYiM8S0blDckkbhmSDG5RugxKB ) | 
+|18.12.2024| [Лекция 12. Реляционные базы данных](https://vkvideo.ru/video813841893_456239026) | [Конспект 12](https://colab.research.google.com/drive/1Oe3arJ3tLE41ITxxjJJDEr4DgnYSib32?usp=sharing) | 
 
 Видеозаписи лекций также доступны на сайте [teach-in](https://teach-in.ru/course/python-programming-and-data-analysis-basics-2024).
 
