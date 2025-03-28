@@ -21,6 +21,7 @@
 |05.03.2025| [Лекция 3. Обучение по батчам, регуляризация](https://rutube.ru/video/private/a9071d18d77e198c071bf6031e4e6ebc/?p=L_h_PCvqnv2M4rbzQy16tg) | [Конспект 3](https://colab.research.google.com/drive/1Xx7vfWttf6FabC7OVZOhg63F3CW3RdkI) | [ДЗ 3](https://contest.yandex.ru/contest/75806/problems/)| 23.03.2025|
 |12.03.2025| [Лекция 4. Алгоритмы обработки изображений. Свёрточные нейронные сети ](https://rutube.ru/video/884e8a653307355fca037d1e0a1ef34e/?r=wd) | [Конспект 4](https://colab.research.google.com/drive/1d6q8tlWPGfM5wwDpLxYdAP5mI98WZpKF?usp=sharing) | [ДЗ 4](https://contest.yandex.ru/contest/75889/problems/)| 30.03.2025|
 |19.03.2025| [Лекция 5.  Transfer Learning](https://rutube.ru/video/e2d30a4839e7ea39ba9f680dc9f4dc30/?r=wd) | [Конспект 5](https://colab.research.google.com/drive/1ku0Hk9Ti1JpEwMS537doEmRKFIIVtvZD?usp=sharing) | [ДЗ 5](https://contest.yandex.ru/contest/76271/problems/)| 06.04.2025|
+|26.03.2025| [Лекция 6. Эмбеддинги, word2vec](https://rutube.ru/video/217e3e1fa2f52b674fa48708f737a7fb/?r=wd) | [Конспект 6](https://drive.google.com/file/d/160u2lVYTMPDPEFpa4ZfYa52YAx9d6xjb/view?usp=sharing) | [ДЗ 6](https://contest.yandex.ru/contest/76569/problems/)| 13.04.2025|
 
 ## 📝 Ссылки и дополнительная литература
 
