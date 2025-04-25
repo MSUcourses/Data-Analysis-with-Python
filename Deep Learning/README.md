@@ -25,7 +25,7 @@
 |02.04.2025| [Лекция 7. RNN и классификация текста](https://rutube.ru/video/61159f0d7a9a851f045b34025e84a1cd/?r=wd) | [Конспект 7](https://colab.research.google.com/drive/1lpmcAd46ytFA30Pn_X3KNxUJ-hl1eU_7) | [ДЗ 7](https://contest.yandex.ru/contest/76871/problems/)| 20.04.2025|
 |09.04.2025| [Лекция 8. Языковое моделирование](https://rutube.ru/video/bbe9ef92f0bb8db7232d9a778f4c41fe/) | [Конспект 8](https://colab.research.google.com/drive/15aVdpWAOx_XncukjdvQfQ7JTLX3vtJlE) | [ДЗ 8](https://contest.yandex.ru/contest/77173/problems/)| 27.04.2025|
 |16.04.2025| [Лекция 9. Задача машинного перевода (seq2seq). Механизм Attention](https://rutube.ru/video/d99d6a84af4baa5a36e29bb6c3966376/) | [Конспект 9](https://colab.research.google.com/drive/12mrsHR-34pDS5sLpo4CJj2e74U9i1ycf) | [ДЗ 9](https://contest.yandex.ru/contest/77464/problems/) | 04.05.2025|
-|23.04.2025| [Лекция 10. ]() | [Конспект 10]() | ДЗ 10 | 11.05.2025 |
+|23.04.2025| [Лекция 10. Трансформеры. Большие языковые модели](https://rutube.ru/video/ea9a300773e066b2f317cc71791a7478/) | [Конспект 10](https://colab.research.google.com/drive/100RtW-tkwTnh2tLlWCFCVWnAKYDJo7EQ) | [ДЗ 10](https://contest.yandex.ru/contest/77658/problems/) | 11.05.2025 |
 |30.04.2025| [Лекция 11. ]() | [Конспект 11]() | ДЗ 11 | 18.05.2025 |
 |07.05.2025| [Лекция 12. ]() | [Конспект 12]() | - | - |
 
