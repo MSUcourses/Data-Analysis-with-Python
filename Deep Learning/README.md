@@ -26,7 +26,7 @@
 |09.04.2025| [Лекция 8. Языковое моделирование](https://rutube.ru/video/bbe9ef92f0bb8db7232d9a778f4c41fe/) | [Конспект 8](https://colab.research.google.com/drive/15aVdpWAOx_XncukjdvQfQ7JTLX3vtJlE) | [ДЗ 8](https://contest.yandex.ru/contest/77173/problems/)| 27.04.2025|
 |16.04.2025| [Лекция 9. Задача машинного перевода (seq2seq). Механизм Attention](https://rutube.ru/video/d99d6a84af4baa5a36e29bb6c3966376/) | [Конспект 9](https://colab.research.google.com/drive/12mrsHR-34pDS5sLpo4CJj2e74U9i1ycf) | [ДЗ 9](https://contest.yandex.ru/contest/77464/problems/) | 04.05.2025|
 |23.04.2025| [Лекция 10. Трансформеры. Большие языковые модели](https://rutube.ru/video/ea9a300773e066b2f317cc71791a7478/) | [Конспект 10](https://colab.research.google.com/drive/100RtW-tkwTnh2tLlWCFCVWnAKYDJo7EQ) | [ДЗ 10](https://contest.yandex.ru/contest/77658/problems/) | 11.05.2025 |
-|30.04.2025| [Лекция 11. ]() | [Конспект 11]() | ДЗ 11 | 18.05.2025 |
+|30.04.2025| [Лекция 11. Компьютерное зрение. Autoencoders & GANs](https://rutube.ru/video/a6177bbc28b2a815b8a7c8a9fa323619/) | [Конспект 11](https://colab.research.google.com/drive/1z4_k5bLxe5ViOmCOcbubVKTjqz_koC49 ) | [ДЗ 11](https://contest.yandex.ru/contest/77921/problems/) | 18.05.2025 |
 |07.05.2025| [Лекция 12. ]() | [Конспект 12]() | - | - |
 
 ## 📝 Ссылки и дополнительная литература
