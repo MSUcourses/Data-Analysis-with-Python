@@ -21,7 +21,7 @@
 |05.03.2025| [Лекция 3. Обучение по батчам, регуляризация](https://rutube.ru/video/private/a9071d18d77e198c071bf6031e4e6ebc/?p=L_h_PCvqnv2M4rbzQy16tg) | [Конспект 3](https://colab.research.google.com/drive/1Xx7vfWttf6FabC7OVZOhg63F3CW3RdkI) | 
 |12.03.2025| [Лекция 4. Алгоритмы обработки изображений. Свёрточные нейронные сети ](https://rutube.ru/video/884e8a653307355fca037d1e0a1ef34e/?r=wd) | [Конспект 4](https://colab.research.google.com/drive/1d6q8tlWPGfM5wwDpLxYdAP5mI98WZpKF) | 
 |19.03.2025| [Лекция 5.  Transfer Learning](https://rutube.ru/video/e2d30a4839e7ea39ba9f680dc9f4dc30/?r=wd) | [Конспект 5](https://colab.research.google.com/drive/1ku0Hk9Ti1JpEwMS537doEmRKFIIVtvZD) |
-|26.03.2025| [Лекция 6. Эмбеддинги, word2vec](https://rutube.ru/video/217e3e1fa2f52b674fa48708f737a7fb/?r=wd) | [Конспект 6](https://drive.google.com/file/d/160u2lVYTMPDPEFpa4ZfYa52YAx9d6xjb) | 
+|26.03.2025| [Лекция 6. Эмбеддинги, word2vec](https://rutube.ru/video/217e3e1fa2f52b674fa48708f737a7fb/?r=wd) | [Конспект 6](https://colab.research.google.com/drive/160u2lVYTMPDPEFpa4ZfYa52YAx9d6xjb) | 
 |02.04.2025| [Лекция 7. RNN и классификация текста](https://rutube.ru/video/61159f0d7a9a851f045b34025e84a1cd/?r=wd) | [Конспект 7](https://colab.research.google.com/drive/1lpmcAd46ytFA30Pn_X3KNxUJ-hl1eU_7) | 
 |09.04.2025| [Лекция 8. Языковое моделирование](https://rutube.ru/video/bbe9ef92f0bb8db7232d9a778f4c41fe/) | [Конспект 8](https://colab.research.google.com/drive/15aVdpWAOx_XncukjdvQfQ7JTLX3vtJlE) | 
 |16.04.2025| [Лекция 9. Задача машинного перевода (seq2seq). Механизм Attention](https://rutube.ru/video/d99d6a84af4baa5a36e29bb6c3966376/) | [Конспект 9](https://colab.research.google.com/drive/12mrsHR-34pDS5sLpo4CJj2e74U9i1ycf) | 
