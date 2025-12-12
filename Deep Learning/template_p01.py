@@ -22,7 +22,18 @@ def multiplicative_attention(decoder_hidden_state, encoder_hidden_states, W_mult
     return: np.array of shape (n_features_enc, 1)
         Final attention vector
     '''
-    # your code here
+       # 1. 计算 Attention Scores (e_i = s^T W_mult h_i)
+    # 步骤 1a: 计算 W_mult @ s
+    temp_dec_proj = np.dot(W_mult, decoder_hidden_state) 
+    
+    # 步骤 1b: 计算 (temp_dec_proj)^T @ h
+    attention_scores = np.dot(temp_dec_proj.T, encoder_hidden_states)
+    
+    # 2. 计算 Attention Weights (Softmax)
+    attention_weights = softmax(attention_scores)
+    
+    # 3. 计算 Context Vector (加权求和)
+    attention_vector = np.dot(encoder_hidden_states, attention_weights.T)
     
     return attention_vector
 
@@ -37,6 +48,33 @@ def additive_attention(decoder_hidden_state, encoder_hidden_states, v_add, W_add
     return: np.array of shape (n_features_enc, 1)
         Final attention vector
     '''
-    # your code here
+    # 1. 投影 Q 和 K 到注意力空间 (n_features_int)
+    
+    # 1a. 解码器状态投影 (W_add_dec @ s)
+    # dec_proj 形状: (n_features_int, 1)
+    dec_proj = np.dot(W_add_dec, decoder_hidden_state)
+    
+    # 1b. 编码器状态投影 (W_add_enc @ h)
+    # enc_proj 形状: (n_features_int, n_states)
+    enc_proj = np.dot(W_add_enc, encoder_hidden_states)
+    
+    # 2. 相加并应用激活函数 (tanh)
+    # H_sum = W_add_enc h + W_add_dec s
+    # dec_proj (n_features_int, 1) 会自动广播到 enc_proj (n_features_int, n_states)
+    Sum_Proj = enc_proj + dec_proj
+    H_tanh = np.tanh(Sum_Proj)
+    
+    # 3. 计算 Attention Scores (e_i = v_add^T @ H_tanh)
+    # attention_scores 形状: (1, n_states)
+    attention_scores = np.dot(v_add.T, H_tanh)
+    
+    # 4. 计算 Attention Weights (Softmax)
+    # attention_weights 形状: (1, n_states)
+    attention_weights = softmax(attention_scores)
+    
+    # 5. 计算 Context Vector (加权求和)
+    # C = V @ alpha^T
+    # attention_vector 形状: (n_features_enc, 1)
+    attention_vector = np.dot(encoder_hidden_states, attention_weights.T)
     
     return attention_vector
